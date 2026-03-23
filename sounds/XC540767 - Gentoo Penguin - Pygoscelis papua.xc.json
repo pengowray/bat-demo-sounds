@@ -1,4 +1,7 @@
 {
+  "_app": {
+    "retrieved": "2026-02-26"
+  },
   "attribution": "Fabrice Schmitt, XC540767. Accessible at www.xeno-canto.org/540767",
   "cnt": "Antarctica",
   "date": "2017-01-17",
@@ -12,7 +15,6 @@
   "lon": "-62.6225",
   "q": "A",
   "rec": "Fabrice Schmitt",
-  "retrieved": "2026-02-26",
   "smp": 48000,
   "source": "xeno-canto",
   "sp": "papua",

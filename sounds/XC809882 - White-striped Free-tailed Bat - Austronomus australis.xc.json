@@ -1,4 +1,7 @@
 {
+  "_app": {
+    "retrieved": "2026-02-20"
+  },
   "attribution": "Marc Anderson, XC809882. Accessible at www.xeno-canto.org/809882",
   "cnt": "Australia",
   "date": "2015-10-13",
@@ -62,7 +65,6 @@
     "url": "//xeno-canto.org/809882"
   },
   "rec": "Marc Anderson",
-  "retrieved": "2026-02-20",
   "smp": 48000,
   "source": "xeno-canto",
   "sp": "australis",

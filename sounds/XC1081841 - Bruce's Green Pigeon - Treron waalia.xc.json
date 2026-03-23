@@ -1,4 +1,7 @@
 {
+  "_app": {
+    "retrieved": "2026-02-19"
+  },
   "attribution": "Peter Boesman, XC1081841. Accessible at www.xeno-canto.org/1081841",
   "cnt": "Senegal",
   "date": "2026-01-20",
@@ -60,7 +63,6 @@
     "url": "//xeno-canto.org/1081841"
   },
   "rec": "Peter Boesman",
-  "retrieved": "2026-02-19",
   "smp": 48000,
   "source": "xeno-canto",
   "sp": "waalia",

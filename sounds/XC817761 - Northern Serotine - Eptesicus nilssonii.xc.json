@@ -1,4 +1,7 @@
 {
+  "_app": {
+    "retrieved": "2026-02-20"
+  },
   "attribution": "Ulf Elman, XC817761. Accessible at www.xeno-canto.org/817761",
   "cnt": "Sweden",
   "date": "2023-07-18",
@@ -60,7 +63,6 @@
     "url": "//xeno-canto.org/817761"
   },
   "rec": "Ulf Elman",
-  "retrieved": "2026-02-20",
   "smp": 384000,
   "source": "xeno-canto",
   "sp": "nilssonii",

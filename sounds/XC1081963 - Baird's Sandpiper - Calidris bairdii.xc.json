@@ -1,4 +1,7 @@
 {
+  "_app": {
+    "retrieved": "2026-02-19"
+  },
   "attribution": "Aladdin, XC1081963. Accessible at www.xeno-canto.org/1081963",
   "cnt": "Chile",
   "date": "2026-02-18",
@@ -60,7 +63,6 @@
     "url": "//xeno-canto.org/1081963"
   },
   "rec": "Aladdin",
-  "retrieved": "2026-02-19",
   "smp": 44100,
   "source": "xeno-canto",
   "sp": "bairdii",
