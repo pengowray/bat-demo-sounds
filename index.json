@@ -95,6 +95,2414 @@
       "source": "xeno-canto",
       "species": "Panthera onca",
       "xc_id": 992981
+    },
+    {
+      "en": "Acuminate Horseshoe Bat",
+      "filename": "XC827655 - Acuminate Horseshoe Bat - Rhinolophus acuminatus.wav",
+      "metadata": "XC827655 - Acuminate Horseshoe Bat - Rhinolophus acuminatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus acuminatus",
+      "xc_id": 827655
+    },
+    {
+      "en": "African Long-fingered Bat",
+      "filename": "XC843532 - African Long-fingered Bat - Miniopterus africanus.wav",
+      "metadata": "XC843532 - African Long-fingered Bat - Miniopterus africanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Miniopterus africanus",
+      "xc_id": 843532
+    },
+    {
+      "en": "African Straw-colored Fruit Bat",
+      "filename": "XC981192 - African Straw-colored Fruit Bat - Eidolon helvum.mp3",
+      "metadata": "XC981192 - African Straw-colored Fruit Bat - Eidolon helvum.xc.json",
+      "source": "xeno-canto",
+      "species": "Eidolon helvum",
+      "xc_id": 981192
+    },
+    {
+      "en": "African Yellow Bat",
+      "filename": "XC843557 - African Yellow Bat - Scotophilus dinganii.wav",
+      "metadata": "XC843557 - African Yellow Bat - Scotophilus dinganii.xc.json",
+      "source": "xeno-canto",
+      "species": "Scotophilus dinganii",
+      "xc_id": 843557
+    },
+    {
+      "en": "Alcathoe Whiskered Myotis",
+      "filename": "XC1036989 - Alcathoe Whiskered Myotis - Myotis alcathoe.wav",
+      "metadata": "XC1036989 - Alcathoe Whiskered Myotis - Myotis alcathoe.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis alcathoe",
+      "xc_id": 1036989
+    },
+    {
+      "en": "Alcathoe Whiskered Myotis",
+      "filename": "XC822581 - Alcathoe Whiskered Myotis - Myotis alcathoe.wav",
+      "metadata": "XC822581 - Alcathoe Whiskered Myotis - Myotis alcathoe.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis alcathoe",
+      "xc_id": 822581
+    },
+    {
+      "en": "Allen's Big-eared Bat",
+      "filename": "XC1025248 - Allen's Big-eared Bat - Idionycteris phyllotis.wav",
+      "metadata": "XC1025248 - Allen's Big-eared Bat - Idionycteris phyllotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Idionycteris phyllotis",
+      "xc_id": 1025248
+    },
+    {
+      "en": "Allen's Big-eared Bat",
+      "filename": "XC1025247 - Allen's Big-eared Bat - Idionycteris phyllotis.wav",
+      "metadata": "XC1025247 - Allen's Big-eared Bat - Idionycteris phyllotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Idionycteris phyllotis",
+      "xc_id": 1025247
+    },
+    {
+      "en": "Alpine Long-eared Bat",
+      "filename": "XC805652 - Alpine Long-eared Bat - Plecotus macrobullaris.wav",
+      "metadata": "XC805652 - Alpine Long-eared Bat - Plecotus macrobullaris.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus macrobullaris",
+      "xc_id": 805652
+    },
+    {
+      "en": "Alvarez's Mastiff Bat",
+      "filename": "XC838116 - Alvarez's Mastiff Bat - Molossus alvarezi.wav",
+      "metadata": "XC838116 - Alvarez's Mastiff Bat - Molossus alvarezi.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus alvarezi",
+      "xc_id": 838116
+    },
+    {
+      "en": "Andaman Horseshoe Bat",
+      "filename": "XC981817 - Andaman Horseshoe Bat - Rhinolophus cognatus.wav",
+      "metadata": "XC981817 - Andaman Horseshoe Bat - Rhinolophus cognatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus cognatus",
+      "xc_id": 981817
+    },
+    {
+      "en": "Arabian Barbastelle",
+      "filename": "XC805944 - Arabian Barbastelle - Barbastella leucomelas.wav",
+      "metadata": "XC805944 - Arabian Barbastelle - Barbastella leucomelas.xc.json",
+      "source": "xeno-canto",
+      "species": "Barbastella leucomelas",
+      "xc_id": 805944
+    },
+    {
+      "en": "Arabian Mouse-tailed Bat",
+      "filename": "XC806287 - Arabian Mouse-tailed Bat - Rhinopoma cystops.wav",
+      "metadata": "XC806287 - Arabian Mouse-tailed Bat - Rhinopoma cystops.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinopoma cystops",
+      "xc_id": 806287
+    },
+    {
+      "en": "Argentine Serotine",
+      "filename": "XC805281 - Argentine Serotine - Eptesicus furinalis.wav",
+      "metadata": "XC805281 - Argentine Serotine - Eptesicus furinalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus furinalis",
+      "xc_id": 805281
+    },
+    {
+      "en": "Banana Serotine",
+      "filename": "XC1002565 - Banana Serotine - Afronycteris nanus.wav",
+      "metadata": "XC1002565 - Banana Serotine - Afronycteris nanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Afronycteris nanus",
+      "xc_id": 1002565
+    },
+    {
+      "en": "Bare-rumped Sheath-tailed Bat",
+      "filename": "XC1059617 - Bare-rumped Sheath-tailed Bat - Saccolaimus saccolaimus.wav",
+      "metadata": "XC1059617 - Bare-rumped Sheath-tailed Bat - Saccolaimus saccolaimus.xc.json",
+      "source": "xeno-canto",
+      "species": "Saccolaimus saccolaimus",
+      "xc_id": 1059617
+    },
+    {
+      "en": "Bechstein's Myotis",
+      "filename": "XC830023 - Bechstein's Myotis - Myotis bechsteinii.wav",
+      "metadata": "XC830023 - Bechstein's Myotis - Myotis bechsteinii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis bechsteinii",
+      "xc_id": 830023
+    },
+    {
+      "en": "Bechstein's Myotis",
+      "filename": "XC830021 - Bechstein's Myotis - Myotis bechsteinii.wav",
+      "metadata": "XC830021 - Bechstein's Myotis - Myotis bechsteinii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis bechsteinii",
+      "xc_id": 830021
+    },
+    {
+      "en": "Big Brown Bat",
+      "filename": "XC883290 - Big Brown Bat - Eptesicus fuscus.wav",
+      "metadata": "XC883290 - Big Brown Bat - Eptesicus fuscus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus fuscus",
+      "xc_id": 883290
+    },
+    {
+      "en": "Big Brown Bat",
+      "filename": "XC889809 - Big Brown Bat - Eptesicus fuscus.wav",
+      "metadata": "XC889809 - Big Brown Bat - Eptesicus fuscus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus fuscus",
+      "xc_id": 889809
+    },
+    {
+      "en": "Big Crested Mastiff Bat",
+      "filename": "XC1016176 - Big Crested Mastiff Bat - Promops centralis.wav",
+      "metadata": "XC1016176 - Big Crested Mastiff Bat - Promops centralis.xc.json",
+      "source": "xeno-canto",
+      "species": "Promops centralis",
+      "xc_id": 1016176
+    },
+    {
+      "en": "Big Crested Mastiff Bat",
+      "filename": "XC1027138 - Big Crested Mastiff Bat - Promops centralis.wav",
+      "metadata": "XC1027138 - Big Crested Mastiff Bat - Promops centralis.xc.json",
+      "source": "xeno-canto",
+      "species": "Promops centralis",
+      "xc_id": 1027138
+    },
+    {
+      "en": "Big Free-tailed Bat",
+      "filename": "XC891469 - Big Free-tailed Bat - Nyctinomops macrotis.wav",
+      "metadata": "XC891469 - Big Free-tailed Bat - Nyctinomops macrotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctinomops macrotis",
+      "xc_id": 891469
+    },
+    {
+      "en": "Big Naked-backed Bat",
+      "filename": "XC819300 - Big Naked-backed Bat - Pteronotus gymnonotus.wav",
+      "metadata": "XC819300 - Big Naked-backed Bat - Pteronotus gymnonotus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus gymnonotus",
+      "xc_id": 819300
+    },
+    {
+      "en": "Big Naked-backed Bat",
+      "filename": "XC819299 - Big Naked-backed Bat - Pteronotus gymnonotus.wav",
+      "metadata": "XC819299 - Big Naked-backed Bat - Pteronotus gymnonotus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus gymnonotus",
+      "xc_id": 819299
+    },
+    {
+      "en": "Big Red Bat",
+      "filename": "XC910437 - Big Red Bat - Aeorestes egregius.wav",
+      "metadata": "XC910437 - Big Red Bat - Aeorestes egregius.xc.json",
+      "source": "xeno-canto",
+      "species": "Aeorestes egregius",
+      "xc_id": 910437
+    },
+    {
+      "en": "Bird-like Noctule",
+      "filename": "XC954775 - Bird-like Noctule - Nyctalus aviator.wav",
+      "metadata": "XC954775 - Bird-like Noctule - Nyctalus aviator.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus aviator",
+      "xc_id": 954775
+    },
+    {
+      "en": "Bird-like Noctule",
+      "filename": "XC840308 - Bird-like Noctule - Nyctalus aviator.wav",
+      "metadata": "XC840308 - Bird-like Noctule - Nyctalus aviator.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus aviator",
+      "xc_id": 840308
+    },
+    {
+      "en": "Black Bonneted Bat",
+      "filename": "XC1063243 - Black Bonneted Bat - Eumops auripendulus.wav",
+      "metadata": "XC1063243 - Black Bonneted Bat - Eumops auripendulus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eumops auripendulus",
+      "xc_id": 1063243
+    },
+    {
+      "en": "Black Flying Fox",
+      "filename": "XC892144 - Black Flying Fox - Pteropus alecto.wav",
+      "metadata": "XC892144 - Black Flying Fox - Pteropus alecto.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus alecto",
+      "xc_id": 892144
+    },
+    {
+      "en": "Black Flying Fox",
+      "filename": "XC892143 - Black Flying Fox - Pteropus alecto.wav",
+      "metadata": "XC892143 - Black Flying Fox - Pteropus alecto.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus alecto",
+      "xc_id": 892143
+    },
+    {
+      "en": "Black-bearded Tomb Bat",
+      "filename": "XC1058571 - Black-bearded Tomb Bat - Taphozous melanopogon.wav",
+      "metadata": "XC1058571 - Black-bearded Tomb Bat - Taphozous melanopogon.xc.json",
+      "source": "xeno-canto",
+      "species": "Taphozous melanopogon",
+      "xc_id": 1058571
+    },
+    {
+      "en": "Black-winged Little Yellow Bat",
+      "filename": "XC822922 - Black-winged Little Yellow Bat - Rhogeessa tumida.wav",
+      "metadata": "XC822922 - Black-winged Little Yellow Bat - Rhogeessa tumida.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhogeessa tumida",
+      "xc_id": 822922
+    },
+    {
+      "en": "Black-winged Little Yellow Bat",
+      "filename": "XC822921 - Black-winged Little Yellow Bat - Rhogeessa tumida.wav",
+      "metadata": "XC822921 - Black-winged Little Yellow Bat - Rhogeessa tumida.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhogeessa tumida",
+      "xc_id": 822921
+    },
+    {
+      "en": "Blasius's Horseshoe Bat",
+      "filename": "XC1061986 - Blasius's Horseshoe Bat - Rhinolophus blasii.wav",
+      "metadata": "XC1061986 - Blasius's Horseshoe Bat - Rhinolophus blasii.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus blasii",
+      "xc_id": 1061986
+    },
+    {
+      "en": "Blasius's Horseshoe Bat",
+      "filename": "XC1061984 - Blasius's Horseshoe Bat - Rhinolophus blasii.wav",
+      "metadata": "XC1061984 - Blasius's Horseshoe Bat - Rhinolophus blasii.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus blasii",
+      "xc_id": 1061984
+    },
+    {
+      "en": "Blunt-eared Bat",
+      "filename": "XC822005 - Blunt-eared Bat - Tomopeas ravus.wav",
+      "metadata": "XC822005 - Blunt-eared Bat - Tomopeas ravus.xc.json",
+      "source": "xeno-canto",
+      "species": "Tomopeas ravus",
+      "xc_id": 822005
+    },
+    {
+      "en": "Bocage's Myotis",
+      "filename": "XC1002576 - Bocage's Myotis - Myotis bocagii.wav",
+      "metadata": "XC1002576 - Bocage's Myotis - Myotis bocagii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis bocagii",
+      "xc_id": 1002576
+    },
+    {
+      "en": "Bornean Horseshoe Bat",
+      "filename": "XC827322 - Bornean Horseshoe Bat - Rhinolophus borneensis.wav",
+      "metadata": "XC827322 - Bornean Horseshoe Bat - Rhinolophus borneensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus borneensis",
+      "xc_id": 827322
+    },
+    {
+      "en": "Brandt's Myotis",
+      "filename": "XC1003030 - Brandt's Myotis - Myotis brandtii.wav",
+      "metadata": "XC1003030 - Brandt's Myotis - Myotis brandtii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis brandtii",
+      "xc_id": 1003030
+    },
+    {
+      "en": "Brandt's Myotis",
+      "filename": "XC1003029 - Brandt's Myotis - Myotis brandtii.wav",
+      "metadata": "XC1003029 - Brandt's Myotis - Myotis brandtii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis brandtii",
+      "xc_id": 1003029
+    },
+    {
+      "en": "Brazilian Free-tailed Bat",
+      "filename": "XC909905 - Brazilian Free-tailed Bat - Tadarida brasiliensis.wav",
+      "metadata": "XC909905 - Brazilian Free-tailed Bat - Tadarida brasiliensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Tadarida brasiliensis",
+      "xc_id": 909905
+    },
+    {
+      "en": "Brazilian Serotine",
+      "filename": "XC805278 - Brazilian Serotine - Eptesicus brasiliensis.wav",
+      "metadata": "XC805278 - Brazilian Serotine - Eptesicus brasiliensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus brasiliensis",
+      "xc_id": 805278
+    },
+    {
+      "en": "Brazilian Serotine",
+      "filename": "XC1065003 - Brazilian Serotine - Eptesicus brasiliensis.wav",
+      "metadata": "XC1065003 - Brazilian Serotine - Eptesicus brasiliensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus brasiliensis",
+      "xc_id": 1065003
+    },
+    {
+      "en": "Brown Long-eared Bat",
+      "filename": "XC1058572 - Brown Long-eared Bat - Plecotus auritus.wav",
+      "metadata": "XC1058572 - Brown Long-eared Bat - Plecotus auritus.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus auritus",
+      "xc_id": 1058572
+    },
+    {
+      "en": "Brown Long-eared Bat",
+      "filename": "XC1058570 - Brown Long-eared Bat - Plecotus auritus.wav",
+      "metadata": "XC1058570 - Brown Long-eared Bat - Plecotus auritus.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus auritus",
+      "xc_id": 1058570
+    },
+    {
+      "en": "Canyon Bat",
+      "filename": "XC1014596 - Canyon Bat - Parastrellus hesperus.wav",
+      "metadata": "XC1014596 - Canyon Bat - Parastrellus hesperus.xc.json",
+      "source": "xeno-canto",
+      "species": "Parastrellus hesperus",
+      "xc_id": 1014596
+    },
+    {
+      "en": "Caracciolo's Stripe-faced Bat",
+      "filename": "XC821244 - Caracciolo's Stripe-faced Bat - Vampyrodes caraccioli.wav",
+      "metadata": "XC821244 - Caracciolo's Stripe-faced Bat - Vampyrodes caraccioli.xc.json",
+      "source": "xeno-canto",
+      "species": "Vampyrodes caraccioli",
+      "xc_id": 821244
+    },
+    {
+      "en": "Caracciolo's Stripe-faced Bat",
+      "filename": "XC823130 - Caracciolo's Stripe-faced Bat - Vampyrodes caraccioli.wav",
+      "metadata": "XC823130 - Caracciolo's Stripe-faced Bat - Vampyrodes caraccioli.xc.json",
+      "source": "xeno-canto",
+      "species": "Vampyrodes caraccioli",
+      "xc_id": 823130
+    },
+    {
+      "en": "Chestnut Sac-winged Bat",
+      "filename": "XC899851 - Chestnut Sac-winged Bat - Cormura brevirostris.wav",
+      "metadata": "XC899851 - Chestnut Sac-winged Bat - Cormura brevirostris.xc.json",
+      "source": "xeno-canto",
+      "species": "Cormura brevirostris",
+      "xc_id": 899851
+    },
+    {
+      "en": "Chestnut Short-tailed Bat",
+      "filename": "XC819769 - Chestnut Short-tailed Bat - Carollia castanea.wav",
+      "metadata": "XC819769 - Chestnut Short-tailed Bat - Carollia castanea.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia castanea",
+      "xc_id": 819769
+    },
+    {
+      "en": "Chestnut Short-tailed Bat",
+      "filename": "XC819768 - Chestnut Short-tailed Bat - Carollia castanea.wav",
+      "metadata": "XC819768 - Chestnut Short-tailed Bat - Carollia castanea.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia castanea",
+      "xc_id": 819768
+    },
+    {
+      "en": "Commissaris's Long-tongued Bat",
+      "filename": "XC839651 - Commissaris's Long-tongued Bat - Glossophaga commissarisi.wav",
+      "metadata": "XC839651 - Commissaris's Long-tongued Bat - Glossophaga commissarisi.xc.json",
+      "source": "xeno-canto",
+      "species": "Glossophaga commissarisi",
+      "xc_id": 839651
+    },
+    {
+      "en": "Common Big-eared Bat",
+      "filename": "XC1064994 - Common Big-eared Bat - Micronycteris microtis.wav",
+      "metadata": "XC1064994 - Common Big-eared Bat - Micronycteris microtis.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris microtis",
+      "xc_id": 1064994
+    },
+    {
+      "en": "Common Big-eared Bat",
+      "filename": "XC819295 - Common Big-eared Bat - Micronycteris microtis.wav",
+      "metadata": "XC819295 - Common Big-eared Bat - Micronycteris microtis.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris microtis",
+      "xc_id": 819295
+    },
+    {
+      "en": "Common Black Mastiff Bat",
+      "filename": "XC822920 - Common Black Mastiff Bat - Molossus rufus.wav",
+      "metadata": "XC822920 - Common Black Mastiff Bat - Molossus rufus.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus rufus",
+      "xc_id": 822920
+    },
+    {
+      "en": "Common Black Mastiff Bat",
+      "filename": "XC822919 - Common Black Mastiff Bat - Molossus rufus.wav",
+      "metadata": "XC822919 - Common Black Mastiff Bat - Molossus rufus.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus rufus",
+      "xc_id": 822919
+    },
+    {
+      "en": "Common Black Myotis",
+      "filename": "XC823559 - Common Black Myotis - Myotis nigricans.wav",
+      "metadata": "XC823559 - Common Black Myotis - Myotis nigricans.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis nigricans",
+      "xc_id": 823559
+    },
+    {
+      "en": "Common Butterfly Bat",
+      "filename": "XC843531 - Common Butterfly Bat - Glauconycteris argentata.wav",
+      "metadata": "XC843531 - Common Butterfly Bat - Glauconycteris argentata.xc.json",
+      "source": "xeno-canto",
+      "species": "Glauconycteris argentata",
+      "xc_id": 843531
+    },
+    {
+      "en": "Common Butterfly Bat",
+      "filename": "XC843530 - Common Butterfly Bat - Glauconycteris argentata.wav",
+      "metadata": "XC843530 - Common Butterfly Bat - Glauconycteris argentata.xc.json",
+      "source": "xeno-canto",
+      "species": "Glauconycteris argentata",
+      "xc_id": 843530
+    },
+    {
+      "en": "Common Noctule",
+      "filename": "XC1038046 - Common Noctule - Nyctalus noctula.wav",
+      "metadata": "XC1038046 - Common Noctule - Nyctalus noctula.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus noctula",
+      "xc_id": 1038046
+    },
+    {
+      "en": "Common Noctule",
+      "filename": "XC1037974 - Common Noctule - Nyctalus noctula.wav",
+      "metadata": "XC1037974 - Common Noctule - Nyctalus noctula.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus noctula",
+      "xc_id": 1037974
+    },
+    {
+      "en": "Common Pipistrelle",
+      "filename": "XC1062065 - Common Pipistrelle - Pipistrellus pipistrellus.wav",
+      "metadata": "XC1062065 - Common Pipistrelle - Pipistrellus pipistrellus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus pipistrellus",
+      "xc_id": 1062065
+    },
+    {
+      "en": "Common Pipistrelle",
+      "filename": "XC1062064 - Common Pipistrelle - Pipistrellus pipistrellus.wav",
+      "metadata": "XC1062064 - Common Pipistrelle - Pipistrellus pipistrellus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus pipistrellus",
+      "xc_id": 1062064
+    },
+    {
+      "en": "Common Tent-making Bat",
+      "filename": "XC821725 - Common Tent-making Bat - Uroderma bilobatum.wav",
+      "metadata": "XC821725 - Common Tent-making Bat - Uroderma bilobatum.xc.json",
+      "source": "xeno-canto",
+      "species": "Uroderma bilobatum",
+      "xc_id": 821725
+    },
+    {
+      "en": "Common Tent-making Bat",
+      "filename": "XC821724 - Common Tent-making Bat - Uroderma bilobatum.wav",
+      "metadata": "XC821724 - Common Tent-making Bat - Uroderma bilobatum.xc.json",
+      "source": "xeno-canto",
+      "species": "Uroderma bilobatum",
+      "xc_id": 821724
+    },
+    {
+      "en": "Common Vampire Bat",
+      "filename": "XC823144 - Common Vampire Bat - Desmodus rotundus.wav",
+      "metadata": "XC823144 - Common Vampire Bat - Desmodus rotundus.xc.json",
+      "source": "xeno-canto",
+      "species": "Desmodus rotundus",
+      "xc_id": 823144
+    },
+    {
+      "en": "Common Whiskered Myotis",
+      "filename": "XC1003004 - Common Whiskered Myotis - Myotis mystacinus.wav",
+      "metadata": "XC1003004 - Common Whiskered Myotis - Myotis mystacinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis mystacinus",
+      "xc_id": 1003004
+    },
+    {
+      "en": "Cryptic Myotis",
+      "filename": "XC805650 - Cryptic Myotis - Myotis crypticus.wav",
+      "metadata": "XC805650 - Cryptic Myotis - Myotis crypticus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis crypticus",
+      "xc_id": 805650
+    },
+    {
+      "en": "Cyclops Leaf-nosed Bat",
+      "filename": "XC1087567 - Cyclops Leaf-nosed Bat - Doryrhina cyclops.wav",
+      "metadata": "XC1087567 - Cyclops Leaf-nosed Bat - Doryrhina cyclops.xc.json",
+      "source": "xeno-canto",
+      "species": "Doryrhina cyclops",
+      "xc_id": 1087567
+    },
+    {
+      "en": "Cyclops Leaf-nosed Bat",
+      "filename": "XC1087566 - Cyclops Leaf-nosed Bat - Doryrhina cyclops.wav",
+      "metadata": "XC1087566 - Cyclops Leaf-nosed Bat - Doryrhina cyclops.xc.json",
+      "source": "xeno-canto",
+      "species": "Doryrhina cyclops",
+      "xc_id": 1087566
+    },
+    {
+      "en": "Dark Long-tongued Bat",
+      "filename": "XC819555 - Dark Long-tongued Bat - Lichonycteris obscura.wav",
+      "metadata": "XC819555 - Dark Long-tongued Bat - Lichonycteris obscura.xc.json",
+      "source": "xeno-canto",
+      "species": "Lichonycteris obscura",
+      "xc_id": 819555
+    },
+    {
+      "en": "Dark Long-tongued Bat",
+      "filename": "XC819554 - Dark Long-tongued Bat - Lichonycteris obscura.wav",
+      "metadata": "XC819554 - Dark Long-tongued Bat - Lichonycteris obscura.xc.json",
+      "source": "xeno-canto",
+      "species": "Lichonycteris obscura",
+      "xc_id": 819554
+    },
+    {
+      "en": "Darling's Horseshoe Bat",
+      "filename": "XC1002570 - Darling's Horseshoe Bat - Rhinolophus darlingi.wav",
+      "metadata": "XC1002570 - Darling's Horseshoe Bat - Rhinolophus darlingi.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus darlingi",
+      "xc_id": 1002570
+    },
+    {
+      "en": "Daubenton's Myotis",
+      "filename": "XC1007514 - Daubenton's Myotis - Myotis daubentonii.wav",
+      "metadata": "XC1007514 - Daubenton's Myotis - Myotis daubentonii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis daubentonii",
+      "xc_id": 1007514
+    },
+    {
+      "en": "Daubenton's Myotis",
+      "filename": "XC1018942 - Daubenton's Myotis - Myotis daubentonii.wav",
+      "metadata": "XC1018942 - Daubenton's Myotis - Myotis daubentonii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis daubentonii",
+      "xc_id": 1018942
+    },
+    {
+      "en": "David's Myotis",
+      "filename": "XC1058427 - David's Myotis - Myotis davidii.wav",
+      "metadata": "XC1058427 - David's Myotis - Myotis davidii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis davidii",
+      "xc_id": 1058427
+    },
+    {
+      "en": "David's Myotis",
+      "filename": "XC1058426 - David's Myotis - Myotis davidii.wav",
+      "metadata": "XC1058426 - David's Myotis - Myotis davidii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis davidii",
+      "xc_id": 1058426
+    },
+    {
+      "en": "Dobson's Lesser Mustached Bat",
+      "filename": "XC838106 - Dobson's Lesser Mustached Bat - Pteronotus psilotis.wav",
+      "metadata": "XC838106 - Dobson's Lesser Mustached Bat - Pteronotus psilotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus psilotis",
+      "xc_id": 838106
+    },
+    {
+      "en": "Dusky Pipistrelle",
+      "filename": "XC1002581 - Dusky Pipistrelle - Pipistrellus hesperidus.wav",
+      "metadata": "XC1002581 - Dusky Pipistrelle - Pipistrellus hesperidus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus hesperidus",
+      "xc_id": 1002581
+    },
+    {
+      "en": "East Asian Free-tailed Bat",
+      "filename": "XC1019203 - East Asian Free-tailed Bat - Tadarida insignis.wav",
+      "metadata": "XC1019203 - East Asian Free-tailed Bat - Tadarida insignis.xc.json",
+      "source": "xeno-canto",
+      "species": "Tadarida insignis",
+      "xc_id": 1019203
+    },
+    {
+      "en": "Eastern Red Bat",
+      "filename": "XC803691 - Eastern Red Bat - Lasiurus borealis.wav",
+      "metadata": "XC803691 - Eastern Red Bat - Lasiurus borealis.xc.json",
+      "source": "xeno-canto",
+      "species": "Lasiurus borealis",
+      "xc_id": 803691
+    },
+    {
+      "en": "Eastern Red Bat",
+      "filename": "XC883325 - Eastern Red Bat - Lasiurus borealis.w4v",
+      "metadata": "XC883325 - Eastern Red Bat - Lasiurus borealis.xc.json",
+      "source": "xeno-canto",
+      "species": "Lasiurus borealis",
+      "xc_id": 883325
+    },
+    {
+      "en": "Eastern Small-footed Myotis",
+      "filename": "XC883523 - Eastern Small-footed Myotis - Myotis leibii.wav",
+      "metadata": "XC883523 - Eastern Small-footed Myotis - Myotis leibii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis leibii",
+      "xc_id": 883523
+    },
+    {
+      "en": "Egyptian Free-tailed Bat",
+      "filename": "XC968561 - Egyptian Free-tailed Bat - Tadarida aegyptiaca.wav",
+      "metadata": "XC968561 - Egyptian Free-tailed Bat - Tadarida aegyptiaca.xc.json",
+      "source": "xeno-canto",
+      "species": "Tadarida aegyptiaca",
+      "xc_id": 968561
+    },
+    {
+      "en": "Egyptian Rousette",
+      "filename": "XC959645 - Egyptian Rousette - Rousettus aegyptiacus.wav",
+      "metadata": "XC959645 - Egyptian Rousette - Rousettus aegyptiacus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rousettus aegyptiacus",
+      "xc_id": 959645
+    },
+    {
+      "en": "Egyptian Rousette",
+      "filename": "XC959643 - Egyptian Rousette - Rousettus aegyptiacus.wav",
+      "metadata": "XC959643 - Egyptian Rousette - Rousettus aegyptiacus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rousettus aegyptiacus",
+      "xc_id": 959643
+    },
+    {
+      "en": "Egyptian Slit-faced Bat",
+      "filename": "XC1002569 - Egyptian Slit-faced Bat - Nycteris thebaica.wav",
+      "metadata": "XC1002569 - Egyptian Slit-faced Bat - Nycteris thebaica.xc.json",
+      "source": "xeno-canto",
+      "species": "Nycteris thebaica",
+      "xc_id": 1002569
+    },
+    {
+      "en": "Egyptian Slit-faced Bat",
+      "filename": "XC1002568 - Egyptian Slit-faced Bat - Nycteris thebaica.wav",
+      "metadata": "XC1002568 - Egyptian Slit-faced Bat - Nycteris thebaica.xc.json",
+      "source": "xeno-canto",
+      "species": "Nycteris thebaica",
+      "xc_id": 1002568
+    },
+    {
+      "en": "Elegant Myotis",
+      "filename": "XC821990 - Elegant Myotis - Myotis elegans.wav",
+      "metadata": "XC821990 - Elegant Myotis - Myotis elegans.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis elegans",
+      "xc_id": 821990
+    },
+    {
+      "en": "Elegant Myotis",
+      "filename": "XC821989 - Elegant Myotis - Myotis elegans.wav",
+      "metadata": "XC821989 - Elegant Myotis - Myotis elegans.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis elegans",
+      "xc_id": 821989
+    },
+    {
+      "en": "Escalera's Myotis",
+      "filename": "XC805642 - Escalera's Myotis - Myotis escalerai.wav",
+      "metadata": "XC805642 - Escalera's Myotis - Myotis escalerai.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis escalerai",
+      "xc_id": 805642
+    },
+    {
+      "en": "Eurasian Particolored Bat",
+      "filename": "XC1084199 - Eurasian Particolored Bat - Vespertilio murinus.wav",
+      "metadata": "XC1084199 - Eurasian Particolored Bat - Vespertilio murinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Vespertilio murinus",
+      "xc_id": 1084199
+    },
+    {
+      "en": "Eurasian Serotine",
+      "filename": "XC1033511 - Eurasian Serotine - Eptesicus serotinus.wav",
+      "metadata": "XC1033511 - Eurasian Serotine - Eptesicus serotinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus serotinus",
+      "xc_id": 1033511
+    },
+    {
+      "en": "Eurasian Serotine",
+      "filename": "XC1016895 - Eurasian Serotine - Eptesicus serotinus.wav",
+      "metadata": "XC1016895 - Eurasian Serotine - Eptesicus serotinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus serotinus",
+      "xc_id": 1016895
+    },
+    {
+      "en": "European Free-tailed Bat",
+      "filename": "XC1061936 - European Free-tailed Bat - Tadarida teniotis.wav",
+      "metadata": "XC1061936 - European Free-tailed Bat - Tadarida teniotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Tadarida teniotis",
+      "xc_id": 1061936
+    },
+    {
+      "en": "European Free-tailed Bat",
+      "filename": "XC1061935 - European Free-tailed Bat - Tadarida teniotis.wav",
+      "metadata": "XC1061935 - European Free-tailed Bat - Tadarida teniotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Tadarida teniotis",
+      "xc_id": 1061935
+    },
+    {
+      "en": "Fringe-lipped Bat",
+      "filename": "XC822978 - Fringe-lipped Bat - Trachops cirrhosus.wav",
+      "metadata": "XC822978 - Fringe-lipped Bat - Trachops cirrhosus.xc.json",
+      "source": "xeno-canto",
+      "species": "Trachops cirrhosus",
+      "xc_id": 822978
+    },
+    {
+      "en": "Fringe-lipped Bat",
+      "filename": "XC821667 - Fringe-lipped Bat - Trachops cirrhosus.wav",
+      "metadata": "XC821667 - Fringe-lipped Bat - Trachops cirrhosus.xc.json",
+      "source": "xeno-canto",
+      "species": "Trachops cirrhosus",
+      "xc_id": 821667
+    },
+    {
+      "en": "Fringed Long-footed Myotis",
+      "filename": "XC815138 - Fringed Long-footed Myotis - Myotis fimbriatus.wav",
+      "metadata": "XC815138 - Fringed Long-footed Myotis - Myotis fimbriatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis fimbriatus",
+      "xc_id": 815138
+    },
+    {
+      "en": "Fringed Myotis",
+      "filename": "XC837608 - Fringed Myotis - Myotis thysanodes.wav",
+      "metadata": "XC837608 - Fringed Myotis - Myotis thysanodes.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis thysanodes",
+      "xc_id": 837608
+    },
+    {
+      "en": "Gambian Epauletted Fruit Bat",
+      "filename": "XC1072782 - Gambian Epauletted Fruit Bat - Epomophorus gambianus.wav",
+      "metadata": "XC1072782 - Gambian Epauletted Fruit Bat - Epomophorus gambianus.xc.json",
+      "source": "xeno-canto",
+      "species": "Epomophorus gambianus",
+      "xc_id": 1072782
+    },
+    {
+      "en": "Gambian Epauletted Fruit Bat",
+      "filename": "XC811869 - Gambian Epauletted Fruit Bat - Epomophorus gambianus.mp3",
+      "metadata": "XC811869 - Gambian Epauletted Fruit Bat - Epomophorus gambianus.xc.json",
+      "source": "xeno-canto",
+      "species": "Epomophorus gambianus",
+      "xc_id": 811869
+    },
+    {
+      "en": "Geoffroy's Myotis",
+      "filename": "XC1060577 - Geoffroy's Myotis - Myotis emarginatus.wav",
+      "metadata": "XC1060577 - Geoffroy's Myotis - Myotis emarginatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis emarginatus",
+      "xc_id": 1060577
+    },
+    {
+      "en": "Geoffroy's Myotis",
+      "filename": "XC805641 - Geoffroy's Myotis - Myotis emarginatus.wav",
+      "metadata": "XC805641 - Geoffroy's Myotis - Myotis emarginatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis emarginatus",
+      "xc_id": 805641
+    },
+    {
+      "en": "Goldman's Nectar Bat",
+      "filename": "XC826214 - Goldman's Nectar Bat - Lonchophylla concava.wav",
+      "metadata": "XC826214 - Goldman's Nectar Bat - Lonchophylla concava.xc.json",
+      "source": "xeno-canto",
+      "species": "Lonchophylla concava",
+      "xc_id": 826214
+    },
+    {
+      "en": "Goldman's Nectar Bat",
+      "filename": "XC826213 - Goldman's Nectar Bat - Lonchophylla concava.wav",
+      "metadata": "XC826213 - Goldman's Nectar Bat - Lonchophylla concava.xc.json",
+      "source": "xeno-canto",
+      "species": "Lonchophylla concava",
+      "xc_id": 826213
+    },
+    {
+      "en": "Gray Long-eared Bat",
+      "filename": "XC844387 - Gray Long-eared Bat - Plecotus austriacus.wav",
+      "metadata": "XC844387 - Gray Long-eared Bat - Plecotus austriacus.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus austriacus",
+      "xc_id": 844387
+    },
+    {
+      "en": "Gray Long-eared Bat",
+      "filename": "XC844384 - Gray Long-eared Bat - Plecotus austriacus.wav",
+      "metadata": "XC844384 - Gray Long-eared Bat - Plecotus austriacus.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus austriacus",
+      "xc_id": 844384
+    },
+    {
+      "en": "Gray-headed Flying Fox",
+      "filename": "XC1072072 - Gray-headed Flying Fox - Pteropus poliocephalus.mp3",
+      "metadata": "XC1072072 - Gray-headed Flying Fox - Pteropus poliocephalus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus poliocephalus",
+      "xc_id": 1072072
+    },
+    {
+      "en": "Gray-headed Flying Fox",
+      "filename": "XC1048699 - Gray-headed Flying Fox - Pteropus poliocephalus.mp3",
+      "metadata": "XC1048699 - Gray-headed Flying Fox - Pteropus poliocephalus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus poliocephalus",
+      "xc_id": 1048699
+    },
+    {
+      "en": "Great Fruit-eating Bat",
+      "filename": "XC1064999 - Great Fruit-eating Bat - Artibeus lituratus.wav",
+      "metadata": "XC1064999 - Great Fruit-eating Bat - Artibeus lituratus.xc.json",
+      "source": "xeno-canto",
+      "species": "Artibeus lituratus",
+      "xc_id": 1064999
+    },
+    {
+      "en": "Great Fruit-eating Bat",
+      "filename": "XC823155 - Great Fruit-eating Bat - Artibeus lituratus.wav",
+      "metadata": "XC823155 - Great Fruit-eating Bat - Artibeus lituratus.xc.json",
+      "source": "xeno-canto",
+      "species": "Artibeus lituratus",
+      "xc_id": 823155
+    },
+    {
+      "en": "Greater Bulldog Bat",
+      "filename": "XC821194 - Greater Bulldog Bat - Noctilio leporinus.wav",
+      "metadata": "XC821194 - Greater Bulldog Bat - Noctilio leporinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Noctilio leporinus",
+      "xc_id": 821194
+    },
+    {
+      "en": "Greater Bulldog Bat",
+      "filename": "XC821193 - Greater Bulldog Bat - Noctilio leporinus.wav",
+      "metadata": "XC821193 - Greater Bulldog Bat - Noctilio leporinus.xc.json",
+      "source": "xeno-canto",
+      "species": "Noctilio leporinus",
+      "xc_id": 821193
+    },
+    {
+      "en": "Greater Dog-like Bat",
+      "filename": "XC821955 - Greater Dog-like Bat - Peropteryx kappleri.wav",
+      "metadata": "XC821955 - Greater Dog-like Bat - Peropteryx kappleri.xc.json",
+      "source": "xeno-canto",
+      "species": "Peropteryx kappleri",
+      "xc_id": 821955
+    },
+    {
+      "en": "Greater Dog-like Bat",
+      "filename": "XC821954 - Greater Dog-like Bat - Peropteryx kappleri.wav",
+      "metadata": "XC821954 - Greater Dog-like Bat - Peropteryx kappleri.xc.json",
+      "source": "xeno-canto",
+      "species": "Peropteryx kappleri",
+      "xc_id": 821954
+    },
+    {
+      "en": "Greater Horseshoe Bat",
+      "filename": "XC1061371 - Greater Horseshoe Bat - Rhinolophus ferrumequinum.wav",
+      "metadata": "XC1061371 - Greater Horseshoe Bat - Rhinolophus ferrumequinum.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus ferrumequinum",
+      "xc_id": 1061371
+    },
+    {
+      "en": "Greater Horseshoe Bat",
+      "filename": "XC1060638 - Greater Horseshoe Bat - Rhinolophus ferrumequinum.wav",
+      "metadata": "XC1060638 - Greater Horseshoe Bat - Rhinolophus ferrumequinum.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus ferrumequinum",
+      "xc_id": 1060638
+    },
+    {
+      "en": "Greater Myotis",
+      "filename": "XC906210 - Greater Myotis - Myotis myotis.wav",
+      "metadata": "XC906210 - Greater Myotis - Myotis myotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis myotis",
+      "xc_id": 906210
+    },
+    {
+      "en": "Greater Myotis",
+      "filename": "XC1049571 - Greater Myotis - Myotis myotis.wav",
+      "metadata": "XC1049571 - Greater Myotis - Myotis myotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis myotis",
+      "xc_id": 1049571
+    },
+    {
+      "en": "Greater Noctule",
+      "filename": "XC925998 - Greater Noctule - Nyctalus lasiopterus.wav",
+      "metadata": "XC925998 - Greater Noctule - Nyctalus lasiopterus.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus lasiopterus",
+      "xc_id": 925998
+    },
+    {
+      "en": "Greater Sac-winged Bat",
+      "filename": "XC822923 - Greater Sac-winged Bat - Saccopteryx bilineata.wav",
+      "metadata": "XC822923 - Greater Sac-winged Bat - Saccopteryx bilineata.xc.json",
+      "source": "xeno-canto",
+      "species": "Saccopteryx bilineata",
+      "xc_id": 822923
+    },
+    {
+      "en": "Greenhall's Dog-faced Bat",
+      "filename": "XC1063024 - Greenhall's Dog-faced Bat - Cynomops greenhalli.wav",
+      "metadata": "XC1063024 - Greenhall's Dog-faced Bat - Cynomops greenhalli.xc.json",
+      "source": "xeno-canto",
+      "species": "Cynomops greenhalli",
+      "xc_id": 1063024
+    },
+    {
+      "en": "Greenhall's Dog-faced Bat",
+      "filename": "XC1063009 - Greenhall's Dog-faced Bat - Cynomops greenhalli.wav",
+      "metadata": "XC1063009 - Greenhall's Dog-faced Bat - Cynomops greenhalli.xc.json",
+      "source": "xeno-canto",
+      "species": "Cynomops greenhalli",
+      "xc_id": 1063009
+    },
+    {
+      "en": "Hairy Big-eared Bat",
+      "filename": "XC820305 - Hairy Big-eared Bat - Micronycteris hirsuta.wav",
+      "metadata": "XC820305 - Hairy Big-eared Bat - Micronycteris hirsuta.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris hirsuta",
+      "xc_id": 820305
+    },
+    {
+      "en": "Hairy Big-eared Bat",
+      "filename": "XC812362 - Hairy Big-eared Bat - Micronycteris hirsuta.wav",
+      "metadata": "XC812362 - Hairy Big-eared Bat - Micronycteris hirsuta.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris hirsuta",
+      "xc_id": 812362
+    },
+    {
+      "en": "Hairy Big-eyed Bat",
+      "filename": "XC821238 - Hairy Big-eyed Bat - Chiroderma villosum.wav",
+      "metadata": "XC821238 - Hairy Big-eyed Bat - Chiroderma villosum.xc.json",
+      "source": "xeno-canto",
+      "species": "Chiroderma villosum",
+      "xc_id": 821238
+    },
+    {
+      "en": "Hairy-legged Vampire Bat",
+      "filename": "XC819302 - Hairy-legged Vampire Bat - Diphylla ecaudata.wav",
+      "metadata": "XC819302 - Hairy-legged Vampire Bat - Diphylla ecaudata.xc.json",
+      "source": "xeno-canto",
+      "species": "Diphylla ecaudata",
+      "xc_id": 819302
+    },
+    {
+      "en": "Halcyon Horseshoe Bat",
+      "filename": "XC1087580 - Halcyon Horseshoe Bat - Rhinolophus alcyone.wav",
+      "metadata": "XC1087580 - Halcyon Horseshoe Bat - Rhinolophus alcyone.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus alcyone",
+      "xc_id": 1087580
+    },
+    {
+      "en": "Halcyon Horseshoe Bat",
+      "filename": "XC1087579 - Halcyon Horseshoe Bat - Rhinolophus alcyone.wav",
+      "metadata": "XC1087579 - Halcyon Horseshoe Bat - Rhinolophus alcyone.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus alcyone",
+      "xc_id": 1087579
+    },
+    {
+      "en": "Hammer-headed Fruit Bat",
+      "filename": "XC1070352 - Hammer-headed Fruit Bat - Hypsignathus monstrosus.wav",
+      "metadata": "XC1070352 - Hammer-headed Fruit Bat - Hypsignathus monstrosus.xc.json",
+      "source": "xeno-canto",
+      "species": "Hypsignathus monstrosus",
+      "xc_id": 1070352
+    },
+    {
+      "en": "Hammer-headed Fruit Bat",
+      "filename": "XC1070349 - Hammer-headed Fruit Bat - Hypsignathus monstrosus.wav",
+      "metadata": "XC1070349 - Hammer-headed Fruit Bat - Hypsignathus monstrosus.xc.json",
+      "source": "xeno-canto",
+      "species": "Hypsignathus monstrosus",
+      "xc_id": 1070349
+    },
+    {
+      "en": "Hanak's Pipistrelle",
+      "filename": "XC1062212 - Hanak's Pipistrelle - Pipistrellus hanaki.wav",
+      "metadata": "XC1062212 - Hanak's Pipistrelle - Pipistrellus hanaki.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus hanaki",
+      "xc_id": 1062212
+    },
+    {
+      "en": "Hanak's Pipistrelle",
+      "filename": "XC1062211 - Hanak's Pipistrelle - Pipistrellus hanaki.wav",
+      "metadata": "XC1062211 - Hanak's Pipistrelle - Pipistrellus hanaki.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus hanaki",
+      "xc_id": 1062211
+    },
+    {
+      "en": "Heart-nosed False-vampire",
+      "filename": "XC843108 - Heart-nosed False-vampire - Cardioderma cor.wav",
+      "metadata": "XC843108 - Heart-nosed False-vampire - Cardioderma cor.xc.json",
+      "source": "xeno-canto",
+      "species": "Cardioderma cor",
+      "xc_id": 843108
+    },
+    {
+      "en": "Heller's Broad-nosed Bat",
+      "filename": "XC820791 - Heller's Broad-nosed Bat - Platyrrhinus helleri.wav",
+      "metadata": "XC820791 - Heller's Broad-nosed Bat - Platyrrhinus helleri.xc.json",
+      "source": "xeno-canto",
+      "species": "Platyrrhinus helleri",
+      "xc_id": 820791
+    },
+    {
+      "en": "Heller's Broad-nosed Bat",
+      "filename": "XC1065008 - Heller's Broad-nosed Bat - Platyrrhinus helleri.wav",
+      "metadata": "XC1065008 - Heller's Broad-nosed Bat - Platyrrhinus helleri.xc.json",
+      "source": "xeno-canto",
+      "species": "Platyrrhinus helleri",
+      "xc_id": 1065008
+    },
+    {
+      "en": "Highland Yellow-shouldered Bat",
+      "filename": "XC839631 - Highland Yellow-shouldered Bat - Sturnira ludovici.wav",
+      "metadata": "XC839631 - Highland Yellow-shouldered Bat - Sturnira ludovici.xc.json",
+      "source": "xeno-canto",
+      "species": "Sturnira ludovici",
+      "xc_id": 839631
+    },
+    {
+      "en": "Highland Yellow-shouldered Bat",
+      "filename": "XC839630 - Highland Yellow-shouldered Bat - Sturnira ludovici.wav",
+      "metadata": "XC839630 - Highland Yellow-shouldered Bat - Sturnira ludovici.xc.json",
+      "source": "xeno-canto",
+      "species": "Sturnira ludovici",
+      "xc_id": 839630
+    },
+    {
+      "en": "Homfray's Horseshoe Bat",
+      "filename": "XC980394 - Homfray's Horseshoe Bat - Rhinolophus andamanensis.wav",
+      "metadata": "XC980394 - Homfray's Horseshoe Bat - Rhinolophus andamanensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus andamanensis",
+      "xc_id": 980394
+    },
+    {
+      "en": "Homfray's Horseshoe Bat",
+      "filename": "XC981818 - Homfray's Horseshoe Bat - Rhinolophus andamanensis.wav",
+      "metadata": "XC981818 - Homfray's Horseshoe Bat - Rhinolophus andamanensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus andamanensis",
+      "xc_id": 981818
+    },
+    {
+      "en": "Honduran White Bat",
+      "filename": "XC838455 - Honduran White Bat - Ectophylla alba.wav",
+      "metadata": "XC838455 - Honduran White Bat - Ectophylla alba.xc.json",
+      "source": "xeno-canto",
+      "species": "Ectophylla alba",
+      "xc_id": 838455
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1016600 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1016600 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1016600
+    },
+    {
+      "en": "Indian Flying Fox",
+      "filename": "XC1030844 - Indian Flying Fox - Pteropus medius.mp3",
+      "metadata": "XC1030844 - Indian Flying Fox - Pteropus medius.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus medius",
+      "xc_id": 1030844
+    },
+    {
+      "en": "Indian Flying Fox",
+      "filename": "XC1030843 - Indian Flying Fox - Pteropus medius.mp3",
+      "metadata": "XC1030843 - Indian Flying Fox - Pteropus medius.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus medius",
+      "xc_id": 1030843
+    },
+    {
+      "en": "Island Flying Fox",
+      "filename": "XC1056734 - Island Flying Fox - Pteropus hypomelanus.mp3",
+      "metadata": "XC1056734 - Island Flying Fox - Pteropus hypomelanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus hypomelanus",
+      "xc_id": 1056734
+    },
+    {
+      "en": "Island Flying Fox",
+      "filename": "XC964168 - Island Flying Fox - Pteropus hypomelanus.mp3",
+      "metadata": "XC964168 - Island Flying Fox - Pteropus hypomelanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus hypomelanus",
+      "xc_id": 964168
+    },
+    {
+      "en": "Jamaican Fruit-eating Bat",
+      "filename": "XC819627 - Jamaican Fruit-eating Bat - Artibeus jamaicensis.wav",
+      "metadata": "XC819627 - Jamaican Fruit-eating Bat - Artibeus jamaicensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Artibeus jamaicensis",
+      "xc_id": 819627
+    },
+    {
+      "en": "Jamaican Fruit-eating Bat",
+      "filename": "XC1064985 - Jamaican Fruit-eating Bat - Artibeus jamaicensis.wav",
+      "metadata": "XC1064985 - Jamaican Fruit-eating Bat - Artibeus jamaicensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Artibeus jamaicensis",
+      "xc_id": 1064985
+    },
+    {
+      "en": "Jamaican Round-eared Bat",
+      "filename": "XC1064996 - Jamaican Round-eared Bat - Tonatia saurophila.wav",
+      "metadata": "XC1064996 - Jamaican Round-eared Bat - Tonatia saurophila.xc.json",
+      "source": "xeno-canto",
+      "species": "Tonatia saurophila",
+      "xc_id": 1064996
+    },
+    {
+      "en": "Japanese Pipistrelle",
+      "filename": "XC815137 - Japanese Pipistrelle - Pipistrellus abramus.wav",
+      "metadata": "XC815137 - Japanese Pipistrelle - Pipistrellus abramus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus abramus",
+      "xc_id": 815137
+    },
+    {
+      "en": "Javan Pipistrelle",
+      "filename": "XC1063374 - Javan Pipistrelle - Pipistrellus javanicus.wav",
+      "metadata": "XC1063374 - Javan Pipistrelle - Pipistrellus javanicus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus javanicus",
+      "xc_id": 1063374
+    },
+    {
+      "en": "Kuhl's Pipistrelle",
+      "filename": "XC1060674 - Kuhl's Pipistrelle - Pipistrellus kuhlii.wav",
+      "metadata": "XC1060674 - Kuhl's Pipistrelle - Pipistrellus kuhlii.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus kuhlii",
+      "xc_id": 1060674
+    },
+    {
+      "en": "Kuhl's Pipistrelle",
+      "filename": "XC1060673 - Kuhl's Pipistrelle - Pipistrellus kuhlii.wav",
+      "metadata": "XC1060673 - Kuhl's Pipistrelle - Pipistrellus kuhlii.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus kuhlii",
+      "xc_id": 1060673
+    },
+    {
+      "en": "Lander's Horseshoe Bat",
+      "filename": "XC843538 - Lander's Horseshoe Bat - Rhinolophus landeri.wav",
+      "metadata": "XC843538 - Lander's Horseshoe Bat - Rhinolophus landeri.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus landeri",
+      "xc_id": 843538
+    },
+    {
+      "en": "Lander's Horseshoe Bat",
+      "filename": "XC843537 - Lander's Horseshoe Bat - Rhinolophus landeri.wav",
+      "metadata": "XC843537 - Lander's Horseshoe Bat - Rhinolophus landeri.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus landeri",
+      "xc_id": 843537
+    },
+    {
+      "en": "Lappet-eared Free-tailed Bat",
+      "filename": "XC843493 - Lappet-eared Free-tailed Bat - Mops major.wav",
+      "metadata": "XC843493 - Lappet-eared Free-tailed Bat - Mops major.xc.json",
+      "source": "xeno-canto",
+      "species": "Mops major",
+      "xc_id": 843493
+    },
+    {
+      "en": "Large Flying Fox",
+      "filename": "XC961052 - Large Flying Fox - Pteropus vampyrus.mp3",
+      "metadata": "XC961052 - Large Flying Fox - Pteropus vampyrus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus vampyrus",
+      "xc_id": 961052
+    },
+    {
+      "en": "Large Slit-faced Bat",
+      "filename": "XC1087673 - Large Slit-faced Bat - Nycteris grandis.wav",
+      "metadata": "XC1087673 - Large Slit-faced Bat - Nycteris grandis.xc.json",
+      "source": "xeno-canto",
+      "species": "Nycteris grandis",
+      "xc_id": 1087673
+    },
+    {
+      "en": "Large Slit-faced Bat",
+      "filename": "XC1087675 - Large Slit-faced Bat - Nycteris grandis.wav",
+      "metadata": "XC1087675 - Large Slit-faced Bat - Nycteris grandis.xc.json",
+      "source": "xeno-canto",
+      "species": "Nycteris grandis",
+      "xc_id": 1087675
+    },
+    {
+      "en": "Leisler's Noctule",
+      "filename": "XC1065648 - Leisler's Noctule - Nyctalus leisleri.wav",
+      "metadata": "XC1065648 - Leisler's Noctule - Nyctalus leisleri.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctalus leisleri",
+      "xc_id": 1065648
+    },
+    {
+      "en": "Lesser Asian Yellow Bat",
+      "filename": "XC1058573 - Lesser Asian Yellow Bat - Scotophilus kuhlii.wav",
+      "metadata": "XC1058573 - Lesser Asian Yellow Bat - Scotophilus kuhlii.xc.json",
+      "source": "xeno-canto",
+      "species": "Scotophilus kuhlii",
+      "xc_id": 1058573
+    },
+    {
+      "en": "Lesser Asian Yellow Bat",
+      "filename": "XC1063198 - Lesser Asian Yellow Bat - Scotophilus kuhlii.wav",
+      "metadata": "XC1063198 - Lesser Asian Yellow Bat - Scotophilus kuhlii.xc.json",
+      "source": "xeno-canto",
+      "species": "Scotophilus kuhlii",
+      "xc_id": 1063198
+    },
+    {
+      "en": "Lesser Dog-like Bat",
+      "filename": "XC838306 - Lesser Dog-like Bat - Peropteryx macrotis.wav",
+      "metadata": "XC838306 - Lesser Dog-like Bat - Peropteryx macrotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Peropteryx macrotis",
+      "xc_id": 838306
+    },
+    {
+      "en": "Lesser Horseshoe Bat",
+      "filename": "XC1061815 - Lesser Horseshoe Bat - Rhinolophus hipposideros.wav",
+      "metadata": "XC1061815 - Lesser Horseshoe Bat - Rhinolophus hipposideros.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus hipposideros",
+      "xc_id": 1061815
+    },
+    {
+      "en": "Lesser Horseshoe Bat",
+      "filename": "XC1062124 - Lesser Horseshoe Bat - Rhinolophus hipposideros.wav",
+      "metadata": "XC1062124 - Lesser Horseshoe Bat - Rhinolophus hipposideros.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus hipposideros",
+      "xc_id": 1062124
+    },
+    {
+      "en": "Lesser Myotis",
+      "filename": "XC822580 - Lesser Myotis - Myotis blythii.wav",
+      "metadata": "XC822580 - Lesser Myotis - Myotis blythii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis blythii",
+      "xc_id": 822580
+    },
+    {
+      "en": "Lesser Myotis",
+      "filename": "XC822579 - Lesser Myotis - Myotis blythii.wav",
+      "metadata": "XC822579 - Lesser Myotis - Myotis blythii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis blythii",
+      "xc_id": 822579
+    },
+    {
+      "en": "Lesser Sac-winged Bat",
+      "filename": "XC822350 - Lesser Sac-winged Bat - Saccopteryx leptura.wav",
+      "metadata": "XC822350 - Lesser Sac-winged Bat - Saccopteryx leptura.xc.json",
+      "source": "xeno-canto",
+      "species": "Saccopteryx leptura",
+      "xc_id": 822350
+    },
+    {
+      "en": "Lesser Sac-winged Bat",
+      "filename": "XC915951 - Lesser Sac-winged Bat - Saccopteryx leptura.wav",
+      "metadata": "XC915951 - Lesser Sac-winged Bat - Saccopteryx leptura.xc.json",
+      "source": "xeno-canto",
+      "species": "Saccopteryx leptura",
+      "xc_id": 915951
+    },
+    {
+      "en": "Lesser Short-nosed Fruit Bat",
+      "filename": "XC959788 - Lesser Short-nosed Fruit Bat - Cynopterus brachyotis.wav",
+      "metadata": "XC959788 - Lesser Short-nosed Fruit Bat - Cynopterus brachyotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Cynopterus brachyotis",
+      "xc_id": 959788
+    },
+    {
+      "en": "Little Brown Myotis",
+      "filename": "XC883525 - Little Brown Myotis - Myotis lucifugus.wav",
+      "metadata": "XC883525 - Little Brown Myotis - Myotis lucifugus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis lucifugus",
+      "xc_id": 883525
+    },
+    {
+      "en": "Little Brown Myotis",
+      "filename": "XC883297 - Little Brown Myotis - Myotis lucifugus.wav",
+      "metadata": "XC883297 - Little Brown Myotis - Myotis lucifugus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis lucifugus",
+      "xc_id": 883297
+    },
+    {
+      "en": "Little Free-tailed Bat",
+      "filename": "XC843549 - Little Free-tailed Bat - Mops pumilus.wav",
+      "metadata": "XC843549 - Little Free-tailed Bat - Mops pumilus.xc.json",
+      "source": "xeno-canto",
+      "species": "Mops pumilus",
+      "xc_id": 843549
+    },
+    {
+      "en": "Little Free-tailed Bat",
+      "filename": "XC843548 - Little Free-tailed Bat - Mops pumilus.wav",
+      "metadata": "XC843548 - Little Free-tailed Bat - Mops pumilus.xc.json",
+      "source": "xeno-canto",
+      "species": "Mops pumilus",
+      "xc_id": 843548
+    },
+    {
+      "en": "Little Red Flying Fox",
+      "filename": "XC811514 - Little Red Flying Fox - Pteropus scapulatus.wav",
+      "metadata": "XC811514 - Little Red Flying Fox - Pteropus scapulatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus scapulatus",
+      "xc_id": 811514
+    },
+    {
+      "en": "Little Red Flying Fox",
+      "filename": "XC976962 - Little Red Flying Fox - Pteropus scapulatus.mp3",
+      "metadata": "XC976962 - Little Red Flying Fox - Pteropus scapulatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus scapulatus",
+      "xc_id": 976962
+    },
+    {
+      "en": "Little Yellow-shouldered Bat",
+      "filename": "XC823154 - Little Yellow-shouldered Bat - Sturnira lilium.wav",
+      "metadata": "XC823154 - Little Yellow-shouldered Bat - Sturnira lilium.xc.json",
+      "source": "xeno-canto",
+      "species": "Sturnira lilium",
+      "xc_id": 823154
+    },
+    {
+      "en": "Long-fingered Myotis",
+      "filename": "XC1058562 - Long-fingered Myotis - Myotis capaccinii.wav",
+      "metadata": "XC1058562 - Long-fingered Myotis - Myotis capaccinii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis capaccinii",
+      "xc_id": 1058562
+    },
+    {
+      "en": "Long-fingered Myotis",
+      "filename": "XC1058561 - Long-fingered Myotis - Myotis capaccinii.wav",
+      "metadata": "XC1058561 - Long-fingered Myotis - Myotis capaccinii.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis capaccinii",
+      "xc_id": 1058561
+    },
+    {
+      "en": "Long-tailed Serotine",
+      "filename": "XC1082359 - Long-tailed Serotine - Eptesicus hottentotus.wav",
+      "metadata": "XC1082359 - Long-tailed Serotine - Eptesicus hottentotus.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus hottentotus",
+      "xc_id": 1082359
+    },
+    {
+      "en": "Madeira Pipistrelle",
+      "filename": "XC953337 - Madeira Pipistrelle - Pipistrellus maderensis.wav",
+      "metadata": "XC953337 - Madeira Pipistrelle - Pipistrellus maderensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus maderensis",
+      "xc_id": 953337
+    },
+    {
+      "en": "Maghreb Myotis",
+      "filename": "XC805748 - Maghreb Myotis - Myotis punicus.wav",
+      "metadata": "XC805748 - Maghreb Myotis - Myotis punicus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis punicus",
+      "xc_id": 805748
+    },
+    {
+      "en": "Malagasy Flying Fox",
+      "filename": "XC947592 - Malagasy Flying Fox - Pteropus rufus.mp3",
+      "metadata": "XC947592 - Malagasy Flying Fox - Pteropus rufus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus rufus",
+      "xc_id": 947592
+    },
+    {
+      "en": "Marianas Flying Fox",
+      "filename": "XC1033536 - Marianas Flying Fox - Pteropus mariannus.wav",
+      "metadata": "XC1033536 - Marianas Flying Fox - Pteropus mariannus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus mariannus",
+      "xc_id": 1033536
+    },
+    {
+      "en": "Marianas Flying Fox",
+      "filename": "XC1033558 - Marianas Flying Fox - Pteropus mariannus.wav",
+      "metadata": "XC1033558 - Marianas Flying Fox - Pteropus mariannus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus mariannus",
+      "xc_id": 1033558
+    },
+    {
+      "en": "Mauritian Tomb Bat",
+      "filename": "XC956659 - Mauritian Tomb Bat - Taphozous mauritianus.wav",
+      "metadata": "XC956659 - Mauritian Tomb Bat - Taphozous mauritianus.xc.json",
+      "source": "xeno-canto",
+      "species": "Taphozous mauritianus",
+      "xc_id": 956659
+    },
+    {
+      "en": "Mauritian Tomb Bat",
+      "filename": "XC843542 - Mauritian Tomb Bat - Taphozous mauritianus.wav",
+      "metadata": "XC843542 - Mauritian Tomb Bat - Taphozous mauritianus.xc.json",
+      "source": "xeno-canto",
+      "species": "Taphozous mauritianus",
+      "xc_id": 843542
+    },
+    {
+      "en": "Mediterranean Horseshoe Bat",
+      "filename": "XC1019133 - Mediterranean Horseshoe Bat - Rhinolophus euryale.wav",
+      "metadata": "XC1019133 - Mediterranean Horseshoe Bat - Rhinolophus euryale.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus euryale",
+      "xc_id": 1019133
+    },
+    {
+      "en": "Mediterranean Horseshoe Bat",
+      "filename": "XC824078 - Mediterranean Horseshoe Bat - Rhinolophus euryale.wav",
+      "metadata": "XC824078 - Mediterranean Horseshoe Bat - Rhinolophus euryale.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus euryale",
+      "xc_id": 824078
+    },
+    {
+      "en": "Mediterranean Long-eared Bat",
+      "filename": "XC1060637 - Mediterranean Long-eared Bat - Plecotus kolombatovici.wav",
+      "metadata": "XC1060637 - Mediterranean Long-eared Bat - Plecotus kolombatovici.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus kolombatovici",
+      "xc_id": 1060637
+    },
+    {
+      "en": "Mediterranean Long-eared Bat",
+      "filename": "XC1060636 - Mediterranean Long-eared Bat - Plecotus kolombatovici.wav",
+      "metadata": "XC1060636 - Mediterranean Long-eared Bat - Plecotus kolombatovici.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus kolombatovici",
+      "xc_id": 1060636
+    },
+    {
+      "en": "Mesoamerican Common Mustached Bat",
+      "filename": "XC1065009 - Mesoamerican Common Mustached Bat - Pteronotus mesoamericanus.wav",
+      "metadata": "XC1065009 - Mesoamerican Common Mustached Bat - Pteronotus mesoamericanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus mesoamericanus",
+      "xc_id": 1065009
+    },
+    {
+      "en": "Mesoamerican Common Mustached Bat",
+      "filename": "XC1064995 - Mesoamerican Common Mustached Bat - Pteronotus mesoamericanus.wav",
+      "metadata": "XC1064995 - Mesoamerican Common Mustached Bat - Pteronotus mesoamericanus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus mesoamericanus",
+      "xc_id": 1064995
+    },
+    {
+      "en": "Montane Myotis",
+      "filename": "XC838726 - Montane Myotis - Myotis oxyotus.wav",
+      "metadata": "XC838726 - Montane Myotis - Myotis oxyotus.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis oxyotus",
+      "xc_id": 838726
+    },
+    {
+      "en": "Mount Gargues Pipistrelle",
+      "filename": "XC843524 - Mount Gargues Pipistrelle - Pipistrellus aero.wav",
+      "metadata": "XC843524 - Mount Gargues Pipistrelle - Pipistrellus aero.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus aero",
+      "xc_id": 843524
+    },
+    {
+      "en": "Naked-rumped Tomb Bat",
+      "filename": "XC805892 - Naked-rumped Tomb Bat - Taphozous nudiventris.wav",
+      "metadata": "XC805892 - Naked-rumped Tomb Bat - Taphozous nudiventris.xc.json",
+      "source": "xeno-canto",
+      "species": "Taphozous nudiventris",
+      "xc_id": 805892
+    },
+    {
+      "en": "Natal Long-fingered Bat",
+      "filename": "XC843534 - Natal Long-fingered Bat - Miniopterus natalensis.wav",
+      "metadata": "XC843534 - Natal Long-fingered Bat - Miniopterus natalensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Miniopterus natalensis",
+      "xc_id": 843534
+    },
+    {
+      "en": "Nathusius's Pipistrelle",
+      "filename": "XC1008337 - Nathusius's Pipistrelle - Pipistrellus nathusii.wav",
+      "metadata": "XC1008337 - Nathusius's Pipistrelle - Pipistrellus nathusii.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus nathusii",
+      "xc_id": 1008337
+    },
+    {
+      "en": "Nathusius's Pipistrelle",
+      "filename": "XC1041837 - Nathusius's Pipistrelle - Pipistrellus nathusii.wav",
+      "metadata": "XC1041837 - Nathusius's Pipistrelle - Pipistrellus nathusii.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus nathusii",
+      "xc_id": 1041837
+    },
+    {
+      "en": "Natterer's Myotis",
+      "filename": "XC1084196 - Natterer's Myotis - Myotis nattereri.wav",
+      "metadata": "XC1084196 - Natterer's Myotis - Myotis nattereri.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis nattereri",
+      "xc_id": 1084196
+    },
+    {
+      "en": "Natterer's Myotis",
+      "filename": "XC1084195 - Natterer's Myotis - Myotis nattereri.wav",
+      "metadata": "XC1084195 - Natterer's Myotis - Myotis nattereri.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis nattereri",
+      "xc_id": 1084195
+    },
+    {
+      "en": "New Zealand Long-tailed Bat",
+      "filename": "XC1080504 - New Zealand Long-tailed Bat - Chalinolobus tuberculatus.wav",
+      "metadata": "XC1080504 - New Zealand Long-tailed Bat - Chalinolobus tuberculatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Chalinolobus tuberculatus",
+      "xc_id": 1080504
+    },
+    {
+      "en": "New Zealand Long-tailed Bat",
+      "filename": "XC1080503 - New Zealand Long-tailed Bat - Chalinolobus tuberculatus.wav",
+      "metadata": "XC1080503 - New Zealand Long-tailed Bat - Chalinolobus tuberculatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Chalinolobus tuberculatus",
+      "xc_id": 1080503
+    },
+    {
+      "en": "Niceforo's Big-eared Bat",
+      "filename": "XC819281 - Niceforo's Big-eared Bat - Trinycteris nicefori.wav",
+      "metadata": "XC819281 - Niceforo's Big-eared Bat - Trinycteris nicefori.xc.json",
+      "source": "xeno-canto",
+      "species": "Trinycteris nicefori",
+      "xc_id": 819281
+    },
+    {
+      "en": "Niceforo's Big-eared Bat",
+      "filename": "XC825084 - Niceforo's Big-eared Bat - Trinycteris nicefori.wav",
+      "metadata": "XC825084 - Niceforo's Big-eared Bat - Trinycteris nicefori.xc.json",
+      "source": "xeno-canto",
+      "species": "Trinycteris nicefori",
+      "xc_id": 825084
+    },
+    {
+      "en": "Northern Black Mastiff Bat",
+      "filename": "XC838313 - Northern Black Mastiff Bat - Molossus nigricans.wav",
+      "metadata": "XC838313 - Northern Black Mastiff Bat - Molossus nigricans.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus nigricans",
+      "xc_id": 838313
+    },
+    {
+      "en": "Northern Ghost Bat",
+      "filename": "XC882096 - Northern Ghost Bat - Diclidurus albus.wav",
+      "metadata": "XC882096 - Northern Ghost Bat - Diclidurus albus.xc.json",
+      "source": "xeno-canto",
+      "species": "Diclidurus albus",
+      "xc_id": 882096
+    },
+    {
+      "en": "Northern Ghost Bat",
+      "filename": "XC882095 - Northern Ghost Bat - Diclidurus albus.wav",
+      "metadata": "XC882095 - Northern Ghost Bat - Diclidurus albus.xc.json",
+      "source": "xeno-canto",
+      "species": "Diclidurus albus",
+      "xc_id": 882095
+    },
+    {
+      "en": "Northern Hairy-legged Myotis",
+      "filename": "XC838114 - Northern Hairy-legged Myotis - Myotis pilosatibialis.wav",
+      "metadata": "XC838114 - Northern Hairy-legged Myotis - Myotis pilosatibialis.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis pilosatibialis",
+      "xc_id": 838114
+    },
+    {
+      "en": "Northern Hoary Bat",
+      "filename": "XC803693 - Northern Hoary Bat - Aeorestes cinereus.wav",
+      "metadata": "XC803693 - Northern Hoary Bat - Aeorestes cinereus.xc.json",
+      "source": "xeno-canto",
+      "species": "Aeorestes cinereus",
+      "xc_id": 803693
+    },
+    {
+      "en": "Northern Hoary Bat",
+      "filename": "XC883320 - Northern Hoary Bat - Aeorestes cinereus.w4v",
+      "metadata": "XC883320 - Northern Hoary Bat - Aeorestes cinereus.xc.json",
+      "source": "xeno-canto",
+      "species": "Aeorestes cinereus",
+      "xc_id": 883320
+    },
+    {
+      "en": "Northern Little Yellow-eared Bat",
+      "filename": "XC1064998 - Northern Little Yellow-eared Bat - Vampyressa thyone.wav",
+      "metadata": "XC1064998 - Northern Little Yellow-eared Bat - Vampyressa thyone.xc.json",
+      "source": "xeno-canto",
+      "species": "Vampyressa thyone",
+      "xc_id": 1064998
+    },
+    {
+      "en": "Northern Little Yellow-eared Bat",
+      "filename": "XC823157 - Northern Little Yellow-eared Bat - Vampyressa thyone.wav",
+      "metadata": "XC823157 - Northern Little Yellow-eared Bat - Vampyressa thyone.xc.json",
+      "source": "xeno-canto",
+      "species": "Vampyressa thyone",
+      "xc_id": 823157
+    },
+    {
+      "en": "Northern Myotis",
+      "filename": "XC890408 - Northern Myotis - Myotis septentrionalis.wav",
+      "metadata": "XC890408 - Northern Myotis - Myotis septentrionalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis septentrionalis",
+      "xc_id": 890408
+    },
+    {
+      "en": "Northern Myotis",
+      "filename": "XC890407 - Northern Myotis - Myotis septentrionalis.wav",
+      "metadata": "XC890407 - Northern Myotis - Myotis septentrionalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis septentrionalis",
+      "xc_id": 890407
+    },
+    {
+      "en": "Northern Serotine",
+      "filename": "XC911682 - Northern Serotine - Eptesicus nilssonii.wav",
+      "metadata": "XC911682 - Northern Serotine - Eptesicus nilssonii.xc.json",
+      "source": "xeno-canto",
+      "species": "Eptesicus nilssonii",
+      "xc_id": 911682
+    },
+    {
+      "en": "Northern Stripe-headed Round-eared Bat",
+      "filename": "XC821208 - Northern Stripe-headed Round-eared Bat - Tonatia bakeri.wav",
+      "metadata": "XC821208 - Northern Stripe-headed Round-eared Bat - Tonatia bakeri.xc.json",
+      "source": "xeno-canto",
+      "species": "Tonatia bakeri",
+      "xc_id": 821208
+    },
+    {
+      "en": "Northern Stripe-headed Round-eared Bat",
+      "filename": "XC821207 - Northern Stripe-headed Round-eared Bat - Tonatia bakeri.wav",
+      "metadata": "XC821207 - Northern Stripe-headed Round-eared Bat - Tonatia bakeri.xc.json",
+      "source": "xeno-canto",
+      "species": "Tonatia bakeri",
+      "xc_id": 821207
+    },
+    {
+      "en": "Nut-colored Yellow Bat",
+      "filename": "XC1087684 - Nut-colored Yellow Bat - Scotophilus nux.wav",
+      "metadata": "XC1087684 - Nut-colored Yellow Bat - Scotophilus nux.xc.json",
+      "source": "xeno-canto",
+      "species": "Scotophilus nux",
+      "xc_id": 1087684
+    },
+    {
+      "en": "Ognev's Long-eared Bat",
+      "filename": "XC1002662 - Ognev's Long-eared Bat - Plecotus ognevi.wav",
+      "metadata": "XC1002662 - Ognev's Long-eared Bat - Plecotus ognevi.xc.json",
+      "source": "xeno-canto",
+      "species": "Plecotus ognevi",
+      "xc_id": 1002662
+    },
+    {
+      "en": "Okinawa Horseshoe Bat",
+      "filename": "XC924727 - Okinawa Horseshoe Bat - Rhinolophus pumilus.wav",
+      "metadata": "XC924727 - Okinawa Horseshoe Bat - Rhinolophus pumilus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus pumilus",
+      "xc_id": 924727
+    },
+    {
+      "en": "Okinawa Horseshoe Bat",
+      "filename": "XC924726 - Okinawa Horseshoe Bat - Rhinolophus pumilus.wav",
+      "metadata": "XC924726 - Okinawa Horseshoe Bat - Rhinolophus pumilus.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus pumilus",
+      "xc_id": 924726
+    },
+    {
+      "en": "Orange Nectar Bat",
+      "filename": "XC839655 - Orange Nectar Bat - Lonchophylla robusta.wav",
+      "metadata": "XC839655 - Orange Nectar Bat - Lonchophylla robusta.xc.json",
+      "source": "xeno-canto",
+      "species": "Lonchophylla robusta",
+      "xc_id": 839655
+    },
+    {
+      "en": "Orange Nectar Bat",
+      "filename": "XC839654 - Orange Nectar Bat - Lonchophylla robusta.wav",
+      "metadata": "XC839654 - Orange Nectar Bat - Lonchophylla robusta.xc.json",
+      "source": "xeno-canto",
+      "species": "Lonchophylla robusta",
+      "xc_id": 839654
+    },
+    {
+      "en": "Orange-throated Bat",
+      "filename": "XC825957 - Orange-throated Bat - Lampronycteris brachyotis.wav",
+      "metadata": "XC825957 - Orange-throated Bat - Lampronycteris brachyotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Lampronycteris brachyotis",
+      "xc_id": 825957
+    },
+    {
+      "en": "Orange-throated Bat",
+      "filename": "XC821201 - Orange-throated Bat - Lampronycteris brachyotis.wav",
+      "metadata": "XC821201 - Orange-throated Bat - Lampronycteris brachyotis.xc.json",
+      "source": "xeno-canto",
+      "species": "Lampronycteris brachyotis",
+      "xc_id": 821201
+    },
+    {
+      "en": "Pacific Tent-making Bat",
+      "filename": "XC1065010 - Pacific Tent-making Bat - Uroderma convexum.wav",
+      "metadata": "XC1065010 - Pacific Tent-making Bat - Uroderma convexum.xc.json",
+      "source": "xeno-canto",
+      "species": "Uroderma convexum",
+      "xc_id": 1065010
+    },
+    {
+      "en": "Pacific Tent-making Bat",
+      "filename": "XC1064997 - Pacific Tent-making Bat - Uroderma convexum.wav",
+      "metadata": "XC1064997 - Pacific Tent-making Bat - Uroderma convexum.xc.json",
+      "source": "xeno-canto",
+      "species": "Uroderma convexum",
+      "xc_id": 1064997
+    },
+    {
+      "en": "Pale Spear-nosed Bat",
+      "filename": "XC1065007 - Pale Spear-nosed Bat - Phyllostomus discolor.wav",
+      "metadata": "XC1065007 - Pale Spear-nosed Bat - Phyllostomus discolor.xc.json",
+      "source": "xeno-canto",
+      "species": "Phyllostomus discolor",
+      "xc_id": 1065007
+    },
+    {
+      "en": "Pale Spear-nosed Bat",
+      "filename": "XC839659 - Pale Spear-nosed Bat - Phyllostomus discolor.wav",
+      "metadata": "XC839659 - Pale Spear-nosed Bat - Phyllostomus discolor.xc.json",
+      "source": "xeno-canto",
+      "species": "Phyllostomus discolor",
+      "xc_id": 839659
+    },
+    {
+      "en": "Pallas's Long-tongued Bat",
+      "filename": "XC805282 - Pallas's Long-tongued Bat - Glossophaga soricina.wav",
+      "metadata": "XC805282 - Pallas's Long-tongued Bat - Glossophaga soricina.xc.json",
+      "source": "xeno-canto",
+      "species": "Glossophaga soricina",
+      "xc_id": 805282
+    },
+    {
+      "en": "Pallas's Long-tongued Bat",
+      "filename": "XC1064993 - Pallas's Long-tongued Bat - Glossophaga soricina.wav",
+      "metadata": "XC1064993 - Pallas's Long-tongued Bat - Glossophaga soricina.xc.json",
+      "source": "xeno-canto",
+      "species": "Glossophaga soricina",
+      "xc_id": 1064993
+    },
+    {
+      "en": "Pallas's Mastiff Bat",
+      "filename": "XC822917 - Pallas's Mastiff Bat - Molossus molossus.wav",
+      "metadata": "XC822917 - Pallas's Mastiff Bat - Molossus molossus.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus molossus",
+      "xc_id": 822917
+    },
+    {
+      "en": "Pallas's Mastiff Bat",
+      "filename": "XC822916 - Pallas's Mastiff Bat - Molossus molossus.wav",
+      "metadata": "XC822916 - Pallas's Mastiff Bat - Molossus molossus.xc.json",
+      "source": "xeno-canto",
+      "species": "Molossus molossus",
+      "xc_id": 822916
+    },
+    {
+      "en": "Pallid Bat",
+      "filename": "XC837607 - Pallid Bat - Antrozous pallidus.wav",
+      "metadata": "XC837607 - Pallid Bat - Antrozous pallidus.xc.json",
+      "source": "xeno-canto",
+      "species": "Antrozous pallidus",
+      "xc_id": 837607
+    },
+    {
+      "en": "Parnell's Common Mustached Bat",
+      "filename": "XC892810 - Parnell's Common Mustached Bat - Pteronotus parnellii.wav",
+      "metadata": "XC892810 - Parnell's Common Mustached Bat - Pteronotus parnellii.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus parnellii",
+      "xc_id": 892810
+    },
+    {
+      "en": "Pearson's Horseshoe Bat",
+      "filename": "XC994474 - Pearson's Horseshoe Bat - Rhinolophus pearsonii.wav",
+      "metadata": "XC994474 - Pearson's Horseshoe Bat - Rhinolophus pearsonii.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus pearsonii",
+      "xc_id": 994474
+    },
+    {
+      "en": "Pocketed Free-tailed Bat",
+      "filename": "XC1016531 - Pocketed Free-tailed Bat - Nyctinomops femorosaccus.wav",
+      "metadata": "XC1016531 - Pocketed Free-tailed Bat - Nyctinomops femorosaccus.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctinomops femorosaccus",
+      "xc_id": 1016531
+    },
+    {
+      "en": "Pond Myotis",
+      "filename": "XC1034114 - Pond Myotis - Myotis dasycneme.wav",
+      "metadata": "XC1034114 - Pond Myotis - Myotis dasycneme.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis dasycneme",
+      "xc_id": 1034114
+    },
+    {
+      "en": "Proboscis Bat",
+      "filename": "XC821992 - Proboscis Bat - Rhynchonycteris naso.wav",
+      "metadata": "XC821992 - Proboscis Bat - Rhynchonycteris naso.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhynchonycteris naso",
+      "xc_id": 821992
+    },
+    {
+      "en": "Proboscis Bat",
+      "filename": "XC821991 - Proboscis Bat - Rhynchonycteris naso.wav",
+      "metadata": "XC821991 - Proboscis Bat - Rhynchonycteris naso.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhynchonycteris naso",
+      "xc_id": 821991
+    },
+    {
+      "en": "Pygmy Round-eared Bat",
+      "filename": "XC805284 - Pygmy Round-eared Bat - Lophostoma brasiliense.wav",
+      "metadata": "XC805284 - Pygmy Round-eared Bat - Lophostoma brasiliense.xc.json",
+      "source": "xeno-canto",
+      "species": "Lophostoma brasiliense",
+      "xc_id": 805284
+    },
+    {
+      "en": "Rafinesque's Big-eared Bat",
+      "filename": "XC1025213 - Rafinesque's Big-eared Bat - Corynorhinus rafinesquii.wav",
+      "metadata": "XC1025213 - Rafinesque's Big-eared Bat - Corynorhinus rafinesquii.xc.json",
+      "source": "xeno-canto",
+      "species": "Corynorhinus rafinesquii",
+      "xc_id": 1025213
+    },
+    {
+      "en": "Rafinesque's Big-eared Bat",
+      "filename": "XC1025210 - Rafinesque's Big-eared Bat - Corynorhinus rafinesquii.wav",
+      "metadata": "XC1025210 - Rafinesque's Big-eared Bat - Corynorhinus rafinesquii.xc.json",
+      "source": "xeno-canto",
+      "species": "Corynorhinus rafinesquii",
+      "xc_id": 1025210
+    },
+    {
+      "en": "Reunion Little Mastiff Bat",
+      "filename": "XC956660 - Reunion Little Mastiff Bat - Mormopterus francoismoutoui.wav",
+      "metadata": "XC956660 - Reunion Little Mastiff Bat - Mormopterus francoismoutoui.xc.json",
+      "source": "xeno-canto",
+      "species": "Mormopterus francoismoutoui",
+      "xc_id": 956660
+    },
+    {
+      "en": "Riparian Myotis",
+      "filename": "XC1065006 - Riparian Myotis - Myotis riparius.wav",
+      "metadata": "XC1065006 - Riparian Myotis - Myotis riparius.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis riparius",
+      "xc_id": 1065006
+    },
+    {
+      "en": "Rusty Pipistrelle",
+      "filename": "XC843544 - Rusty Pipistrelle - Pipistrellus rusticus.wav",
+      "metadata": "XC843544 - Rusty Pipistrelle - Pipistrellus rusticus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus rusticus",
+      "xc_id": 843544
+    },
+    {
+      "en": "Savi's Pipistrelle",
+      "filename": "XC1061990 - Savi's Pipistrelle - Hypsugo savii.wav",
+      "metadata": "XC1061990 - Savi's Pipistrelle - Hypsugo savii.xc.json",
+      "source": "xeno-canto",
+      "species": "Hypsugo savii",
+      "xc_id": 1061990
+    },
+    {
+      "en": "Savi's Pipistrelle",
+      "filename": "XC1061989 - Savi's Pipistrelle - Hypsugo savii.wav",
+      "metadata": "XC1061989 - Savi's Pipistrelle - Hypsugo savii.xc.json",
+      "source": "xeno-canto",
+      "species": "Hypsugo savii",
+      "xc_id": 1061989
+    },
+    {
+      "en": "Schreibers's Long-fingered Bat",
+      "filename": "XC1058153 - Schreibers's Long-fingered Bat - Miniopterus schreibersii.wav",
+      "metadata": "XC1058153 - Schreibers's Long-fingered Bat - Miniopterus schreibersii.xc.json",
+      "source": "xeno-canto",
+      "species": "Miniopterus schreibersii",
+      "xc_id": 1058153
+    },
+    {
+      "en": "Schreibers's Long-fingered Bat",
+      "filename": "XC1058152 - Schreibers's Long-fingered Bat - Miniopterus schreibersii.wav",
+      "metadata": "XC1058152 - Schreibers's Long-fingered Bat - Miniopterus schreibersii.xc.json",
+      "source": "xeno-canto",
+      "species": "Miniopterus schreibersii",
+      "xc_id": 1058152
+    },
+    {
+      "en": "Seba's Short-tailed Bat",
+      "filename": "XC821717 - Seba's Short-tailed Bat - Carollia perspicillata.wav",
+      "metadata": "XC821717 - Seba's Short-tailed Bat - Carollia perspicillata.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia perspicillata",
+      "xc_id": 821717
+    },
+    {
+      "en": "Seba's Short-tailed Bat",
+      "filename": "XC821715 - Seba's Short-tailed Bat - Carollia perspicillata.wav",
+      "metadata": "XC821715 - Seba's Short-tailed Bat - Carollia perspicillata.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia perspicillata",
+      "xc_id": 821715
+    },
+    {
+      "en": "Silver-haired Bat",
+      "filename": "XC1025257 - Silver-haired Bat - Lasionycteris noctivagans.wav",
+      "metadata": "XC1025257 - Silver-haired Bat - Lasionycteris noctivagans.xc.json",
+      "source": "xeno-canto",
+      "species": "Lasionycteris noctivagans",
+      "xc_id": 1025257
+    },
+    {
+      "en": "Silver-haired Bat",
+      "filename": "XC1025269 - Silver-haired Bat - Lasionycteris noctivagans.wav",
+      "metadata": "XC1025269 - Silver-haired Bat - Lasionycteris noctivagans.xc.json",
+      "source": "xeno-canto",
+      "species": "Lasionycteris noctivagans",
+      "xc_id": 1025269
+    },
+    {
+      "en": "Silver-tipped Myotis",
+      "filename": "XC821925 - Silver-tipped Myotis - Myotis albescens.wav",
+      "metadata": "XC821925 - Silver-tipped Myotis - Myotis albescens.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis albescens",
+      "xc_id": 821925
+    },
+    {
+      "en": "Silver-tipped Myotis",
+      "filename": "XC821924 - Silver-tipped Myotis - Myotis albescens.wav",
+      "metadata": "XC821924 - Silver-tipped Myotis - Myotis albescens.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis albescens",
+      "xc_id": 821924
+    },
+    {
+      "en": "Small Asian Sheath-tailed Bat",
+      "filename": "XC1058382 - Small Asian Sheath-tailed Bat - Emballonura alecto.wav",
+      "metadata": "XC1058382 - Small Asian Sheath-tailed Bat - Emballonura alecto.xc.json",
+      "source": "xeno-canto",
+      "species": "Emballonura alecto",
+      "xc_id": 1058382
+    },
+    {
+      "en": "Sooty Mustached Bat",
+      "filename": "XC892815 - Sooty Mustached Bat - Pteronotus quadridens.wav",
+      "metadata": "XC892815 - Sooty Mustached Bat - Pteronotus quadridens.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus quadridens",
+      "xc_id": 892815
+    },
+    {
+      "en": "Soprano Pipistrelle",
+      "filename": "XC1060750 - Soprano Pipistrelle - Pipistrellus pygmaeus.wav",
+      "metadata": "XC1060750 - Soprano Pipistrelle - Pipistrellus pygmaeus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus pygmaeus",
+      "xc_id": 1060750
+    },
+    {
+      "en": "Soprano Pipistrelle",
+      "filename": "XC1037039 - Soprano Pipistrelle - Pipistrellus pygmaeus.wav",
+      "metadata": "XC1037039 - Soprano Pipistrelle - Pipistrellus pygmaeus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pipistrellus pygmaeus",
+      "xc_id": 1037039
+    },
+    {
+      "en": "Soundscape",
+      "filename": "XC809053 - Soundscape - Sonus naturalis.wav",
+      "metadata": "XC809053 - Soundscape - Sonus naturalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Sonus naturalis",
+      "xc_id": 809053
+    },
+    {
+      "en": "Soundscape",
+      "filename": "XC825336 - Soundscape - Sonus naturalis.wav",
+      "metadata": "XC825336 - Soundscape - Sonus naturalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Sonus naturalis",
+      "xc_id": 825336
+    },
+    {
+      "en": "Southern Dog-faced Bat",
+      "filename": "XC1063018 - Southern Dog-faced Bat - Cynomops planirostris.wav",
+      "metadata": "XC1063018 - Southern Dog-faced Bat - Cynomops planirostris.xc.json",
+      "source": "xeno-canto",
+      "species": "Cynomops planirostris",
+      "xc_id": 1063018
+    },
+    {
+      "en": "Southern Hairy-legged Myotis",
+      "filename": "XC838716 - Southern Hairy-legged Myotis - Myotis keaysi.wav",
+      "metadata": "XC838716 - Southern Hairy-legged Myotis - Myotis keaysi.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis keaysi",
+      "xc_id": 838716
+    },
+    {
+      "en": "Southern Hairy-legged Myotis",
+      "filename": "XC838712 - Southern Hairy-legged Myotis - Myotis keaysi.wav",
+      "metadata": "XC838712 - Southern Hairy-legged Myotis - Myotis keaysi.xc.json",
+      "source": "xeno-canto",
+      "species": "Myotis keaysi",
+      "xc_id": 838712
+    },
+    {
+      "en": "Southern Red Bat",
+      "filename": "XC821988 - Southern Red Bat - Lasiurus blossevillii.wav",
+      "metadata": "XC821988 - Southern Red Bat - Lasiurus blossevillii.xc.json",
+      "source": "xeno-canto",
+      "species": "Lasiurus blossevillii",
+      "xc_id": 821988
+    },
+    {
+      "en": "Southern Yellow Bat",
+      "filename": "XC805283 - Southern Yellow Bat - Dasypterus ega.wav",
+      "metadata": "XC805283 - Southern Yellow Bat - Dasypterus ega.xc.json",
+      "source": "xeno-canto",
+      "species": "Dasypterus ega",
+      "xc_id": 805283
+    },
+    {
+      "en": "Southern Yellow Bat",
+      "filename": "XC992860 - Southern Yellow Bat - Dasypterus ega.mp3",
+      "metadata": "XC992860 - Southern Yellow Bat - Dasypterus ega.xc.json",
+      "source": "xeno-canto",
+      "species": "Dasypterus ega",
+      "xc_id": 992860
+    },
+    {
+      "en": "Sowell's Short-tailed Bat",
+      "filename": "XC824042 - Sowell's Short-tailed Bat - Carollia sowelli.wav",
+      "metadata": "XC824042 - Sowell's Short-tailed Bat - Carollia sowelli.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia sowelli",
+      "xc_id": 824042
+    },
+    {
+      "en": "Sowell's Short-tailed Bat",
+      "filename": "XC823132 - Sowell's Short-tailed Bat - Carollia sowelli.wav",
+      "metadata": "XC823132 - Sowell's Short-tailed Bat - Carollia sowelli.xc.json",
+      "source": "xeno-canto",
+      "species": "Carollia sowelli",
+      "xc_id": 823132
+    },
+    {
+      "en": "Spectacled Flying Fox",
+      "filename": "XC1025974 - Spectacled Flying Fox - Pteropus conspicillatus.wav",
+      "metadata": "XC1025974 - Spectacled Flying Fox - Pteropus conspicillatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus conspicillatus",
+      "xc_id": 1025974
+    },
+    {
+      "en": "Spectacled Flying Fox",
+      "filename": "XC1025973 - Spectacled Flying Fox - Pteropus conspicillatus.wav",
+      "metadata": "XC1025973 - Spectacled Flying Fox - Pteropus conspicillatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteropus conspicillatus",
+      "xc_id": 1025973
+    },
+    {
+      "en": "Spectral Bat",
+      "filename": "XC806101 - Spectral Bat - Vampyrum spectrum.wav",
+      "metadata": "XC806101 - Spectral Bat - Vampyrum spectrum.xc.json",
+      "source": "xeno-canto",
+      "species": "Vampyrum spectrum",
+      "xc_id": 806101
+    },
+    {
+      "en": "Spix's Disk-winged Bat",
+      "filename": "XC820604 - Spix's Disk-winged Bat - Thyroptera tricolor.wav",
+      "metadata": "XC820604 - Spix's Disk-winged Bat - Thyroptera tricolor.xc.json",
+      "source": "xeno-canto",
+      "species": "Thyroptera tricolor",
+      "xc_id": 820604
+    },
+    {
+      "en": "Spotted Bat",
+      "filename": "XC1025242 - Spotted Bat - Euderma maculatum.wav",
+      "metadata": "XC1025242 - Spotted Bat - Euderma maculatum.xc.json",
+      "source": "xeno-canto",
+      "species": "Euderma maculatum",
+      "xc_id": 1025242
+    },
+    {
+      "en": "Spotted Bat",
+      "filename": "XC1025241 - Spotted Bat - Euderma maculatum.wav",
+      "metadata": "XC1025241 - Spotted Bat - Euderma maculatum.xc.json",
+      "source": "xeno-canto",
+      "species": "Euderma maculatum",
+      "xc_id": 1025241
+    },
+    {
+      "en": "Striped Hairy-nosed Bat",
+      "filename": "XC805297 - Striped Hairy-nosed Bat - Gardnerycteris crenulatum.wav",
+      "metadata": "XC805297 - Striped Hairy-nosed Bat - Gardnerycteris crenulatum.xc.json",
+      "source": "xeno-canto",
+      "species": "Gardnerycteris crenulatum",
+      "xc_id": 805297
+    },
+    {
+      "en": "Sulawesian Free-tailed Bat",
+      "filename": "XC1064888 - Sulawesian Free-tailed Bat - Mops sarasinorum.mp3",
+      "metadata": "XC1064888 - Sulawesian Free-tailed Bat - Mops sarasinorum.xc.json",
+      "source": "xeno-canto",
+      "species": "Mops sarasinorum",
+      "xc_id": 1064888
+    },
+    {
+      "en": "Sundevall's Leaf-nosed Bat",
+      "filename": "XC1002573 - Sundevall's Leaf-nosed Bat - Hipposideros caffer.wav",
+      "metadata": "XC1002573 - Sundevall's Leaf-nosed Bat - Hipposideros caffer.xc.json",
+      "source": "xeno-canto",
+      "species": "Hipposideros caffer",
+      "xc_id": 1002573
+    },
+    {
+      "en": "Thomas's Fruit-eating Bat",
+      "filename": "XC821723 - Thomas's Fruit-eating Bat - Dermanura watsoni.wav",
+      "metadata": "XC821723 - Thomas's Fruit-eating Bat - Dermanura watsoni.xc.json",
+      "source": "xeno-canto",
+      "species": "Dermanura watsoni",
+      "xc_id": 821723
+    },
+    {
+      "en": "Thomas's Naked-backed Bat",
+      "filename": "XC838108 - Thomas's Naked-backed Bat - Pteronotus fulvus.wav",
+      "metadata": "XC838108 - Thomas's Naked-backed Bat - Pteronotus fulvus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pteronotus fulvus",
+      "xc_id": 838108
+    },
+    {
+      "en": "Thomas's Shaggy Bat",
+      "filename": "XC821237 - Thomas's Shaggy Bat - Centronycteris centralis.wav",
+      "metadata": "XC821237 - Thomas's Shaggy Bat - Centronycteris centralis.xc.json",
+      "source": "xeno-canto",
+      "species": "Centronycteris centralis",
+      "xc_id": 821237
+    },
+    {
+      "en": "Tiny Big-eared Bat",
+      "filename": "XC1065005 - Tiny Big-eared Bat - Micronycteris minuta.wav",
+      "metadata": "XC1065005 - Tiny Big-eared Bat - Micronycteris minuta.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris minuta",
+      "xc_id": 1065005
+    },
+    {
+      "en": "Tiny Big-eared Bat",
+      "filename": "XC805293 - Tiny Big-eared Bat - Micronycteris minuta.wav",
+      "metadata": "XC805293 - Tiny Big-eared Bat - Micronycteris minuta.xc.json",
+      "source": "xeno-canto",
+      "species": "Micronycteris minuta",
+      "xc_id": 805293
+    },
+    {
+      "en": "Tricolored Bat",
+      "filename": "XC921254 - Tricolored Bat - Perimyotis subflavus.wav",
+      "metadata": "XC921254 - Tricolored Bat - Perimyotis subflavus.xc.json",
+      "source": "xeno-canto",
+      "species": "Perimyotis subflavus",
+      "xc_id": 921254
+    },
+    {
+      "en": "Tricolored Bat",
+      "filename": "XC883306 - Tricolored Bat - Perimyotis subflavus.wav",
+      "metadata": "XC883306 - Tricolored Bat - Perimyotis subflavus.xc.json",
+      "source": "xeno-canto",
+      "species": "Perimyotis subflavus",
+      "xc_id": 883306
+    },
+    {
+      "en": "Trumbull's Bonneted Bat",
+      "filename": "XC1062984 - Trumbull's Bonneted Bat - Eumops trumbulli.wav",
+      "metadata": "XC1062984 - Trumbull's Bonneted Bat - Eumops trumbulli.xc.json",
+      "source": "xeno-canto",
+      "species": "Eumops trumbulli",
+      "xc_id": 1062984
+    },
+    {
+      "en": "Underwood's Long-tongued Bat",
+      "filename": "XC821221 - Underwood's Long-tongued Bat - Hylonycteris underwoodi.wav",
+      "metadata": "XC821221 - Underwood's Long-tongued Bat - Hylonycteris underwoodi.xc.json",
+      "source": "xeno-canto",
+      "species": "Hylonycteris underwoodi",
+      "xc_id": 821221
+    },
+    {
+      "en": "Velvety Fruit-eating Bat",
+      "filename": "XC823573 - Velvety Fruit-eating Bat - Enchisthenes hartii.wav",
+      "metadata": "XC823573 - Velvety Fruit-eating Bat - Enchisthenes hartii.xc.json",
+      "source": "xeno-canto",
+      "species": "Enchisthenes hartii",
+      "xc_id": 823573
+    },
+    {
+      "en": "Western Barbastelle",
+      "filename": "XC1084197 - Western Barbastelle - Barbastella barbastellus.wav",
+      "metadata": "XC1084197 - Western Barbastelle - Barbastella barbastellus.xc.json",
+      "source": "xeno-canto",
+      "species": "Barbastella barbastellus",
+      "xc_id": 1084197
+    },
+    {
+      "en": "Western Barbastelle",
+      "filename": "XC1084193 - Western Barbastelle - Barbastella barbastellus.wav",
+      "metadata": "XC1084193 - Western Barbastelle - Barbastella barbastellus.xc.json",
+      "source": "xeno-canto",
+      "species": "Barbastella barbastellus",
+      "xc_id": 1084193
+    },
+    {
+      "en": "White-throated Lesser House Bat",
+      "filename": "XC843556 - White-throated Lesser House Bat - Scotoecus albigula.wav",
+      "metadata": "XC843556 - White-throated Lesser House Bat - Scotoecus albigula.xc.json",
+      "source": "xeno-canto",
+      "species": "Scotoecus albigula",
+      "xc_id": 843556
+    },
+    {
+      "en": "White-throated Round-eared Bat",
+      "filename": "XC819773 - White-throated Round-eared Bat - Lophostoma silvicola.wav",
+      "metadata": "XC819773 - White-throated Round-eared Bat - Lophostoma silvicola.xc.json",
+      "source": "xeno-canto",
+      "species": "Lophostoma silvicola",
+      "xc_id": 819773
+    },
+    {
+      "en": "White-throated Round-eared Bat",
+      "filename": "XC1065004 - White-throated Round-eared Bat - Lophostoma silvicola.wav",
+      "metadata": "XC1065004 - White-throated Round-eared Bat - Lophostoma silvicola.xc.json",
+      "source": "xeno-canto",
+      "species": "Lophostoma silvicola",
+      "xc_id": 1065004
+    },
+    {
+      "en": "Wrinkle-faced Bat",
+      "filename": "XC805275 - Wrinkle-faced Bat - Centurio senex.wav",
+      "metadata": "XC805275 - Wrinkle-faced Bat - Centurio senex.xc.json",
+      "source": "xeno-canto",
+      "species": "Centurio senex",
+      "xc_id": 805275
+    },
+    {
+      "en": "Wrinkle-faced Bat",
+      "filename": "XC821671 - Wrinkle-faced Bat - Centurio senex.wav",
+      "metadata": "XC821671 - Wrinkle-faced Bat - Centurio senex.xc.json",
+      "source": "xeno-canto",
+      "species": "Centurio senex",
+      "xc_id": 821671
+    },
+    {
+      "en": "Yellow-faced Horseshoe Bat",
+      "filename": "XC1056563 - Yellow-faced Horseshoe Bat - Rhinolophus virgo.wav",
+      "metadata": "XC1056563 - Yellow-faced Horseshoe Bat - Rhinolophus virgo.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhinolophus virgo",
+      "xc_id": 1056563
+    },
+    {
+      "en": "Yucatan Yellow Bat",
+      "filename": "XC838110 - Yucatan Yellow Bat - Rhogeessa aenea.wav",
+      "metadata": "XC838110 - Yucatan Yellow Bat - Rhogeessa aenea.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhogeessa aenea",
+      "xc_id": 838110
     }
   ],
   "version": 1

@@ -1,0 +1,1422 @@
+{
+  "group": "bats",
+  "country": null,
+  "species": [
+    {
+      "gen": "Rhinolophus",
+      "sp": "acuminatus",
+      "en": "Acuminate Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Miniopterus",
+      "sp": "africanus",
+      "en": "African Long-fingered Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Eidolon",
+      "sp": "helvum",
+      "en": "African Straw-colored Fruit Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Scotophilus",
+      "sp": "dinganii",
+      "en": "African Yellow Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "alcathoe",
+      "en": "Alcathoe Whiskered Myotis",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Idionycteris",
+      "sp": "phyllotis",
+      "en": "Allen's Big-eared Bat",
+      "fam": "",
+      "recording_count": 8
+    },
+    {
+      "gen": "Plecotus",
+      "sp": "macrobullaris",
+      "en": "Alpine Long-eared Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Molossus",
+      "sp": "alvarezi",
+      "en": "Alvarez's Mastiff Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "cognatus",
+      "en": "Andaman Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Barbastella",
+      "sp": "leucomelas",
+      "en": "Arabian Barbastelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinopoma",
+      "sp": "cystops",
+      "en": "Arabian Mouse-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "furinalis",
+      "en": "Argentine Serotine",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Afronycteris",
+      "sp": "nanus",
+      "en": "Banana Serotine",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Saccolaimus",
+      "sp": "saccolaimus",
+      "en": "Bare-rumped Sheath-tailed Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Myotis",
+      "sp": "bechsteinii",
+      "en": "Bechstein's Myotis",
+      "fam": "",
+      "recording_count": 7
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "fuscus",
+      "en": "Big Brown Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Promops",
+      "sp": "centralis",
+      "en": "Big Crested Mastiff Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Nyctinomops",
+      "sp": "macrotis",
+      "en": "Big Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "gymnonotus",
+      "en": "Big Naked-backed Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Aeorestes",
+      "sp": "egregius",
+      "en": "Big Red Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Nyctalus",
+      "sp": "aviator",
+      "en": "Bird-like Noctule",
+      "fam": "",
+      "recording_count": 8
+    },
+    {
+      "gen": "Eumops",
+      "sp": "auripendulus",
+      "en": "Black Bonneted Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "alecto",
+      "en": "Black Flying Fox",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Taphozous",
+      "sp": "melanopogon",
+      "en": "Black-bearded Tomb Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Rhogeessa",
+      "sp": "tumida",
+      "en": "Black-winged Little Yellow Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "blasii",
+      "en": "Blasius's Horseshoe Bat",
+      "fam": "",
+      "recording_count": 9
+    },
+    {
+      "gen": "Tomopeas",
+      "sp": "ravus",
+      "en": "Blunt-eared Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "bocagii",
+      "en": "Bocage's Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "borneensis",
+      "en": "Bornean Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "brandtii",
+      "en": "Brandt's Myotis",
+      "fam": "",
+      "recording_count": 26
+    },
+    {
+      "gen": "Tadarida",
+      "sp": "brasiliensis",
+      "en": "Brazilian Free-tailed Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "brasiliensis",
+      "en": "Brazilian Serotine",
+      "fam": "",
+      "recording_count": 9
+    },
+    {
+      "gen": "Plecotus",
+      "sp": "auritus",
+      "en": "Brown Long-eared Bat",
+      "fam": "",
+      "recording_count": 170
+    },
+    {
+      "gen": "Parastrellus",
+      "sp": "hesperus",
+      "en": "Canyon Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Vampyrodes",
+      "sp": "caraccioli",
+      "en": "Caracciolo's Stripe-faced Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Cormura",
+      "sp": "brevirostris",
+      "en": "Chestnut Sac-winged Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Carollia",
+      "sp": "castanea",
+      "en": "Chestnut Short-tailed Bat",
+      "fam": "",
+      "recording_count": 40
+    },
+    {
+      "gen": "Glossophaga",
+      "sp": "commissarisi",
+      "en": "Commissaris's Long-tongued Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Micronycteris",
+      "sp": "microtis",
+      "en": "Common Big-eared Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Molossus",
+      "sp": "rufus",
+      "en": "Common Black Mastiff Bat",
+      "fam": "",
+      "recording_count": 35
+    },
+    {
+      "gen": "Myotis",
+      "sp": "nigricans",
+      "en": "Common Black Myotis",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Glauconycteris",
+      "sp": "argentata",
+      "en": "Common Butterfly Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Nyctalus",
+      "sp": "noctula",
+      "en": "Common Noctule",
+      "fam": "",
+      "recording_count": 542
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "pipistrellus",
+      "en": "Common Pipistrelle",
+      "fam": "",
+      "recording_count": 974
+    },
+    {
+      "gen": "Taphozous",
+      "sp": "georgianus",
+      "en": "Common Sheath-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Uroderma",
+      "sp": "bilobatum",
+      "en": "Common Tent-making Bat",
+      "fam": "",
+      "recording_count": 17
+    },
+    {
+      "gen": "Desmodus",
+      "sp": "rotundus",
+      "en": "Common Vampire Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Myotis",
+      "sp": "mystacinus",
+      "en": "Common Whiskered Myotis",
+      "fam": "",
+      "recording_count": 20
+    },
+    {
+      "gen": "Myotis",
+      "sp": "crypticus",
+      "en": "Cryptic Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Doryrhina",
+      "sp": "cyclops",
+      "en": "Cyclops Leaf-nosed Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Lichonycteris",
+      "sp": "obscura",
+      "en": "Dark Long-tongued Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "darlingi",
+      "en": "Darling's Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "daubentonii",
+      "en": "Daubenton's Myotis",
+      "fam": "",
+      "recording_count": 146
+    },
+    {
+      "gen": "Myotis",
+      "sp": "davidii",
+      "en": "David's Myotis",
+      "fam": "",
+      "recording_count": 16
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "psilotis",
+      "en": "Dobson's Lesser Mustached Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "hesperidus",
+      "en": "Dusky Pipistrelle",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Tadarida",
+      "sp": "insignis",
+      "en": "East Asian Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Lasiurus",
+      "sp": "borealis",
+      "en": "Eastern Red Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Myotis",
+      "sp": "leibii",
+      "en": "Eastern Small-footed Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Tadarida",
+      "sp": "aegyptiaca",
+      "en": "Egyptian Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rousettus",
+      "sp": "aegyptiacus",
+      "en": "Egyptian Rousette",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Nycteris",
+      "sp": "thebaica",
+      "en": "Egyptian Slit-faced Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Myotis",
+      "sp": "elegans",
+      "en": "Elegant Myotis",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Myotis",
+      "sp": "escalerai",
+      "en": "Escalera's Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Vespertilio",
+      "sp": "murinus",
+      "en": "Eurasian Particolored Bat",
+      "fam": "",
+      "recording_count": 90
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "serotinus",
+      "en": "Eurasian Serotine",
+      "fam": "",
+      "recording_count": 177
+    },
+    {
+      "gen": "Tadarida",
+      "sp": "teniotis",
+      "en": "European Free-tailed Bat",
+      "fam": "",
+      "recording_count": 967
+    },
+    {
+      "gen": "Trachops",
+      "sp": "cirrhosus",
+      "en": "Fringe-lipped Bat",
+      "fam": "",
+      "recording_count": 17
+    },
+    {
+      "gen": "Myotis",
+      "sp": "fimbriatus",
+      "en": "Fringed Long-footed Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "thysanodes",
+      "en": "Fringed Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Epomophorus",
+      "sp": "gambianus",
+      "en": "Gambian Epauletted Fruit Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Myotis",
+      "sp": "emarginatus",
+      "en": "Geoffroy's Myotis",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Lonchophylla",
+      "sp": "concava",
+      "en": "Goldman's Nectar Bat",
+      "fam": "",
+      "recording_count": 36
+    },
+    {
+      "gen": "Plecotus",
+      "sp": "austriacus",
+      "en": "Gray Long-eared Bat",
+      "fam": "",
+      "recording_count": 13
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "poliocephalus",
+      "en": "Gray-headed Flying Fox",
+      "fam": "",
+      "recording_count": 7
+    },
+    {
+      "gen": "Artibeus",
+      "sp": "lituratus",
+      "en": "Great Fruit-eating Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Noctilio",
+      "sp": "leporinus",
+      "en": "Greater Bulldog Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Peropteryx",
+      "sp": "kappleri",
+      "en": "Greater Dog-like Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "ferrumequinum",
+      "en": "Greater Horseshoe Bat",
+      "fam": "",
+      "recording_count": 34
+    },
+    {
+      "gen": "Myotis",
+      "sp": "myotis",
+      "en": "Greater Myotis",
+      "fam": "",
+      "recording_count": 22
+    },
+    {
+      "gen": "Nyctalus",
+      "sp": "lasiopterus",
+      "en": "Greater Noctule",
+      "fam": "",
+      "recording_count": 22
+    },
+    {
+      "gen": "Saccopteryx",
+      "sp": "bilineata",
+      "en": "Greater Sac-winged Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Cynomops",
+      "sp": "greenhalli",
+      "en": "Greenhall's Dog-faced Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Micronycteris",
+      "sp": "hirsuta",
+      "en": "Hairy Big-eared Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Chiroderma",
+      "sp": "villosum",
+      "en": "Hairy Big-eyed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Diphylla",
+      "sp": "ecaudata",
+      "en": "Hairy-legged Vampire Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "alcyone",
+      "en": "Halcyon Horseshoe Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Hypsignathus",
+      "sp": "monstrosus",
+      "en": "Hammer-headed Fruit Bat",
+      "fam": "",
+      "recording_count": 12
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "hanaki",
+      "en": "Hanak's Pipistrelle",
+      "fam": "",
+      "recording_count": 170
+    },
+    {
+      "gen": "Cardioderma",
+      "sp": "cor",
+      "en": "Heart-nosed False-vampire",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Platyrrhinus",
+      "sp": "helleri",
+      "en": "Heller's Broad-nosed Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Sturnira",
+      "sp": "ludovici",
+      "en": "Highland Yellow-shouldered Bat",
+      "fam": "",
+      "recording_count": 7
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "andamanensis",
+      "en": "Homfray's Horseshoe Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Ectophylla",
+      "sp": "alba",
+      "en": "Honduran White Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Mystery",
+      "sp": "mystery",
+      "en": "Identity unknown",
+      "fam": "",
+      "recording_count": 465
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "medius",
+      "en": "Indian Flying Fox",
+      "fam": "",
+      "recording_count": 9
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "hypomelanus",
+      "en": "Island Flying Fox",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Artibeus",
+      "sp": "jamaicensis",
+      "en": "Jamaican Fruit-eating Bat",
+      "fam": "",
+      "recording_count": 32
+    },
+    {
+      "gen": "Tonatia",
+      "sp": "saurophila",
+      "en": "Jamaican Round-eared Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "abramus",
+      "en": "Japanese Pipistrelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "javanicus",
+      "en": "Javan Pipistrelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "kuhlii",
+      "en": "Kuhl's Pipistrelle",
+      "fam": "",
+      "recording_count": 592
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "landeri",
+      "en": "Lander's Horseshoe Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Mops",
+      "sp": "major",
+      "en": "Lappet-eared Free-tailed Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "vampyrus",
+      "en": "Large Flying Fox",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Nycteris",
+      "sp": "grandis",
+      "en": "Large Slit-faced Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Nyctalus",
+      "sp": "leisleri",
+      "en": "Leisler's Noctule",
+      "fam": "",
+      "recording_count": 242
+    },
+    {
+      "gen": "Scotophilus",
+      "sp": "kuhlii",
+      "en": "Lesser Asian Yellow Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Peropteryx",
+      "sp": "macrotis",
+      "en": "Lesser Dog-like Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "hipposideros",
+      "en": "Lesser Horseshoe Bat",
+      "fam": "",
+      "recording_count": 188
+    },
+    {
+      "gen": "Myotis",
+      "sp": "blythii",
+      "en": "Lesser Myotis",
+      "fam": "",
+      "recording_count": 22
+    },
+    {
+      "gen": "Saccopteryx",
+      "sp": "leptura",
+      "en": "Lesser Sac-winged Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Cynopterus",
+      "sp": "brachyotis",
+      "en": "Lesser Short-nosed Fruit Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "lucifugus",
+      "en": "Little Brown Myotis",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Mops",
+      "sp": "pumilus",
+      "en": "Little Free-tailed Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "scapulatus",
+      "en": "Little Red Flying Fox",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Sturnira",
+      "sp": "lilium",
+      "en": "Little Yellow-shouldered Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "capaccinii",
+      "en": "Long-fingered Myotis",
+      "fam": "",
+      "recording_count": 136
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "hottentotus",
+      "en": "Long-tailed Serotine",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "maderensis",
+      "en": "Madeira Pipistrelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "punicus",
+      "en": "Maghreb Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "rufus",
+      "en": "Malagasy Flying Fox",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "mariannus",
+      "en": "Marianas Flying Fox",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Taphozous",
+      "sp": "mauritianus",
+      "en": "Mauritian Tomb Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "euryale",
+      "en": "Mediterranean Horseshoe Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Plecotus",
+      "sp": "kolombatovici",
+      "en": "Mediterranean Long-eared Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "mesoamericanus",
+      "en": "Mesoamerican Common Mustached Bat",
+      "fam": "",
+      "recording_count": 19
+    },
+    {
+      "gen": "Myotis",
+      "sp": "oxyotus",
+      "en": "Montane Myotis",
+      "fam": "",
+      "recording_count": 8
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "aero",
+      "en": "Mount Gargues Pipistrelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Taphozous",
+      "sp": "nudiventris",
+      "en": "Naked-rumped Tomb Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Miniopterus",
+      "sp": "natalensis",
+      "en": "Natal Long-fingered Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "nathusii",
+      "en": "Nathusius's Pipistrelle",
+      "fam": "",
+      "recording_count": 487
+    },
+    {
+      "gen": "Myotis",
+      "sp": "nattereri",
+      "en": "Natterer's Myotis",
+      "fam": "",
+      "recording_count": 53
+    },
+    {
+      "gen": "Chalinolobus",
+      "sp": "tuberculatus",
+      "en": "New Zealand Long-tailed Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Trinycteris",
+      "sp": "nicefori",
+      "en": "Niceforo's Big-eared Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Molossus",
+      "sp": "nigricans",
+      "en": "Northern Black Mastiff Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Diclidurus",
+      "sp": "albus",
+      "en": "Northern Ghost Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Myotis",
+      "sp": "pilosatibialis",
+      "en": "Northern Hairy-legged Myotis",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Aeorestes",
+      "sp": "cinereus",
+      "en": "Northern Hoary Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Vampyressa",
+      "sp": "thyone",
+      "en": "Northern Little Yellow-eared Bat",
+      "fam": "",
+      "recording_count": 25
+    },
+    {
+      "gen": "Myotis",
+      "sp": "septentrionalis",
+      "en": "Northern Myotis",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Eptesicus",
+      "sp": "nilssonii",
+      "en": "Northern Serotine",
+      "fam": "",
+      "recording_count": 126
+    },
+    {
+      "gen": "Tonatia",
+      "sp": "bakeri",
+      "en": "Northern Stripe-headed Round-eared Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Scotophilus",
+      "sp": "nux",
+      "en": "Nut-colored Yellow Bat",
+      "fam": "",
+      "recording_count": 7
+    },
+    {
+      "gen": "Plecotus",
+      "sp": "ognevi",
+      "en": "Ognev's Long-eared Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "pumilus",
+      "en": "Okinawa Horseshoe Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Lonchophylla",
+      "sp": "robusta",
+      "en": "Orange Nectar Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Lampronycteris",
+      "sp": "brachyotis",
+      "en": "Orange-throated Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Uroderma",
+      "sp": "convexum",
+      "en": "Pacific Tent-making Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Phyllostomus",
+      "sp": "discolor",
+      "en": "Pale Spear-nosed Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Glossophaga",
+      "sp": "soricina",
+      "en": "Pallas's Long-tongued Bat",
+      "fam": "",
+      "recording_count": 17
+    },
+    {
+      "gen": "Molossus",
+      "sp": "molossus",
+      "en": "Pallas's Mastiff Bat",
+      "fam": "",
+      "recording_count": 17
+    },
+    {
+      "gen": "Antrozous",
+      "sp": "pallidus",
+      "en": "Pallid Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "parnellii",
+      "en": "Parnell's Common Mustached Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "pearsonii",
+      "en": "Pearson's Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Nyctinomops",
+      "sp": "femorosaccus",
+      "en": "Pocketed Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "dasycneme",
+      "en": "Pond Myotis",
+      "fam": "",
+      "recording_count": 48
+    },
+    {
+      "gen": "Rhynchonycteris",
+      "sp": "naso",
+      "en": "Proboscis Bat",
+      "fam": "",
+      "recording_count": 10
+    },
+    {
+      "gen": "Lophostoma",
+      "sp": "brasiliense",
+      "en": "Pygmy Round-eared Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Nyctimene",
+      "sp": "robinsoni",
+      "en": "Queensland Tube-nosed Fruit Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Corynorhinus",
+      "sp": "rafinesquii",
+      "en": "Rafinesque's Big-eared Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Mormopterus",
+      "sp": "francoismoutoui",
+      "en": "Reunion Little Mastiff Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Myotis",
+      "sp": "riparius",
+      "en": "Riparian Myotis",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "rusticus",
+      "en": "Rusty Pipistrelle",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Hypsugo",
+      "sp": "savii",
+      "en": "Savi's Pipistrelle",
+      "fam": "",
+      "recording_count": 600
+    },
+    {
+      "gen": "Nycticeinops",
+      "sp": "schlieffenii",
+      "en": "Schlieffen's Serotine",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Miniopterus",
+      "sp": "schreibersii",
+      "en": "Schreibers's Long-fingered Bat",
+      "fam": "",
+      "recording_count": 182
+    },
+    {
+      "gen": "Carollia",
+      "sp": "perspicillata",
+      "en": "Seba's Short-tailed Bat",
+      "fam": "",
+      "recording_count": 81
+    },
+    {
+      "gen": "Lasionycteris",
+      "sp": "noctivagans",
+      "en": "Silver-haired Bat",
+      "fam": "",
+      "recording_count": 20
+    },
+    {
+      "gen": "Myotis",
+      "sp": "albescens",
+      "en": "Silver-tipped Myotis",
+      "fam": "",
+      "recording_count": 20
+    },
+    {
+      "gen": "Emballonura",
+      "sp": "alecto",
+      "en": "Small Asian Sheath-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "quadridens",
+      "en": "Sooty Mustached Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Pipistrellus",
+      "sp": "pygmaeus",
+      "en": "Soprano Pipistrelle",
+      "fam": "",
+      "recording_count": 168
+    },
+    {
+      "gen": "Sonus",
+      "sp": "naturalis",
+      "en": "Soundscape",
+      "fam": "",
+      "recording_count": 15
+    },
+    {
+      "gen": "Cynomops",
+      "sp": "planirostris",
+      "en": "Southern Dog-faced Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Myotis",
+      "sp": "keaysi",
+      "en": "Southern Hairy-legged Myotis",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Lasiurus",
+      "sp": "blossevillii",
+      "en": "Southern Red Bat",
+      "fam": "",
+      "recording_count": 11
+    },
+    {
+      "gen": "Dasypterus",
+      "sp": "ega",
+      "en": "Southern Yellow Bat",
+      "fam": "",
+      "recording_count": 2
+    },
+    {
+      "gen": "Carollia",
+      "sp": "sowelli",
+      "en": "Sowell's Short-tailed Bat",
+      "fam": "",
+      "recording_count": 20
+    },
+    {
+      "gen": "Pteropus",
+      "sp": "conspicillatus",
+      "en": "Spectacled Flying Fox",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Vampyrum",
+      "sp": "spectrum",
+      "en": "Spectral Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Thyroptera",
+      "sp": "tricolor",
+      "en": "Spix's Disk-winged Bat",
+      "fam": "",
+      "recording_count": 6
+    },
+    {
+      "gen": "Euderma",
+      "sp": "maculatum",
+      "en": "Spotted Bat",
+      "fam": "",
+      "recording_count": 13
+    },
+    {
+      "gen": "Gardnerycteris",
+      "sp": "crenulatum",
+      "en": "Striped Hairy-nosed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Mops",
+      "sp": "sarasinorum",
+      "en": "Sulawesian Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Hipposideros",
+      "sp": "caffer",
+      "en": "Sundevall's Leaf-nosed Bat",
+      "fam": "",
+      "recording_count": 4
+    },
+    {
+      "gen": "Dermanura",
+      "sp": "watsoni",
+      "en": "Thomas's Fruit-eating Bat",
+      "fam": "",
+      "recording_count": 86
+    },
+    {
+      "gen": "Pteronotus",
+      "sp": "fulvus",
+      "en": "Thomas's Naked-backed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Centronycteris",
+      "sp": "centralis",
+      "en": "Thomas's Shaggy Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Micronycteris",
+      "sp": "minuta",
+      "en": "Tiny Big-eared Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Perimyotis",
+      "sp": "subflavus",
+      "en": "Tricolored Bat",
+      "fam": "",
+      "recording_count": 3
+    },
+    {
+      "gen": "Eumops",
+      "sp": "trumbulli",
+      "en": "Trumbull's Bonneted Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Hylonycteris",
+      "sp": "underwoodi",
+      "en": "Underwood's Long-tongued Bat",
+      "fam": "",
+      "recording_count": 7
+    },
+    {
+      "gen": "Enchisthenes",
+      "sp": "hartii",
+      "en": "Velvety Fruit-eating Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Barbastella",
+      "sp": "barbastellus",
+      "en": "Western Barbastelle",
+      "fam": "",
+      "recording_count": 166
+    },
+    {
+      "gen": "Austronomus",
+      "sp": "australis",
+      "en": "White-striped Free-tailed Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Scotoecus",
+      "sp": "albigula",
+      "en": "White-throated Lesser House Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Lophostoma",
+      "sp": "silvicola",
+      "en": "White-throated Round-eared Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Centurio",
+      "sp": "senex",
+      "en": "Wrinkle-faced Bat",
+      "fam": "",
+      "recording_count": 5
+    },
+    {
+      "gen": "Rhinolophus",
+      "sp": "virgo",
+      "en": "Yellow-faced Horseshoe Bat",
+      "fam": "",
+      "recording_count": 1
+    },
+    {
+      "gen": "Lavia",
+      "sp": "frons",
+      "en": "Yellow-winged False-vampire",
+      "fam": "",
+      "recording_count": 13
+    },
+    {
+      "gen": "Rhogeessa",
+      "sp": "aenea",
+      "en": "Yucatan Yellow Bat",
+      "fam": "",
+      "recording_count": 1
+    }
+  ],
+  "total_recordings": 7866,
+  "last_updated": "2026-03-22T23:29:30Z"
+}
