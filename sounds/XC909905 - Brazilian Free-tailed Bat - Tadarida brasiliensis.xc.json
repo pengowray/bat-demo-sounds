@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "8d6eba6dd0f76f1dd0b335c65962895686c4a0245045a55aa4bc87c94543b83c",
+    "content_hash": "65df757b5e8c9c0bb6791b7bf8e99773ca16442983fee6b08a95e52bde461645",
+    "data_offset": 44,
+    "data_size": 25949184,
     "file_size": 25950008,
     "retrieved": "2026-03-22",
     "sha256": "46d81f12245fadb1e32ba46943617f86ff391678b45161d5bf5a4701f3039fbf",
-    "spot_hash": "5e513ff5df693421affba7bda7f9cb317a2fa8de91a10ee79d5c191c9a632f00"
+    "spot_hash_b3": "c860d5cced6f55937a576ee2bb029d7f5225a2b340fab0e30add8dcc86d4d433"
   },
   "attribution": "Sarah Mahie, Boaz van Die, XC909905. Accessible at www.xeno-canto.org/909905",
   "cnt": "Brazil",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "b278443597ca6c2a04e894cf8aab5ff50a2f802d6ce9a5644edc5a25bb653e22",
+    "content_hash": "9e5a4dd50b08874cf6b2bf4a6e2eaa319828501ddf0eabcdae670bd75ed333ea",
+    "data_offset": 84,
+    "data_size": 4998976,
     "file_size": 5014000,
     "retrieved": "2026-03-23",
     "sha256": "aa6f1cb049a1ddf901b0f3b16ac72008ef1a40f2401c4de883057fee04504b77",
-    "spot_hash": "37815e262b59e6a380ef14b83a6e18823e2f445b8ab5e44657937996da13e399"
+    "spot_hash_b3": "0ff6cf410d7e38dbbbed505704ab2e2be3f47ce81ab84e61a5e4717ca3fd75b9"
   },
   "attribution": "Nadja Schmidt, XC1025257. Accessible at www.xeno-canto.org/1025257",
   "cnt": "United States",

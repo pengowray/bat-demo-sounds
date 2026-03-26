@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "3c7010dff8ef42c1ea17f46bfa01063542f04290bd444fb41b6221bf13074784",
+    "content_hash": "8e74660b8b6e22c66e0f7d73e9bcb2498d9ded2ec41f20f1df900c2f31ee5b38",
+    "data_offset": 44,
+    "data_size": 5378048,
     "file_size": 5378335,
     "retrieved": "2026-03-23",
     "sha256": "a04fbe7b620ec10700800f4b2360fa3a84e6be41573e222f0700835be1667935",
-    "spot_hash": "ff7422d286072287916e98b06a72285c750bf08506e68a1afcec13ce8957b085"
+    "spot_hash_b3": "fcd14bda42bf7a9281c19adb10bbf0e23f799bda625c0ea9bfeb300075afe330"
   },
   "attribution": "Martin de Jong, XC1008337. Accessible at www.xeno-canto.org/1008337",
   "cnt": "Netherlands",

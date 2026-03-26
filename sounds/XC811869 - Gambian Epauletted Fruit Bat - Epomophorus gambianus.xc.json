@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "c349aff055b09664022da226cfe2324e4c74283b15907d29f54abb46d074f9db",
+    "content_hash": "c349aff055b09664022da226cfe2324e4c74283b15907d29f54abb46d074f9db",
     "file_size": 2228003,
     "retrieved": "2026-03-22",
     "sha256": "8e2f5782bae64eafe9e877e55fd7a8ea1f24f7b2aa619760b0e85847615bef16",
-    "spot_hash": "665c434d8da7fd0d03d0bdb4c37f03c32b2eb8d708b904e73d686b5b8d71f19d"
+    "spot_hash_b3": "d1c93e04ebf6136800fe40c5e955c1303906aa5e08854ee878c7f1f332e593df"
   },
   "attribution": "Joost van Bruggen, XC811869. Accessible at www.xeno-canto.org/811869",
   "cnt": "Guinea-Bissau",

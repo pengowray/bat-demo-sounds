@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "38842707a586a2bf17f6d6cb0f57a09c799a315d9c21a6aaceb219b99ffc5c44",
+    "content_hash": "c8047b4fd66273aef55164067fe8165510c807e78e2c9838a1e12001a64bbd03",
+    "data_offset": 44,
+    "data_size": 6559744,
     "file_size": 6559788,
     "retrieved": "2026-03-22",
     "sha256": "6a70d69b598885df5a030188d4464ca7482eddfdf890be2d84bcc2a531cfb1b9",
-    "spot_hash": "65e5dee7e60293b87acee8de02ec61d7d71bde4691b8f57cf220ddd0f7b05c83"
+    "spot_hash_b3": "8fd29de7f630168a44685e76ec65ad18c50bc0a04a6933e85379d9bb69753e23"
   },
   "attribution": "Mulokot &amp; Stijn Nollen, XC1063024. Accessible at www.xeno-canto.org/1063024",
   "cnt": "Suriname",

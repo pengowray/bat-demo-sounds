@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "b6f2b02d8186ca61c16d55d7eed8695704bdf9654b6ebaf151a8b3d409d3de8a",
+    "content_hash": "8606ec278f262043776a4f74368f728747cd5008129a5c0f72da4ef04571b4d6",
+    "data_offset": 44,
+    "data_size": 4409856,
     "file_size": 4410180,
     "retrieved": "2026-03-23",
     "sha256": "607c04b48c40aceb22fd9ab7043b5ff3dadb3e36ae289fdd102bb9f51b7b0d74",
-    "spot_hash": "5ee7a9c2ba679c257206c0f636113662f843ce97bccdc12662ea3482a3dbbac8"
+    "spot_hash_b3": "8b2270f026db1f78e59b7ab82c7476558537a41fb48a57164e83d8b3a6caec4c"
   },
   "attribution": "Panagiotis Georgiakakis NHMC/Univ. of Crete, XC1062124. Accessible at www.xeno-canto.org/1062124",
   "cnt": "Greece",

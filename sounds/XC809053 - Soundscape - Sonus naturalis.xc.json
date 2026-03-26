@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "569cf4314a54c45fa5649e27ec132210d0835d9012c81e76fa441c0d7b577c83",
+    "content_hash": "19ac541354da858501abdd205d0f26ef64fc237a8a46ec6ab8fe89b2a7398b9a",
+    "data_offset": 44,
+    "data_size": 8274432,
     "file_size": 8274856,
     "retrieved": "2026-03-23",
     "sha256": "279c3141304aa7ef9a63c9fc6921720b53aa2059163d05a5590f90bb289271bb",
-    "spot_hash": "36f311eae19a02ae79ea2931596c5e4d3b7f366da58cbc64c02ce923d2dc5f58"
+    "spot_hash_b3": "ec1c279077c03b321b2a1e559ebe7b3e56342ddaf81908149acdc013e762533b"
   },
   "attribution": "Eva Mattsson, XC809053. Accessible at www.xeno-canto.org/809053",
   "cnt": "Sweden",

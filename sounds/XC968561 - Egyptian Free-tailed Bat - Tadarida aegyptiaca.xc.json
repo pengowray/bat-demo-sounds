@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e41d614481250c845d654e3c3d0f733fd212f371c3bcea89ecc65b85607c508b",
+    "content_hash": "133e722ada2966f6a739fc91bb4b32a92081e133e88b1a8fbe0519767595a4fe",
+    "data_offset": 44,
+    "data_size": 12871680,
     "file_size": 12872550,
     "retrieved": "2026-03-22",
     "sha256": "c40556cc792832c078d8c733d75dabfbf744b7f11bb103d107c31fb713bb65e0",
-    "spot_hash": "58738e9e6db5af3d0614b5be7c39acd4982d82a46874aa6bd7dbddde86d08c55"
+    "spot_hash_b3": "0117397c2e8afe8db73446c471baaa9f669e2abc905ee050ef6103514c40a522"
   },
   "attribution": "Sarah Mahie, XC968561. Accessible at www.xeno-canto.org/968561",
   "cnt": "Morocco",

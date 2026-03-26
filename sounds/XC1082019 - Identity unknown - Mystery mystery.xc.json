@@ -1,6 +1,11 @@
 {
   "_app": {
-    "retrieved": "2026-02-19"
+    "blake3": "427a5ca1aa95daeacac8e3b18bd059e18cb43fc9bd6b2d23065b3458a25c245e",
+    "content_hash": "427a5ca1aa95daeacac8e3b18bd059e18cb43fc9bd6b2d23065b3458a25c245e",
+    "file_size": 46786,
+    "retrieved": "2026-02-19",
+    "sha256": "a0805fd6f3085f7754acef461354a16ba323c140f4d93082fab323d19f2b712e",
+    "spot_hash_b3": "e7cd1ec69b454f0f982f76c418e129679831cc3cbf506d8e47dc46e5a081f7d7"
   },
   "attribution": "Bregt Desmet, XC1082019. Accessible at www.xeno-canto.org/1082019",
   "cnt": "Belgium",

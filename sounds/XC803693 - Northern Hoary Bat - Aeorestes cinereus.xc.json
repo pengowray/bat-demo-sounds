@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "4170f0f770ba9553c0af0a6e354e24eaddf8aecc7a012f51727a0b45fc48b31a",
+    "content_hash": "67f7ff8474e112d54dc1b5104f268035c0c8445a36e4c84cfdf6a78d3f09e69d",
+    "data_offset": 128,
+    "data_size": 7680000,
     "file_size": 7680128,
     "retrieved": "2026-03-23",
     "sha256": "0654b266916978586ca88eb181a3923500d378f0b2d4e1aaa89902f6c682b082",
-    "spot_hash": "7f0411db69860b7c8500794ff0df9e6c16eee8b878002cc90ad15cad7301185b"
+    "spot_hash_b3": "67e9b050fbacb2efd4a392413a3c91a3ad3e43de5c944a4157b3bfb162eb09b9"
   },
   "attribution": "Alex MacPhail, XC803693. Accessible at www.xeno-canto.org/803693",
   "cnt": "Canada",

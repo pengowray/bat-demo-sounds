@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "3a388a17ac7273406ece9387873d1972c5cba03a4267ae6636f606d7ab9002d5",
+    "content_hash": "3a388a17ac7273406ece9387873d1972c5cba03a4267ae6636f606d7ab9002d5",
     "file_size": 542221,
     "retrieved": "2026-03-22",
     "sha256": "064a18520f0396bd668656f2e43a88eb7796e50cb7151fc105d523e892b0d05c",
-    "spot_hash": "f58216cf8aa967dc778d8cde65da5247dd0ec01716b0d1927b420f2d4ea7e902"
+    "spot_hash_b3": "d09ec7a24579008fe2c7b828eb53d870bee2c0a590c3e593f103f91a85481170"
   },
   "attribution": "Peter Boesman, XC1030844. Accessible at www.xeno-canto.org/1030844",
   "cnt": "India",

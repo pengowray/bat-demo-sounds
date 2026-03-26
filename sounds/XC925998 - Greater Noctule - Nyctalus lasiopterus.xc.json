@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "79a7fd605b5148a803ed12b105c4834bfa05e8e2eddf6b39d50e0b7391786fcd",
+    "content_hash": "0ff73e73cd803a6766c4f0275f4a121536c52a636c8d18a9753b17db7680be00",
+    "data_offset": 114,
+    "data_size": 8413184,
     "file_size": 8413298,
     "retrieved": "2026-03-22",
     "sha256": "c23339eb8de38df4fde385331f46c4065e54de2aed0cc01b9de5c11951c52aa2",
-    "spot_hash": "01bf06400122d0a6467f5bc3095d2a90b0602a5c928bf5a0c2627f8a05236200"
+    "spot_hash_b3": "1c3860e0854c2e6f4277d091d037d286966cb75ddbbed6cb67e925c23913056f"
   },
   "attribution": "Albert Lastukhin, XC925998. Accessible at www.xeno-canto.org/925998",
   "cnt": "Russian Federation",

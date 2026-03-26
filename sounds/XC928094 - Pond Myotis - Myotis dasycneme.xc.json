@@ -1,6 +1,13 @@
 {
   "_app": {
-    "retrieved": "2026-02-18"
+    "blake3": "fd6115deec10bcc08510cc66bb2dbca19b56b3f58f98762407ac2e6a2471eec3",
+    "content_hash": "d49a5dd7ddfce92af952abd8e048aa0923859fb74e291f34a6c4f3ac32662877",
+    "data_offset": 44,
+    "data_size": 8430592,
+    "file_size": 8431438,
+    "retrieved": "2026-02-18",
+    "sha256": "c842af30489a0ed100a40ceb047ae73737470a7ea1af5277fa7602844b3ad783",
+    "spot_hash_b3": "c27ae2aecaff1657b2741bc0579e6a4aa4a5a0b9a2f0d0b4b36a20b34d07bde0"
   },
   "attribution": "Marten Talsma, XC928094. Accessible at www.xeno-canto.org/928094",
   "cnt": "Netherlands",

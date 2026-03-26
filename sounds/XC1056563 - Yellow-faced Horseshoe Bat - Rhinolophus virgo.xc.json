@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "265afaa05f51c710e0ed85385d429f721d63d01578df24702a3081a015002fe2",
+    "content_hash": "9b194e3145800fe1f7c1d197ab8f018330ca3dc6d9c741c23721e6fb951b3f72",
+    "data_offset": 44,
+    "data_size": 3489682,
     "file_size": 3495888,
     "retrieved": "2026-03-23",
     "sha256": "1828ee0b4a18f9645d32b4bf79c90abd4a137d8e1a3e4c7a80b731f83bb6958a",
-    "spot_hash": "5bed021a9bc60dd867a72bfee3e630580c0022448e97f2c96d05682a2a9ab969"
+    "spot_hash_b3": "23e6f464d565c89225c6c8c91989bd21ee8dbf3540d822c982d7b0b6c01ed0bb"
   },
   "attribution": "Daan Drukker, XC1056563. Accessible at www.xeno-canto.org/1056563",
   "cnt": "Philippines",

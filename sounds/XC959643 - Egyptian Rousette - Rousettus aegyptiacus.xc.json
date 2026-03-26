@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e10dc92dbf06535adf6407bf8277463e70d4410d8afcecd7f941b90991749394",
+    "content_hash": "90e6cc8ff5b468df9075ea33198f1007f21ef02d3e6d25387e9431de13caa5f1",
+    "data_offset": 44,
+    "data_size": 960584,
     "file_size": 960628,
     "retrieved": "2026-03-22",
     "sha256": "fbdaf880fdb01dc6d9fb56757ae2e1d6e1e117e19843dd2a3aa668d717a26806",
-    "spot_hash": "f53fee70236d177a75db8b11b85e4e25e48b30d2ba27ba12901675fcfd2e1ac9"
+    "spot_hash_b3": "77c043854ea8f63792cb5fec01ea09cf668db93a697643d419bdb8a1217e516f"
   },
   "attribution": "Cedric Mroczko, XC959643. Accessible at www.xeno-canto.org/959643",
   "cnt": "Cyprus",

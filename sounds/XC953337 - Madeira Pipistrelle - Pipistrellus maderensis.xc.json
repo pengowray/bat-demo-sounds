@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "8e085415b741d849320f971d4a46021e0093b0ee7188842344857f1821e4650d",
+    "content_hash": "066a2b51ccf240ad3cf1794c56fc7332665ea9fbfffb6ca1621041643c1c342a",
+    "data_offset": 44,
+    "data_size": 1630656,
     "file_size": 1630870,
     "retrieved": "2026-03-23",
     "sha256": "1a943589d6406be581b533c830a1958e58349ed4cf6ef2db2aa90a503822167c",
-    "spot_hash": "da1e2b9d66f9d649fb03436afd74b5695c5769c3150798b39ec3e21f2faee3f7"
+    "spot_hash_b3": "f717d99a19f46298ead1a0ee66971fac0b60431ea34aa0d8a7c26ff8d59c7fdc"
   },
   "attribution": "Ulf Elman, XC953337. Accessible at www.xeno-canto.org/953337",
   "cnt": "Portugal",

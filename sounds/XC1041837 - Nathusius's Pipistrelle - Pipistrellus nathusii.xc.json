@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "287014ea66e9725a02963de79d9dc79392e2e02c5ca5692da3e67952edc6744f",
+    "content_hash": "ca48c5a85338b88b0eda2eb2f221ffb92683a5353fed95212e0d47dd445d3d94",
+    "data_offset": 44,
+    "data_size": 7956992,
     "file_size": 7957325,
     "retrieved": "2026-03-23",
     "sha256": "c749bebd716537cd73f2b2dc3051b5b13ed2576d5cd31e912eb4abcce7dee9af",
-    "spot_hash": "dca08813f59bd6dfc31f4826bb17cb5a18822cd2ec45bebdb03a081325e171ab"
+    "spot_hash_b3": "8002099a18f29d6449fc65436fd3e0a4f4dc4a92ca097c9fb319188a4c712740"
   },
   "attribution": "Boaz van Die, XC1041837. Accessible at www.xeno-canto.org/1041837",
   "cnt": "Netherlands",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "de06220f79f36b0df47582783e0f96b3dfa44bb56e88cb0b4ed1b9dda22bc399",
+    "content_hash": "a8c4322c7100fde5fda60acbab5df40abb8283070c05e99f19fb4b6828a5ee25",
+    "data_offset": 44,
+    "data_size": 614016,
     "file_size": 614060,
     "retrieved": "2026-03-23",
     "sha256": "a477f386085c5283dc7f6fb3ecebc013ea40b2b91527d22724d5dbba7fa135e7",
-    "spot_hash": "6b9a424bb2095ec3601b54240f60b18ab6151f7c4a123c3d19fca2c12af75046"
+    "spot_hash_b3": "9e0585a053a2c195833c39abd5786c8801fa2b4f446ae0f12d52f9ff05f83bda"
   },
   "attribution": "Daniel J Buckley, XC823132. Accessible at www.xeno-canto.org/823132",
   "cnt": "Costa Rica",

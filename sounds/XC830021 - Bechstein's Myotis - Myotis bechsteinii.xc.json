@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "28e7db04f69a1a9a5abc8bdd68f0369f375a0a1b6ffc1119bccdb6ebeeac0cdc",
+    "content_hash": "b0389ebf71ee8e3e325cb07f6110f4afae350e03bf66b8df0e19a1351a18c37b",
+    "data_offset": 44,
+    "data_size": 3824517,
     "file_size": 3824708,
     "retrieved": "2026-03-22",
     "sha256": "713cccfe7255c9af9f6391eccaf0ce5fe0ca24f04b7f2a48d50bd68a2f07305b",
-    "spot_hash": "ca0fafa8d3f9354a3ee0b1cb773fbdff4bfeeecff4211e81a04f6d5935f80f22"
+    "spot_hash_b3": "e0e7c339a7eed2c67ac2102345d5b8ce9c9bf6b0323c5165aa968eec8eb06d4e"
   },
   "attribution": "Vladimír Nemček, XC830021. Accessible at www.xeno-canto.org/830021",
   "cnt": "Slovakia",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "02f32a06e07267c9a6b1b5204aa164cddbf77262722789d55a09b9f57618317e",
+    "content_hash": "af12d72baba72c2ebede3cbeba8ff19234b2af2e597b034d78a8f9165bb94e18",
+    "data_offset": 44,
+    "data_size": 1810132,
     "file_size": 1810176,
     "retrieved": "2026-03-23",
     "sha256": "9506550cad4d03d167d4a8f567899acb228d64549f842965837398c5c35f3959",
-    "spot_hash": "eaf2cb13bf3e52d843817ed73633ca593c8cdd99f2d0dfcd595778e12ff4373d"
+    "spot_hash_b3": "52641c4ce913cc2f757c28df78b724614d30965916000938f75bf9d7815531ab"
   },
   "attribution": "GABRIEL LEITE, XC1025974. Accessible at www.xeno-canto.org/1025974",
   "cnt": "Papua New Guinea",

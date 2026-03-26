@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e20d0e2032b2709d3077c49f2ec8da3547e0ac0b256d99d5f9c244d69e322aca",
+    "content_hash": "d7b93a4851b5d990d950193a7a81108e83ddde71a71fc486f296f62e6f0598ac",
+    "data_offset": 46,
+    "data_size": 15565914,
     "file_size": 15565960,
     "retrieved": "2026-03-23",
     "sha256": "7716f761a7b4dcde2326304b2d5b4acd551cb340d7cc8e52f841e731b3544855",
-    "spot_hash": "d0d03b97fc08828a0f98a32aaf1980ecc4c3e8f2abfbfad37380b1217dfe1107"
+    "spot_hash_b3": "98867c4ccc1f46fea42a83d636107068593696766a7f0ee976d157e3f5e79279"
   },
   "attribution": "Stanislas Wroza, XC805748. Accessible at www.xeno-canto.org/805748",
   "cnt": "France",

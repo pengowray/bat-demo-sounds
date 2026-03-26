@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "756c7005c5b5fbb3427a9db70a6d12e5c75ecd14671e99ca84b3505c28af442b",
+    "content_hash": "65b1ebba56a706cb1264292c4c9875c47f0e411c8ad80c72de8408d7c7291f3e",
+    "data_offset": 44,
+    "data_size": 11520000,
     "file_size": 11521150,
     "retrieved": "2026-03-23",
     "sha256": "df7053c029f5336636eba4712b650fc09c98e3e05789e5aa8de08b2912e7e064",
-    "spot_hash": "d8826ddc6872282d7f16597fc8378834b19fdc07f14abe0fc8b0e194333075a8"
+    "spot_hash_b3": "13d562634bde2ef8b02ccf55f9d5cc37e80846fd20afd4573643e5eefcdba57c"
   },
   "attribution": "François Fabianek, XC921254. Accessible at www.xeno-canto.org/921254",
   "cnt": "Canada",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "9d91b885f2cf9516fa1756a2caf542f42c5e598484c8a894dbc3b93d55cb45d8",
+    "content_hash": "3c6532a923e21c132894442729a8b001513bc626977e3db39720b37041be7783",
+    "data_offset": 44,
+    "data_size": 197690,
     "file_size": 198500,
     "retrieved": "2026-03-22",
     "sha256": "09d47d963ac140619a2ac374321f650b9dd8417916037f0ed0aed23f3f5308ac",
-    "spot_hash": "43db2aca1e494b5e43da26df85f0791af6ee7e578350ee9f651f64894b375521"
+    "spot_hash_b3": "efe6dd0712b3ae7cbf62c75d3f61f1f328030810640a3d3339ce39cb3b0633e1"
   },
   "attribution": "陳瑩曜, XC815138. Accessible at www.xeno-canto.org/815138",
   "cnt": "Taiwan",

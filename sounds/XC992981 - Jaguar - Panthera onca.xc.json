@@ -1,6 +1,11 @@
 {
   "_app": {
-    "retrieved": "2026-02-27"
+    "blake3": "aff7c2f3aa515834a6415ed927a9e3812b645ae9d21c48979097ec3d9d3800f8",
+    "content_hash": "aff7c2f3aa515834a6415ed927a9e3812b645ae9d21c48979097ec3d9d3800f8",
+    "file_size": 3717072,
+    "retrieved": "2026-02-27",
+    "sha256": "e369c494e0cbe81001df4e45636933ea2b48b1a7d51513baf5654a9cbfa18e00",
+    "spot_hash_b3": "11ca7e89014cd436466810153d3e2b5afb0964ffabf5833fcc6f8c98df6936e1"
   },
   "attribution": "George Vlad, XC992981. Accessible at www.xeno-canto.org/992981",
   "cnt": "Brazil",

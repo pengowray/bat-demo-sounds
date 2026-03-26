@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "902b01bd8bda0726cc9bdeb950cf70792ff8c8905bf3e7cd2804e35c215b6463",
+    "content_hash": "9d272a8311837d83d7f79da65f90e183f9bf04974563e864eee698facbc1a376",
+    "data_offset": 44,
+    "data_size": 2481664,
     "file_size": 2483453,
     "retrieved": "2026-03-22",
     "sha256": "74930dbc52416ade73b25be9cbf4746389abc64e2890d17a102bf67dbeaa8bf5",
-    "spot_hash": "686436f2373727793f7b51ee81cb70384cd59014522ea42a2614ca799cf1343d"
+    "spot_hash_b3": "5c515bc58db373d5f88eced5b937fff5ec8c8f86ee73d5d2cc08bd248809f19a"
   },
   "attribution": "liprec, XC906210. Accessible at www.xeno-canto.org/906210",
   "cnt": "Netherlands",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "b4df809a64168471e2d59324999a6b4283e320d0110185da9c8ab859618b4d05",
+    "content_hash": "3a1e78122905e3bd173d6b907931e9d92d9a978ea9beb32f5862eac21c730f95",
+    "data_offset": 44,
+    "data_size": 1198080,
     "file_size": 1198626,
     "retrieved": "2026-03-23",
     "sha256": "778ec381a05043df8ebac307f9a2ae71333f9a3868cd26de73811132e4abcac2",
-    "spot_hash": "31683b2821ad394a46903df3bb7c9820e95c43248578eee3507904f83281d26a"
+    "spot_hash_b3": "8943ce9098ba0937ef1eb56602b24aa9a7ebbb666ffb58e488bb2c351ed2ea81"
   },
   "attribution": "Gerardo Scavone, XC1019133. Accessible at www.xeno-canto.org/1019133",
   "cnt": "Italy",

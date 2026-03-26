@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "cfb4b7062a78951057fb3cfd19ac9dbb8ba2ea9ce1fab76c000edd514d4a6cda",
+    "content_hash": "cfb4b7062a78951057fb3cfd19ac9dbb8ba2ea9ce1fab76c000edd514d4a6cda",
     "file_size": 211979,
     "retrieved": "2026-03-22",
     "sha256": "b063bc10c9ff847ef21516d9ed534f6c5434926fe04dc3dbf40c2593e71d8015",
-    "spot_hash": "e4e52eae3cd71bb8c333f8846b60052743e7ddc0a1eb7716ff0ec0696d977965"
+    "spot_hash_b3": "b883e474edbd34055dbb93636db2b1ef3a68477a5b4cd1f31493d2b560c5c6df"
   },
   "attribution": "Ding Li Yong, XC1056734. Accessible at www.xeno-canto.org/1056734",
   "cnt": "Philippines",

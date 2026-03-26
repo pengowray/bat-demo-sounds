@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "6da8551680e44619cff54eff9e03bd7c51a736c7e876397d8e6f28f74bb9d179",
+    "content_hash": "6da8551680e44619cff54eff9e03bd7c51a736c7e876397d8e6f28f74bb9d179",
     "file_size": 1934726,
     "retrieved": "2026-03-23",
     "sha256": "005a2f64088e22a3c5e298696376cc749cddb4ce2d7dd546d733b688bbe19ad4",
-    "spot_hash": "516f2e4aa8e09b0a01254366fe8cc901850aa7e09030291430ab168569594899"
+    "spot_hash_b3": "9e09970020dd45dfde1925f55009ca53eaba0d0ec14a3c2c3fd06a35155b4606"
   },
   "attribution": "Enrique Mejía, XC992860. Accessible at www.xeno-canto.org/992860",
   "cnt": "Honduras",

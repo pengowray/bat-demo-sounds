@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "cf6d63add3c90be589a7c7af0ae00f816cdd6a8249e79473ba5f41fe80ac1c19",
+    "content_hash": "19eb7f85abbf0f91f9e871378e61333d6818384b2c5698fa4a35dafb35049952",
+    "data_offset": 44,
+    "data_size": 3000000,
     "file_size": 3000582,
     "retrieved": "2026-03-22",
     "sha256": "a69240e0fdfbdb2e965cdaf9306088d3a4748dcffeafcde7d7786fc0734b9145",
-    "spot_hash": "db1172bb37d160e842827470b725bf42384c48a918c33e9f209a8e48465b6be2"
+    "spot_hash_b3": "c88e81b548ef134ffabe24f891d045534bf0c66171f34d871c2e1d71d63dac1c"
   },
   "attribution": "Alessandra Munari, XC1084199. Accessible at www.xeno-canto.org/1084199",
   "cnt": "Sweden",

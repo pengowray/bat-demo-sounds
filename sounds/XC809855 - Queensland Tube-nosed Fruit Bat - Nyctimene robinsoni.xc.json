@@ -1,6 +1,13 @@
 {
   "_app": {
-    "retrieved": "2026-02-20"
+    "blake3": "24776aa8cff1c6e19ad4cce2c1e56f71e7b06fb0a6f0501fd62feae430e441cc",
+    "content_hash": "8199193c84a2cc4aa44f0338cd7261a323366cbdf5cc305a9c547b1116ad25ca",
+    "data_offset": 23944,
+    "data_size": 4377600,
+    "file_size": 4401544,
+    "retrieved": "2026-02-20",
+    "sha256": "71234ec2c20dac32e4552883581aa2edefed91f7e5bb5be96bfe0c2f24650079",
+    "spot_hash_b3": "a7f78361a9601ef7bc9446a667371c539d4518eb7daaf4abd399cea6fb5d37da"
   },
   "attribution": "Marc Anderson, XC809855. Accessible at www.xeno-canto.org/809855",
   "cnt": "Australia",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e45eafeb72149e1c5716f4288dfd6f52efcad128b2485131a3e5f160f2c0195b",
+    "content_hash": "190683b9010d97cb4bfbb4a3a922c9364c9293b647cb3f3b1233a1d3fa3cbe4f",
+    "data_offset": 688,
+    "data_size": 850176,
     "file_size": 850864,
     "retrieved": "2026-03-23",
     "sha256": "ad79e8edeea5618df9c568eefec6715427a4de5a29d0b47f9b55eeeaf703a0ee",
-    "spot_hash": "f02f17d766fdf1f57f0ea421c689c2a9ec5732ad69327806e6242d4992684332"
+    "spot_hash_b3": "c44ca1c3f45f9c7c10a5d48ffc432fef89d0713fb0a4b126ae8d08afbf4a4258"
   },
   "attribution": "Miyagi Kunitaro, XC924727. Accessible at www.xeno-canto.org/924727",
   "cnt": "Japan",

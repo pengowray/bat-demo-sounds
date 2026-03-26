@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "d403213b266319853ec19e51e6ecfded41a928257d8e17d04f13e308f2edc7a8",
+    "content_hash": "1a6307bfdd1bf88c85bc511f4aaf36825bfa22b82c9468123ea05682b87f4e2b",
+    "data_offset": 44,
+    "data_size": 42468030,
     "file_size": 42474340,
     "retrieved": "2026-03-22",
     "sha256": "e8fb4f370ad73e8bf1493678d08f806c2af322de200d64d23e61357efaab967c",
-    "spot_hash": "5444fe636f9d9e4237ee1c2d252e03e81773cc101357336aa6c2e567189435f2"
+    "spot_hash_b3": "040b14f39a7900153868caf4b62773ac7bcb3508e4ab46d655e9cc82186c1a4c"
   },
   "attribution": "Daan Drukker, XC827322. Accessible at www.xeno-canto.org/827322",
   "cnt": "Malaysia",

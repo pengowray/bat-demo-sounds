@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "b10c97c4a195882f71312ebf9aa2a93f53b7c052bdce930170e15ee31284d4db",
+    "content_hash": "6eead309f1a628409e01201a30d927e26e9d0beec1c58c0fa260bc31e93a13af",
+    "data_offset": 44,
+    "data_size": 3752960,
     "file_size": 3763070,
     "retrieved": "2026-03-23",
     "sha256": "40bd83a8e723e2ea1a574d8e4e6857281ad7d0392b11f5076e470611edea72b6",
-    "spot_hash": "5d62fead2ec54e4bd66761c0a08aa792f602157ae2884c0790fb0c9502893e1f"
+    "spot_hash_b3": "7866dbeaf0169f85f2c3b6f0ded618b549b7d011a4b50a1eb0b8956cd2b854d7"
   },
   "attribution": "Chris Wilson, XC1025213. Accessible at www.xeno-canto.org/1025213",
   "cnt": "United States",

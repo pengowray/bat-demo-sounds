@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "108339e6e9181362e3cc043c941f676e34a93380f5ecaee7fd0d8c69510f3a43",
+    "content_hash": "5c2eb0db142d6f371d6a1331de70d4dfe3720a9eb0a4b985bd0d2ec7c3f153d0",
+    "data_offset": 512,
+    "data_size": 2560000,
     "file_size": 2561298,
     "retrieved": "2026-03-23",
     "sha256": "fb9c7ebc65d1dc72cc6af58be2be80d4a34f9065a4155b278380cddd79d07acb",
-    "spot_hash": "eb814d5106c35a34fe080e707187d7c1439c1dba207369820ec5162d4c56f56c"
+    "spot_hash_b3": "c3ce7566b5bf7b7acfe71b7f2c26d0f8988e7b64c6140ee0c58ea52f8009475d"
   },
   "attribution": "Ricardo Pérez Rodríguez, XC824078. Accessible at www.xeno-canto.org/824078",
   "cnt": "Spain",

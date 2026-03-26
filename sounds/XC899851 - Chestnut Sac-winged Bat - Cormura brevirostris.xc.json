@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "c2d9d7816e0d88c3399875f04bfa1e0c5fd0f1067ada05e2d8d3de68648dcbf6",
+    "content_hash": "7d6b5ce5fa3a4dff961bce9b1e0d4aa07d4e9269162ce444d6593e4cc6e47e93",
+    "data_offset": 44,
+    "data_size": 2442274,
     "file_size": 2458424,
     "retrieved": "2026-03-22",
     "sha256": "0e91c5e3572a54984322a186db2085a6b9e34dcab98f7263adc14d01de63b286",
-    "spot_hash": "03e9a78e234638b77ef31bf3705cdb33029314a362f9a7930ee872122bf9a53f"
+    "spot_hash_b3": "4e6d8f4baa2c55b466c2b38ec196596946f9a76195d4f9f1959a9289a6a5d6db"
   },
   "attribution": "Jonathan COSTA, XC899851. Accessible at www.xeno-canto.org/899851",
   "cnt": "French Guiana",

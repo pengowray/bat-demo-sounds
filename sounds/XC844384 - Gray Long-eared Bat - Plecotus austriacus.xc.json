@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "585bf25fc465d4e6e337f6b21a87d56bc6432d6fbddae05cd076dcf939183fb4",
+    "content_hash": "f66e6b97c2fb1c27dd15596209f1282bd1cbeb54e8ab52f69a38bbb707117ff3",
+    "data_offset": 44,
+    "data_size": 240128,
     "file_size": 240341,
     "retrieved": "2026-03-22",
     "sha256": "7b98129ab445034c0571d901e2efbc24dae326ca3e020aacee18376610ea8609",
-    "spot_hash": "c2787f11b3127b28761820789e76acce05042d54c6445239cc4c93ba32572fb3"
+    "spot_hash_b3": "8ebfa76cc46f821b3aa001c56fa2af2745e2a583be20eb670a87d7bb4159477e"
   },
   "attribution": "Adrià López-Baucells, XC844384. Accessible at www.xeno-canto.org/844384",
   "cnt": "Spain",

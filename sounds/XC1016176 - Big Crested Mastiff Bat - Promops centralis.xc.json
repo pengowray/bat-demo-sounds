@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "c21ebff60fcf9178a7a000cea0460571679c7cbb92c433669247f6d755d2a1eb",
+    "content_hash": "894f0c54a595509739af9e39515c434ef221bec79c4e0cc5f1bf5f09aecb39b8",
+    "data_offset": 32768,
+    "data_size": 1537536,
     "file_size": 1570304,
     "retrieved": "2026-03-22",
     "sha256": "486db76c7b7232cdd6d17548adbf087e6b9ad43827aba9a39166954923e44d59",
-    "spot_hash": "fcac05ac097ddb7c1c7c6dfe188335bd0b937c697e7a38218508931a95b75c49"
+    "spot_hash_b3": "4ba538e38a3c529ec064d0b2a4612c057dae62501895163a1b1e4e53f44cb8e0"
   },
   "attribution": "Alejandro Tepatlan Vargas, XC1016176. Accessible at www.xeno-canto.org/1016176",
   "cnt": "Mexico",

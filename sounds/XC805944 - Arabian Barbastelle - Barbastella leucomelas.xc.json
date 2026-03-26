@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "3275506c9199b6a08b64236fd7a972d5334a220f7e35a53e03d989a98703835d",
+    "content_hash": "a0ca38214505b45a29e7c082aa4591c2fc889b61d48438a86675a9986f5b9180",
+    "data_offset": 44,
+    "data_size": 1046052,
     "file_size": 1046096,
     "retrieved": "2026-03-22",
     "sha256": "3f567e3111d7039add9c53ccdc8b41cc4048764f61b2d9696253f0791483f758",
-    "spot_hash": "dbef5831e518e59ecf5df4921d6735443f832a361cb30e81ff336cc451087bc8"
+    "spot_hash_b3": "6a81533e297da567d963787a6686a451408ba32d8cfccad8ce85515c5f0b8055"
   },
   "attribution": "Arjan Boonman, XC805944. Accessible at www.xeno-canto.org/805944",
   "cnt": "Israel",

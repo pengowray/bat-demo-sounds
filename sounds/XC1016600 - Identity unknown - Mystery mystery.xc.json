@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "6bb351651cb579e976c123db91ca57393df77a0ec6cda057d0285c45368ebe0a",
+    "content_hash": "f192589f3ed6e7a4b3ca40891bdaf3e8225d7b0fe1d424bb30ae97b31dd20b4a",
+    "data_offset": 44,
+    "data_size": 5000000,
     "file_size": 5001024,
     "retrieved": "2026-03-22",
     "sha256": "40c77a69ea920228aa0d9c03a0ff9ae70c2bc21234d04ed8b30737672c4c3dfc",
-    "spot_hash": "423b8abb0a29cff64969a38f9e88ee9943d63afe800256e52adf0280ca9da775"
+    "spot_hash_b3": "3af9a655fc1cf3755bfa0c8ef6e342f6b169582f3f41d3bf384890bac7e8ffdc"
   },
   "attribution": "Katrin Wegener-Lundkvist, XC1016600. Accessible at www.xeno-canto.org/1016600",
   "cnt": "Sweden",

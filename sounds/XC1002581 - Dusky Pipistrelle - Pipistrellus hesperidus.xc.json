@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "3f8ef687b43caaa290a686547cbd4c00d956bf2d43f2e084cf764a82e83ba073",
+    "content_hash": "71e794f205d16fec5c1d82325b0e88981f2dbd400c08aacb03a0893743798ef3",
+    "data_offset": 512,
+    "data_size": 15116800,
     "file_size": 15118094,
     "retrieved": "2026-03-22",
     "sha256": "b7dea60e435a024201f75205eb0ed5b0761dcd557a9fcd1b900d881543bc8581",
-    "spot_hash": "6e006d7e3afccffad765ad191a093f9bde4d3caa04c7926bb6e4f7cc309e1f3d"
+    "spot_hash_b3": "a0c0922e4db0bb87393ab28be13e41b34e6729ba2c69d7b275f55e888a516c8e"
   },
   "attribution": "Dimitris Christopoulos, XC1002581. Accessible at www.xeno-canto.org/1002581",
   "cnt": "Swaziland",

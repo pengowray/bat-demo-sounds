@@ -1,6 +1,13 @@
 {
   "_app": {
-    "retrieved": "2026-02-20"
+    "blake3": "e85a1fec94782a185874735688662bc96188405ce62cd53fb2cc3bbb0885ac3a",
+    "content_hash": "583bfb28d5cacd57a17ad9ab99d3acfcfb834b464a215e91141ec4f08ee95c5c",
+    "data_offset": 44,
+    "data_size": 7992852,
+    "file_size": 7993234,
+    "retrieved": "2026-02-20",
+    "sha256": "69234cd5fe1b1630a7817e35424af13d1b7cb26c4c908b832812e6ed262d7565",
+    "spot_hash_b3": "a11a5c12b96e3fadfc6e3cd18589c558bc583dc402c56b836399379d551a9dd7"
   },
   "attribution": "Ulf Elman, XC817761. Accessible at www.xeno-canto.org/817761",
   "cnt": "Sweden",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "2947c43c6d52f5bb8a46615df09dd83e5b2cc581d76004acefbe9c4623e23802",
+    "content_hash": "dbf2a15ef3a1deab5e32076201bb65ea6ec04bd5ce5fde5d6c93ba2c4a8b8fef",
+    "data_offset": 44,
+    "data_size": 5977856,
     "file_size": 5977900,
     "retrieved": "2026-03-23",
     "sha256": "e8382c53ce7bab12a75bc042adc1fca1d5faf4e91889ab3b0eb2dec92a9b53f4",
-    "spot_hash": "30bf8a89455ca124033eadb9c5f59ccfdb5db50204a2bab53572bbe64e0dcff0"
+    "spot_hash_b3": "37b653f78095da9d09947078db4252e9dc46eb6d25350cd00f955298403b491f"
   },
   "attribution": "Sara L. Castro (Museo de Historia Natural Unillanos), XC915951. Accessible at www.xeno-canto.org/915951",
   "cnt": "Colombia",

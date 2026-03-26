@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "5c0fc81849f071f16597fef214f8c4db93364ed05e5fb557288673dadd42d920",
+    "content_hash": "acae230cb2c60e48925b7bf101898e3afba29fb39a697658b25c454744832f2c",
+    "data_offset": 44,
+    "data_size": 13517756,
     "file_size": 13517800,
     "retrieved": "2026-03-22",
     "sha256": "58d6d6e54f44a902f26336ce48762f01b915015b0ee7363c854f92d891693753",
-    "spot_hash": "545b03132e5e344788501a5ccdb912d44dcbe101530459b545e77911c1ddd663"
+    "spot_hash_b3": "9e73f23c7915237fa0882ce1ddd60150ad4606cd1fd0e4bc8c42092c735b36c8"
   },
   "attribution": "Albert Lastukhin, Sergey Karpeev, XC954775. Accessible at www.xeno-canto.org/954775",
   "cnt": "Russian Federation",

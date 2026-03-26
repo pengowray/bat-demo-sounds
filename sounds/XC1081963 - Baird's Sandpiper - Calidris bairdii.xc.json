@@ -1,6 +1,11 @@
 {
   "_app": {
-    "retrieved": "2026-02-19"
+    "blake3": "9d198763cd63ed77f46a750488d7e99877c6b91ddc6c52775ed7b9cab1f8b291",
+    "content_hash": "9d198763cd63ed77f46a750488d7e99877c6b91ddc6c52775ed7b9cab1f8b291",
+    "file_size": 75823,
+    "retrieved": "2026-02-19",
+    "sha256": "ebcbbfcfc95d066e9ef5e5b9f3926c36681d3ba6771a979ccf0711fc147e6dfd",
+    "spot_hash_b3": "7cc54a7ac4bedf1545614e4a3cd21389dbfbf95bca5aee55ee845e697c36fa5e"
   },
   "attribution": "Aladdin, XC1081963. Accessible at www.xeno-canto.org/1081963",
   "cnt": "Chile",

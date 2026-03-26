@@ -1,6 +1,11 @@
 {
   "_app": {
-    "retrieved": "2026-02-19"
+    "blake3": "27014fed3eeeaf58006b29fd595f877be9d8827240fa0990e1a06a30074ddd56",
+    "content_hash": "27014fed3eeeaf58006b29fd595f877be9d8827240fa0990e1a06a30074ddd56",
+    "file_size": 165499,
+    "retrieved": "2026-02-19",
+    "sha256": "84680cac555f777a323faf64d09a68ea4935e58d7e3ff6f7c02d9a5353835f3d",
+    "spot_hash_b3": "bcaf294a36d0e0529045b7d221e6c7741b8d48d4a11203f035abd71f1c1dcdb3"
   },
   "attribution": "Peter Boesman, XC1081841. Accessible at www.xeno-canto.org/1081841",
   "cnt": "Senegal",

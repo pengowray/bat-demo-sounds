@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "60f41c20ee5d4e637099ca847ef2233a3acf2fb4849e077e6236b3082762f47b",
+    "content_hash": "f90903d25fe46d3dcd853df6b0c236dec40ef0b2ea4ba21f8cf0a3cf1327797b",
+    "data_offset": 84,
+    "data_size": 4447232,
     "file_size": 4458238,
     "retrieved": "2026-03-23",
     "sha256": "25f83ac1183ef097c2cfe92ea3321a18e85a0d1f3f482b4753c8af5e198af745",
-    "spot_hash": "aad5d669611c31b903438aae470f258827db432ba634fe14000b367b9a0241d7"
+    "spot_hash_b3": "bcb920dc6b806dbee7f614841272f5fc842b4d2ef3e7c695878f4b02fbe154ed"
   },
   "attribution": "USDA Forest Service, XC1025242. Accessible at www.xeno-canto.org/1025242",
   "cnt": "United States",

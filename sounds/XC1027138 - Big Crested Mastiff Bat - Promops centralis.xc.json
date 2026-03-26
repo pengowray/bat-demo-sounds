@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "2cf5fd0f2bef7d074a05397f2bb8a51bc584ed5a0fdab859759267a3fde04d99",
+    "content_hash": "f4b62029372eb7f3ada427efb44417fafc936b5df188a7bad687f1700a316d8d",
+    "data_offset": 44,
+    "data_size": 4990976,
     "file_size": 4991799,
     "retrieved": "2026-03-22",
     "sha256": "a07572307c4a712db23ce92c66056b2f93a4c96e577110cb97bba2c983475e57",
-    "spot_hash": "4b8c6d5e7b6883d24b7bde18486c95d66e4583d2cfa05fb2092b08f428def522"
+    "spot_hash_b3": "62644afaf6d995b258c71cf79b08cf1bcef3f84dbd65471fc2997904bffb908b"
   },
   "attribution": "Johana Arévalo Cortés, XC1027138. Accessible at www.xeno-canto.org/1027138",
   "cnt": "Colombia",

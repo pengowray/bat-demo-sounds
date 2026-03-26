@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "f169300a91e8104b451b952055a1d783d6857738487546d7d7b233e1070806d0",
+    "content_hash": "7a27adda56e51442c18d9932fafad2744c2232ee810e046b2b0b071a1fd3507e",
+    "data_offset": 44,
+    "data_size": 3072000,
     "file_size": 3072044,
     "retrieved": "2026-03-22",
     "sha256": "b20d2490b79712f1d20bdea8710c156232168d5508a41c2a60806ec379483732",
-    "spot_hash": "79ed9704c3e61adf4ccfcceea858325358cbfb84d1361842f0318793028fdcc6"
+    "spot_hash_b3": "f5dfbb08734980d0d8034099c5e4c97537f87eea4539fc137130cfd659c955b1"
   },
   "attribution": "Bat Conservation Trust, XC1037974. Accessible at www.xeno-canto.org/1037974",
   "cnt": "United Kingdom",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "51c9f63cf5c5384f7e0a30ed6062cc620cfee303379d23618ad37c54bb4fc70c",
+    "content_hash": "1efe672c0d19d69129907480dd2bd56c4268b555e31983323171c1529e8cb45d",
+    "data_offset": 78,
+    "data_size": 2814876,
     "file_size": 2814954,
     "retrieved": "2026-03-23",
     "sha256": "5979d91ef507bc01c1c74172eb8c8397aee3a5c437859a81bfdaea909a350c3d",
-    "spot_hash": "d615d8b92305d10e7a26dab574e268dfae419d841502eb1d7e869e30cf7bc80f"
+    "spot_hash_b3": "55c77162c63360aed026e5798c61c466e0f144e165f5490e4bdee56a603d975e"
   },
   "attribution": "Annika Andersson, XC1033558. Accessible at www.xeno-canto.org/1033558",
   "cnt": "United States",

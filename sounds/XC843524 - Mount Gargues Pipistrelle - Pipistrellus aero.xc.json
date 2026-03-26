@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "8ebdfeeb819d742805519f98affafe69b33912d97419a85b9013373da7808776",
+    "content_hash": "05178417470893979a2edba7599ebc7a73d7feaefedefde1a3e7ae4d2f34e6d6",
+    "data_offset": 44,
+    "data_size": 16252640,
     "file_size": 16252928,
     "retrieved": "2026-03-23",
     "sha256": "6aafbc6969f93b22532482fe761a4aed8c3f143f8e813e11c88d0a93a3da8f23",
-    "spot_hash": "d881f58d812911fca4ee5719308735bfdd1b6d8cdc4c36c36eb8527be5935e30"
+    "spot_hash_b3": "80ff91f5c78cd617c67262225c91febfb11ada66fccb8258c87799c9aa2b0fc1"
   },
   "attribution": "Adrià López-Baucells, XC843524. Accessible at www.xeno-canto.org/843524",
   "cnt": "Kenya",

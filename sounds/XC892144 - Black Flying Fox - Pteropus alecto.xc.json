@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "c1a89a33da29d8ac78fb40bca917bdbb0a89d6f2351379cf6abb59b6996f08de",
+    "content_hash": "4f683c88f52e87699d2f067599bd9d7d9cd87d044b5150a8767d67c0de891cc7",
+    "data_offset": 44,
+    "data_size": 5948160,
     "file_size": 5948204,
     "retrieved": "2026-03-22",
     "sha256": "e8c1f0df009392e9944af6011082505a221c57716a244267f9a18f3ce932535a",
-    "spot_hash": "472f4a283bfe5bb8b8da4eede15c87a982a53beb813cf8c42539e26f5cfd3058"
+    "spot_hash_b3": "0f57699ae1a938d5c0220eafa7b2f3112c1a9ae72de0950c5b11c891b3e6177e"
   },
   "attribution": "James Lambert, XC892144. Accessible at www.xeno-canto.org/892144",
   "cnt": "Australia",

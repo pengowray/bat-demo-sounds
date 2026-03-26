@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "16d9febf785ea8aa199484257a89a3854cf3199313bb7685084f4b7ff9603701",
+    "content_hash": "16d9febf785ea8aa199484257a89a3854cf3199313bb7685084f4b7ff9603701",
     "file_size": 237009,
     "retrieved": "2026-03-22",
     "sha256": "66ee909205d7da876f84ba30cf105a8eb243e5d7accbe1b03c6f2a1c801fa599",
-    "spot_hash": "63b4e802094bbad695192f87a4b4f1fe96c526ae47089d6e1b99d507f5e2b3f1"
+    "spot_hash_b3": "0a939e5ee1e65e49f528772d616762cb507a40eb93b6227140809a1636348d19"
   },
   "attribution": "Nick Talbot, XC1048699. Accessible at www.xeno-canto.org/1048699",
   "cnt": "Australia",

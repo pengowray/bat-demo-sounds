@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e0993f8fb1e4bc704ce302fdcae8e66ee525e82f367726dfc5d7f762021f2e96",
+    "content_hash": "32f64b0a793acb4718cbc3a130e549853063589be152fd00377990d38968d8ff",
+    "data_offset": 512,
+    "data_size": 2560000,
     "file_size": 2562634,
     "retrieved": "2026-03-22",
     "sha256": "37c259ada8758098fb3b56788f9b96256008157d8945ec1c8e2b62f77be0efc7",
-    "spot_hash": "278277a2d6048cbe483da095dfe1d2ffc60998b94d6b66ba214862fc348f91d4"
+    "spot_hash_b3": "d64edca3a4257a6db715f97ef5d9801c6b3ae0ec918ed3a7d2c60dc57a1ae53d"
   },
   "attribution": "Peter Nilsson, XC1018942. Accessible at www.xeno-canto.org/1018942",
   "cnt": "Sweden",

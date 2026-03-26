@@ -1,6 +1,13 @@
 {
   "_app": {
-    "retrieved": "2026-02-20"
+    "blake3": "83dc0c4468ee513fdca9c7068103e852e841321164793fae490cd34a706fe086",
+    "content_hash": "eb2f0099d8c13bab7a963b5c8ee8561a322076dafb8845cd67ce7e202f3b0162",
+    "data_offset": 44,
+    "data_size": 1136592,
+    "file_size": 1136636,
+    "retrieved": "2026-02-20",
+    "sha256": "994280acf3f9febd59b13fd45b232b0e1b8709f6f3b4dc55ce5d4114efaa2ff6",
+    "spot_hash_b3": "ec8477880530254a10d6b42e88b7eec1e5fa3be053758ddf1ffcc44dcc0af1eb"
   },
   "attribution": "Arjan Boonman, XC814304. Accessible at www.xeno-canto.org/814304",
   "cnt": "Netherlands",

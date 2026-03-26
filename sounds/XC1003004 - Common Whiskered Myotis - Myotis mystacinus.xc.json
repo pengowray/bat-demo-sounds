@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "dca88709234683cec4f4d65427354f8ce16ea28f1a2366b2e9fe78c04c63f3eb",
+    "content_hash": "b2b3fff3eaf3deec426dd79cd10f1e34ecc1b807043205c51d603e758821927f",
+    "data_offset": 44,
+    "data_size": 5502498,
     "file_size": 5502782,
     "retrieved": "2026-03-22",
     "sha256": "c9b9bae1aa02987f8fb0e0428ff24b238faa2094407b494949fe9ebb22ca6866",
-    "spot_hash": "ab65f6098584b04a80749bb71d4d7d708acdb5742884fe26b1e6e3f24025edde"
+    "spot_hash_b3": "218ebf032a7840560a4b1723c414ebe01701d025ca08900137ab60de6d22d3ea"
   },
   "attribution": "Andreas Estensen, XC1003004. Accessible at www.xeno-canto.org/1003004",
   "cnt": "Sweden",

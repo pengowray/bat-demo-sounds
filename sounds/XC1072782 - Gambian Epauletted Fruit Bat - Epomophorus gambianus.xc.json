@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "c8eed341384a2805d6b74bebf95d6e0f42a9c1c0e65a07ce532795449df1d1de",
+    "content_hash": "ad35e361eb741dcac17e45cbdddd8967132424731bc434dcc0e3f09a5baff7cd",
+    "data_offset": 44,
+    "data_size": 13215448,
     "file_size": 13215492,
     "retrieved": "2026-03-22",
     "sha256": "52294f2ad5f590b53e0067b545ae3bcd441075ef6216d2355617a73c15226835",
-    "spot_hash": "da998909ba45d120ca4d0e0bc72313b489917a2eda9f78b487601e8a4dc00333"
+    "spot_hash_b3": "b84b0ba2b1b7c44443c7b6137f305126acb98e5f887feb9a1ab6e7c1098d75b7"
   },
   "attribution": "Paulo Alves, XC1072782. Accessible at www.xeno-canto.org/1072782",
   "cnt": "Guinea-Bissau",

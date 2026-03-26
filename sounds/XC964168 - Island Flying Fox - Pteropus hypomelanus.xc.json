@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "0eabafd56f78c2015b6f4db8248c7b34c1ce6ae41ffca6b34d4c2ddd5cadf5b5",
+    "content_hash": "0eabafd56f78c2015b6f4db8248c7b34c1ce6ae41ffca6b34d4c2ddd5cadf5b5",
     "file_size": 1889891,
     "retrieved": "2026-03-22",
     "sha256": "a46a52d366aa0355cad8ee72e8ab1e11c897aae5867be810687d13f124f3c061",
-    "spot_hash": "43b46451351cb267b695bc16bcaa3602cee43fc4f51c796717dc7d62d984f241"
+    "spot_hash_b3": "0041e98b3d6f2b5a8e7fc15412de42e4462e7f7d6c2fb7d3a9a2f4fa4784eab5"
   },
   "attribution": "Ding Li Yong, XC964168. Accessible at www.xeno-canto.org/964168",
   "cnt": "Thailand",

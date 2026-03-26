@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "83ee5eb8016a8ca56df89ce1c0a129a400935247e5e0ee60a91c3979019c489c",
+    "content_hash": "2e728bcbef8313f103683e7f7ce1c314544c4a4115833b99bf08f942774f9ff6",
+    "data_offset": 44,
+    "data_size": 4802436,
     "file_size": 4802480,
     "retrieved": "2026-03-23",
     "sha256": "0687567028117bdf3b7cd857c6d33b9260418f3bf5704460139d30c2c84f6826",
-    "spot_hash": "aa0012820e3d920a5b4fd3a6abccc5d856a048e52bd42fdf8179bd7f6e86d4f0"
+    "spot_hash_b3": "91f92746568dc8751e17c8028093dc3c0dbdecfed7bd52980381ae8ab45fa830"
   },
   "attribution": "Angie Pichardo, XC1065009. Accessible at www.xeno-canto.org/1065009",
   "cnt": "Costa Rica",

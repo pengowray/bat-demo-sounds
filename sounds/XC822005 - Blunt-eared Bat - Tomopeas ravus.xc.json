@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "88df305f9dd1b8c8452b112f85cb1e35c162f7772f593e2c6dfc7b9815481066",
+    "content_hash": "084ea32f8abe6386b418d2c917262ca98db3319fa9401d19cd14dbca25a1ac93",
+    "data_offset": 44,
+    "data_size": 5696000,
     "file_size": 5696260,
     "retrieved": "2026-03-22",
     "sha256": "c4224f03a992fe5e5cd58f5b772a255e2558694284ceffa9c370584cbf622128",
-    "spot_hash": "03ba4feac460f83e29ce2afe89909380f1c47a858ac27ecf35f07106436b7b3e"
+    "spot_hash_b3": "948989d8e9fd45f34bbc7873af1ba1b12fef4fbd5ffc9a20badf522bbca18f75"
   },
   "attribution": "Joaquín Ugarte-Núñez, XC822005. Accessible at www.xeno-canto.org/822005",
   "cnt": "Peru",

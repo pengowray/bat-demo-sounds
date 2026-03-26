@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "6ab712e44749853959a6dbf2981f7c581de15a09ba22a4ee6d9c875a718d541f",
+    "content_hash": "096b728484e1a566be7c750adebeb2042c55f5f07b55e921aad0cd17c7f7d81a",
+    "data_offset": 44,
+    "data_size": 3588608,
     "file_size": 3588941,
     "retrieved": "2026-03-22",
     "sha256": "fdb8b67a2f705efc485d7a9a10845fb33f8b817190400b5d3c8f8907bebde42f",
-    "spot_hash": "7df68027c3126b257da28bfac5947a283e4df36c554ae20c776186b6f50d2f02"
+    "spot_hash_b3": "b6539e0621b1ba3d2f3b862aa892235895cec9e589f7e3b76152720ba7819675"
   },
   "attribution": "Sarah Mahie, XC1033511. Accessible at www.xeno-canto.org/1033511",
   "cnt": "Netherlands",

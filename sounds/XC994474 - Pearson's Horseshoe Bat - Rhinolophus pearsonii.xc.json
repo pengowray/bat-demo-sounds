@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "081748114c908e3345505e5e23523f161355b25d8d017800e8714767c4aaf79d",
+    "content_hash": "417301b9b83cb8f42ae60b58599e9a8ce659f87c5600c93333a696f8d2bff5a1",
+    "data_offset": 654,
+    "data_size": 15613986,
     "file_size": 15622566,
     "retrieved": "2026-03-23",
     "sha256": "b9ad97577921823042838f3e5c3968bbf3ae1b2d6aae7fc213638f60dcf15da7",
-    "spot_hash": "8caf6b28be38043dea747a7776b08017a120681fc64f74af2ea55308e63c3aff"
+    "spot_hash_b3": "ccb1ed4d67d021929181bdc4103e7758ea2f39fa013dfd6a1135cb08f8bc9bae"
   },
   "attribution": "Ray Tsu 诸仁, XC994474. Accessible at www.xeno-canto.org/994474",
   "cnt": "China",

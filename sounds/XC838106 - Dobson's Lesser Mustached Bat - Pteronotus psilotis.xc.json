@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "ba8da640bf659e5410a495e3e1c375924f46dd2276d758992a9e285d3cde3fe3",
+    "content_hash": "631aa40f9c7a5f041918f7d414a9250dd0f47cd15ed7f5acda40f6e19a913a03",
+    "data_offset": 488,
+    "data_size": 27500000,
     "file_size": 27500488,
     "retrieved": "2026-03-22",
     "sha256": "f4d8ca3af7b773e84c4d9efac8ef479b63f717b6145b3c4a1c554c1c85404e04",
-    "spot_hash": "6acd96b29d3dbb09b723aba3fa363ae5ad74c920b191122767c3e68ccf2c7c89"
+    "spot_hash_b3": "ced75e148c6ee69db7b0dd02ed70ca51526a09e42247078e09fb7a53936545e3"
   },
   "attribution": "Juan Pirod Alayola, XC838106. Accessible at www.xeno-canto.org/838106",
   "cnt": "Mexico",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "4edc42a2732dccfd5cb05af765e32c3c28494597eb9bfeeadc6aa776c975422a",
+    "content_hash": "ba2a3d50ab496826a33fbd7fce3f094deb42847dfee83054bcbb747ad540c34a",
+    "data_offset": 44,
+    "data_size": 3919872,
     "file_size": 3920160,
     "retrieved": "2026-03-22",
     "sha256": "a153b09c0e4fa67069c84bfd33e4d7798aa5bbf1f5e6f79c20b392c633058ee0",
-    "spot_hash": "60c5e7e5d0b2738303b3f020d1019820ad364aee72cbd9a20d29da05871e71fd"
+    "spot_hash_b3": "46ce7d4be65aedf81eca8552dd6b3fb3517142d98bd1a8eb8eeec3dd3e43d6c8"
   },
   "attribution": "Sjoerdtje de Boer, XC1058570. Accessible at www.xeno-canto.org/1058570",
   "cnt": "Netherlands",

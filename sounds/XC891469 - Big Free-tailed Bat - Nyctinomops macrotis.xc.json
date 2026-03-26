@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "91d142bebb3fb8b2c1c6e326506b2214e67d7364a7b6eeb1b7e4e324eecf12f0",
+    "content_hash": "6268e7671e644fc29a04eedf9a41b6bc7596a82aad3856fcfe259d1b5c89aeac",
+    "data_offset": 44,
+    "data_size": 5336576,
     "file_size": 5336930,
     "retrieved": "2026-03-22",
     "sha256": "012a8fe1e107e258fb8f089b2f6b952e6fa381d9a28df70a618afb00bf6e685a",
-    "spot_hash": "105f32cab397451afced92afc641d3781f0cfa33762cdd66c45ced4f0eb755ec"
+    "spot_hash_b3": "4387455dd9f35bc011e5dd60711a7fca230d5248fb843e0dcf687104f0d438c1"
   },
   "attribution": "François Fabianek, XC891469. Accessible at www.xeno-canto.org/891469",
   "cnt": "Jamaica",

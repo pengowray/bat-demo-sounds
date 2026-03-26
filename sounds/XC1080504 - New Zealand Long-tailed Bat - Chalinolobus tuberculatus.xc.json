@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "d6538dfa78f8447576be2836f9ea87de577981ff6963443a8d023a0f5e507388",
+    "content_hash": "08e4426484955bbb0dd8a488e86f937780a65ed76e1262d7704696756ecaa21c",
+    "data_offset": 512,
+    "data_size": 8781824,
     "file_size": 8783124,
     "retrieved": "2026-03-23",
     "sha256": "4a530b722788418d42901505d9886dda013c70a42e7f8ff0f944814b71ea79fb",
-    "spot_hash": "05b4e9834012784870469aa08cf8578688d59a2c78ff6a85dcbb9627b725b475"
+    "spot_hash_b3": "647494a94a548135fb1d571f7d216a4125967a89139426dd0e9b44905c835a24"
   },
   "attribution": "François Fabianek, XC1080504. Accessible at www.xeno-canto.org/1080504",
   "cnt": "New Zealand",

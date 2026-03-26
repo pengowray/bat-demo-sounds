@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "e024509417921c1daa85132aca07bf699302c7de2c58acd9786b5d8cd50bed96",
+    "content_hash": "43060b39513eb4c382775787ed110d21e2021f7a12056e4bbbc2e54af028ab91",
+    "data_offset": 44,
+    "data_size": 5498368,
     "file_size": 5499070,
     "retrieved": "2026-03-22",
     "sha256": "ce05c038daae1b7786995c49a82383fe6afae056c71c408b69a4901b3440e325",
-    "spot_hash": "4c967809160b1d29686cb676548e34892b0aabf8de09af3a190b3f48e7c68740"
+    "spot_hash_b3": "6a2f07b2ec4d8ced224ddd0d83dd90ebd1f3a162a3a33f10b36050c68b8abdbf"
   },
   "attribution": "Wouter Halfwerk, XC1087567. Accessible at www.xeno-canto.org/1087567",
   "cnt": "Ghana",

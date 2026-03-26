@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "0d6156994f20b280d39a2bca39a55724681bfb829013407516ba83349b03c1b8",
+    "content_hash": "cc197d8c354b434102365d26d2f7daea283376da2200e324650913df97d7925d",
+    "data_offset": 44,
+    "data_size": 8999896,
     "file_size": 9000448,
     "retrieved": "2026-03-22",
     "sha256": "627a6d0f981c554656b400bc08b215f82832f891f2b0a2bf827d3859320735eb",
-    "spot_hash": "0344ce572c955ceff638dc22b41b106a7f031dc0b2d3da8d7d070f08ed3b345a"
+    "spot_hash_b3": "d80691bc8bfbee48878ed44bef092ad7f4aec290dc6485190e9ca37f2e1f219e"
   },
   "attribution": "Miro Demko, XC1063374. Accessible at www.xeno-canto.org/1063374",
   "cnt": "India",

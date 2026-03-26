@@ -1,6 +1,13 @@
 {
   "_app": {
-    "retrieved": "2026-02-19"
+    "blake3": "0b6e02c1f5534f0164102fc91e9f1fa0467329048b08ec4ee432a495dbf8cd59",
+    "content_hash": "2f2d64e25a82da6a1c382d682ab05e43773ceb8836c9b54ce6bb159b7b978483",
+    "data_offset": 44,
+    "data_size": 8703744,
+    "file_size": 8704574,
+    "retrieved": "2026-02-19",
+    "sha256": "246899f043222fa7aca6fb8b16dd32579361e29aa03ca96867f90929355f9020",
+    "spot_hash_b3": "afe57691ce6798edfb11441f854b2af2023baa18de72cabcf570173b80883d06"
   },
   "attribution": "brickegickel, XC838798. Accessible at www.xeno-canto.org/838798",
   "cnt": "Germany",

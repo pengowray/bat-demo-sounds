@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "eb4bdc5be8c01135e9316c0a7b673b92af41e7b1bfae97aa85e74c4c2e641bcf",
+    "content_hash": "bdb14cc1a8b6aa5a08f2e8c2eb0529167e9d22db2f807555f17c8ce39623f0a4",
+    "data_offset": 44,
+    "data_size": 3412746,
     "file_size": 3412790,
     "retrieved": "2026-03-23",
     "sha256": "6332ab40c306f2d74bafa72c855fa639cffbef457e1ce2dc1cf7ea64b7c8264e",
-    "spot_hash": "35d329a90a3e2262c34521bfc32647021558496e1607ad9198abdcb2ba887b65"
+    "spot_hash_b3": "bd232108887e63c85dbfee4ac5f5b68b86e9a885bae37516b6a30dbb186f8e02"
   },
   "attribution": "宮城国太郎, XC924726. Accessible at www.xeno-canto.org/924726",
   "cnt": "Japan",

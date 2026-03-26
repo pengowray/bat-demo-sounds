@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "13a39feb33f6a181f378c5338c8e2e17d267e1d930d95039a1cd50a0a544e62c",
+    "content_hash": "63c3cc07c4e6032baf30e85aa45d0fc983d2c17d598a45027ac134ab939bb7fa",
+    "data_offset": 512,
+    "data_size": 7680000,
     "file_size": 7682626,
     "retrieved": "2026-03-23",
     "sha256": "ddc339f816a339dffe656501e2e6acdc091147c2b51f7b1492cf458656cc2259",
-    "spot_hash": "bf36275b152e8cc9def649fc1f2eb06418e55ffe210bdbe959867367d34b48f6"
+    "spot_hash_b3": "c977cf88ca77e209a63d05b00bccf9fe3f1cc51969be6faf005b421fc3192fc0"
   },
   "attribution": "Bruce Kimmel, XC1025269. Accessible at www.xeno-canto.org/1025269",
   "cnt": "United States",

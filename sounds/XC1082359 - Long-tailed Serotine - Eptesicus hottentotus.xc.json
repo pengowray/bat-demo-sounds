@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "b04d3479cb818b3510d6cb99f25cffac9ffab5504bf429ac4b705a8b5e57aec5",
+    "content_hash": "ac853f2e70cf9976370862aa0e9d204fd313c965cd1d43d2ee77c9b3de30b3cc",
+    "data_offset": 44,
+    "data_size": 48600000,
     "file_size": 48600450,
     "retrieved": "2026-03-23",
     "sha256": "1f2294ce0bd16c1aa98f1b1e01db69647b4b3283a6541035e2a14563debcfce4",
-    "spot_hash": "e387f87dc301780e398c4a6382bccb9baf71f85166b349d7942e303756d91a20"
+    "spot_hash_b3": "3bd911a8804029724c14ebff5e0b340b44c3ba0dadab87f0dbdbdbb71bdfba02"
   },
   "attribution": "Dimitris Christopoulos, XC1082359. Accessible at www.xeno-canto.org/1082359",
   "cnt": "South Africa",

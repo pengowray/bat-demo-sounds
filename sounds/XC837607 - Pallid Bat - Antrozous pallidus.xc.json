@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "7d439a5adbf3a4b5b4d8ba05108da188f4cf795f951180613677693d7a22b577",
+    "content_hash": "ccf3899b7d5878c97729cc73e27701eea676c55299d5ec6338823ab26d21db4f",
+    "data_offset": 44,
+    "data_size": 1691630,
     "file_size": 1708976,
     "retrieved": "2026-03-23",
     "sha256": "9e8ab46ab5312b917e7010db6751df9e2794b02c6bca0b37cddc12f6956d81db",
-    "spot_hash": "cd74f68c79a9a799cc57335a34acf8034323869a4a715b3da4441c1c424ad3c8"
+    "spot_hash_b3": "58f243c6536628f6a13e5d5d2f5763e5a9bad87381806588c62539e9c023ef69"
   },
   "attribution": "Bill Haas, XC837607. Accessible at www.xeno-canto.org/837607",
   "cnt": "United States",

@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "66edbf7667aa2b987f80b96a357b57c5e8eb6856760e4bd264bae381de295535",
+    "content_hash": "2c35c95fd4dc5823baffc9358f07878e64093438cadb47f58b343f6a3a4bfa6c",
+    "data_offset": 44,
+    "data_size": 1044576,
     "file_size": 1045486,
     "retrieved": "2026-03-23",
     "sha256": "ba88de0ec31999fc058a4c369d58dc60de1a62c2362a4c817e150cfedd1c176b",
-    "spot_hash": "e07b0e7a8c7519771f8e002735ad23314fcee861668ce350cbde67cec0a8aa36"
+    "spot_hash_b3": "bee4345ba08ad6ee197488d7e3264b10dff781cd3869d3207d5e7191c8c2537f"
   },
   "attribution": "Gloriana Chaverri, XC805297. Accessible at www.xeno-canto.org/805297",
   "cnt": "Costa Rica",

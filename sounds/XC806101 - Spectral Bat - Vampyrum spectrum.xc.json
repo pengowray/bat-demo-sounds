@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "bc79f0f6226057be986ad941a49bce98671cac17a461c746f7fba2e90420442e",
+    "content_hash": "36308609c87b539577bbd3d0a10658009fe3d051930ed568b345b8a919516385",
+    "data_offset": 44,
+    "data_size": 3051320,
     "file_size": 3051364,
     "retrieved": "2026-03-23",
     "sha256": "c66af5b2f2d279ba7b5893d4fbbee029bd1a8937aa3a3037e6f64b593e38c7f2",
-    "spot_hash": "be6e1df08d34ddc543b4e3ec9e4ac5f8de7114c8353a133064b4617b4a3eab1f"
+    "spot_hash_b3": "01de6aa6f6bee455e847ce55c47b3c87ae8e70575667557ebebbd0add51becef"
   },
   "attribution": "Sébastien J. Puechmaille, XC806101. Accessible at www.xeno-canto.org/806101",
   "cnt": "Costa Rica",

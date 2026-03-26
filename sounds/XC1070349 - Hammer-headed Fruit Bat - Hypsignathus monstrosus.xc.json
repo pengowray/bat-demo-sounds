@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "32951dc3aabb8ff5891ffab90fb8a00452bb02640caa4326ddbe01cfe675651c",
+    "content_hash": "7f9092b5bee887dbb32084d9e30102282e8e1f114768ea92b054ee6d6c50508b",
+    "data_offset": 44,
+    "data_size": 3045544,
     "file_size": 3045588,
     "retrieved": "2026-03-22",
     "sha256": "67b19a1a8bbdc0bf3d1151b728662a121aed6d3b404aeb4365a7021db3f7887d",
-    "spot_hash": "5500ed4e76288e1fbcfcc217722cd81cda070a57ca749d44033972de6eaa59e0"
+    "spot_hash_b3": "452e0615691f61e9e394970a91faff55b6bac65c9c95bea1dd1b65916f3b7121"
   },
   "attribution": "Budongo Conservation Field Station, XC1070349. Accessible at www.xeno-canto.org/1070349",
   "cnt": "Uganda",

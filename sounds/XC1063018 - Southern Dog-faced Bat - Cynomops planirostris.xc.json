@@ -1,10 +1,13 @@
 {
   "_app": {
     "blake3": "9e3f9fa8334a0975f1f08ee3db7a966d1aa97ce91a9a7970270299e9db663f0a",
+    "content_hash": "0f219e1bcd8ef15f87c6ce0b8d8051f6ecb884a7d8f4dfe76b9b267708990b24",
+    "data_offset": 44,
+    "data_size": 3442176,
     "file_size": 3442220,
     "retrieved": "2026-03-23",
     "sha256": "361cb62b2f188ad7f206cb5d896d3f87890f002fa6a9507585b4d63569c81366",
-    "spot_hash": "7b9142165b31502f7f649776423cd5db1b3d2eb12a487c83e6cc04474b9e1f5c"
+    "spot_hash_b3": "3e788ff3b3237bb537269da94d741c290b04f45b64419914ba6120373a769f8e"
   },
   "attribution": "Sarah Mahie, XC1063018. Accessible at www.xeno-canto.org/1063018",
   "cnt": "Suriname",

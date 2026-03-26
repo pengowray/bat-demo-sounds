@@ -1,10 +1,11 @@
 {
   "_app": {
     "blake3": "cf60e4c10d39070c17c533a43a29d926ade505cad29845e8abd9c0a8d7b6ac87",
+    "content_hash": "cf60e4c10d39070c17c533a43a29d926ade505cad29845e8abd9c0a8d7b6ac87",
     "file_size": 326031,
     "retrieved": "2026-03-23",
     "sha256": "e0d51a3065c8327bed0e40c6cf2cb2775fdb321d14418504431bbef5d68219bf",
-    "spot_hash": "69a08101dd68dd8a48a89447e0a0f919c68df30045f04e94ce7187886df6d2c5"
+    "spot_hash_b3": "8f663ed852474b6bf48dbb36cc18348925aacc637f0da6bc8a6c4cd1e812d79b"
   },
   "attribution": "Carlos Bocos, XC947592. Accessible at www.xeno-canto.org/947592",
   "cnt": "Madagascar",
