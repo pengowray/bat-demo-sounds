@@ -1,6 +1,6 @@
-# bat-demo-sounds
+# Bat Demo Sounds Archive
 
-Example sound files for [Oversample](https://oversample.com), a bat call analysis tool.
+Demo audio files for **[Oversample](https://oversample.com)**, a bat call analysis tool.
 
 ## File conventions
 
