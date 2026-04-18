@@ -1,11 +1,13 @@
 {
   "_app": {
     "blake3": "0e9acb40d680d6b86bc1fd126ce314af9b1e565d3e491672b62e0e7b01972956",
-    "content_hash": "0e9acb40d680d6b86bc1fd126ce314af9b1e565d3e491672b62e0e7b01972956",
+    "content_hash": "7880b5a282f2776baafecf8f9b9db234d50d598320b9b9c0c42a181e77eff89a",
+    "data_offset": 4096,
+    "data_size": 736896,
     "file_size": 741583,
     "retrieved": "2026-02-26",
     "sha256": "a8ba737b7bb633c67f71c9c65be8a192fe0165c066518cac427d266da4a50d84",
-    "spot_hash_b3": "a8aa771a4eeeb48093d5e011bcbbb88762e543653d45c6c4b34f3d6eacd20684"
+    "spot_hash_b3": "e4d437d37188ee36f73bd311ebc1acef12b2137bf6a37fa85114f7168aa634b1"
   },
   "also": [],
   "alt": "0",

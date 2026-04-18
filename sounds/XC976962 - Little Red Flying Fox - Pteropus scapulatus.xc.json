@@ -1,11 +1,13 @@
 {
   "_app": {
     "blake3": "9d4e8e74a76efd9028d2dbb1e997d30771df01bce329b090ebd0218ffe77882b",
-    "content_hash": "9d4e8e74a76efd9028d2dbb1e997d30771df01bce329b090ebd0218ffe77882b",
+    "content_hash": "dfa306ffa72837570c7ee886591ff9d33d2370e5039e21c6f01e392252cff0a9",
+    "data_offset": 4096,
+    "data_size": 1034366,
     "file_size": 1039110,
     "retrieved": "2026-03-23",
     "sha256": "f110d32357716e16c3f93fbd397cceaa5523a46ef1f8931a28c364fb4a9ce20c",
-    "spot_hash_b3": "faae248a86613c921e43e298289f423c57dc76b28c54d9ebe809904746daeb69"
+    "spot_hash_b3": "d52948fa6b5545c2604ba30220b56a323e7667e4e03d50460667f042e72bca5d"
   },
   "also": [
     "Manorina melanocephala",
